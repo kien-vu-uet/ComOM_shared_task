@@ -163,3 +163,4 @@ cython_debug/
 /multi_stage_approach/PreTrainModel/*
 /multi_stage_approach/ModelResult/*
 /pretrain_model/*
+/multi_stage_approach/result.csv
