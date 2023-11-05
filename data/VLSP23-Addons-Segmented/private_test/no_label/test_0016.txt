@@ -1,0 +1,138 @@
+title : So_sánh Samsung Galaxy M11 , Redmi_Note 8 và Realme_Narzo 10 	0
+[[];[];[];[];[]]
+alt : Redmi_Note 8 vs Realme_Narzo 10 và Samsung Galaxy M11 	0
+[[];[];[];[];[]]
+des : Redmi_Note 8 vs Realme_Narzo 10 và Samsung Galaxy M11 	0
+[[];[];[];[];[]]
+Samsung Galaxy M11 là một điện_thoại thông_minh mới của công_ty Hàn_Quốc trên thị_trường . 	0
+[[];[];[];[];[]]
+Smartphone này sẽ được sắp_xếp ở trong phân khúc tương_tự như Xiaomi_Redmi_Note 8 và Realme_Narzo 10 . 	0
+[[];[];[];[];[]]
+Với màn_hình Infinity-O , chip Qualcomm_Snapdragon , 3 camera phía sau và dung_lượng pin lớn , Galaxy M11 có_thể cạnh_tranh với hai đổi thủ kể trên hay không ? 	0
+[[];[];[];[];[]]
+Hãy cùng FPT Shop tìm_hiểu trong bài viết so_sánh thông_số kỹ_thuật dưới đây nhé . 	0
+[[];[];[];[];[]]
+Thiết_kế và hiển_thị 	0
+[[];[];[];[];[]]
+alt : Samsung Galaxy M11 	0
+[[];[];[];[];[]]
+des : Samsung Galaxy M11 	0
+[[];[];[];[];[]]
+Samsung Galaxy M11 có thân máy bằng polycarbonate và một màn_hình LCD kích_thước 6,4 inch , độ_phân_giải HD + , camera đục lỗ . 	0
+[[];[];[];[];[]]
+Ở phía sau , điện_thoại có ba camera và máy_quét vân tay điện_dung . 	0
+[[];[];[];[];[]]
+Máy cũng có giắc cắm tai nghe 3,5 mm ở cạnh trên , nút nguồn và nút tăng giảm âm_lượng ở cạnh bên phải , loa ngoài và cổng sạc micro-USB ở cạnh dưới . 	0
+[[];[];[];[];[]]
+alt : Redmi_Note 8 	0
+[[];[];[];[];[]]
+des : Redmi_Note 8 	0
+[[];[];[];[];[]]
+Còn đối_với Redmi_Note 8 , nó có thiết_kế bánh cao_cấp hơn hẳn với mặt lưng kính và màn_hình LCD kích_thước 6,3 inch với độ_phân_giải Full_HD + . 	0
+[[];[];[];[];[]]
+Máy có 4 camera ở phía sau , cảm_biến hồng_ngoại và mic ở cạnh trên , giắc cắm tai nghe 3.5 mm cùng với loa ngoài và cổng sạc USB-C ở cạnh dưới . 	0
+[[];[];[];[];[]]
+Nút chỉnh âm_lượng và nút nguồn được đặt ở bên cạnh phải , giống như Samsung Galaxy M31 . 	0
+[[];[];[];[];[]]
+alt : Realme_Narzo 10 	0
+[[];[];[];[];[]]
+des : Realme_Narzo 10 	0
+[[];[];[];[];[]]
+Realme_Narzo 10 được trang_bị một màn_hình LCD kích_thước 6,5 inch , độ_phân_giải HD + và một notch giọt nước . 	0
+[[];[];[];[];[]]
+Thiết_kế của chiếc máy này được lấy cảm_hứng từ Realme_X_Master_Edition ra_mắt vào năm_ngoái . 	0
+[[];[];[];[];[]]
+Mặt lưng của điện_thoại khá độc_đáo với hai tông màu pha_trộn lẫn nhau và thiết_lập 4 camera sau được sắp_xếp theo chiều dọc ở góc bên trái . 	0
+[[];[];[];[];[]]
+Realme_Narzo 10 có nút chỉnh âm_lượng ở cạnh bên trái và nút nguồn ở bên cạnh phải . 	0
+[[];[];[];[];[]]
+Cạnh dưới có cổng USB Type-C , loa ngoài và giắc cắm tai nghe 3,5 mm . 	0
+[[];[];[];[];[]]
+Bộ_xử_lý và phần_mềm 	0
+[[];[];[];[];[]]
+alt : Samsung Galaxy M11 	0
+[[];[];[];[];[]]
+des : Samsung Galaxy M11 	0
+[[];[];[];[];[]]
+Samsung Galaxy M11 được trang_bị chip xử_lý Qualcomm_Snapdragon 450 kết_hợp với 4GB RAM và 64GB lưu_trữ ở   bên trong . 	0
+[[];[];[];[];[]]
+Bộ_nhớ của máy có_thể được mở_rộng thêm lên tới 512GB bằng thẻ nhớ microSD . 	0
+[[];[];[];[];[]]
+Về phần_mềm , điện_thoại chạy giao_diện người dùng One_UI 2 dựa trên Android 10 . 	0
+[[];[];[];[];[]]
+alt : Redmi_Note 8 	0
+[[];[];[];[];[]]
+des : Redmi_Note 8 	0
+[[];[];[];[];[]]
+Redmi_Note 8 được trang_bị chip xử_lý Qualcomm_Snapdragon 665 mạnh hơn hẳn so với Galaxy M11 . 	0
+[[];[];[];[];[]]
+Chip này được hỗ_trợ bởi tối_đa 6GB RAM và 128GB dung_lượng lưu_trữ có_thể mở_rộng thêm lên tới 512GB . 	0
+[[];[];[];[];[]]
+Máy được cài sẵn MIUI 11 dựa trên Android 10 . 	0
+[[];[];[];[];[]]
+alt : Realme_Narzo 10 	0
+[[];[];[];[];[]]
+des : Realme_Narzo 10 	0
+[[];[];[];[];[]]
+Mặt_khác , Realme_Narzo 10 được trang_bị chip xử_lý MediaTek tập_trung vào trải_nghiệm chơi game là Helio G80 . 	0
+[[];[];[];[];[]]
+Chip được kết_hợp với 4GB RAM và 128GB lưu_trữ . 	0
+[[];[];[];[];[]]
+Điện_thoại chạy giao_diện người dùng Realme_UI với Android 10 . 	0
+[[];[];[];[];[]]
+Camera 	0
+[[];[];[];[];[]]
+alt : Samsung Galaxy M11 	0
+[[];[];[];[];[]]
+des : Samsung Galaxy M11 	0
+[[];[];[];[];[]]
+Nói tới nhiếp_ảnh , Samsung Galaxy M11 có ba camera ở phía sau với cảm_biến chính 13MP ( f / 1.8 ) , ống_kính góc siêu rộng 5MP ( f / 2.2 ) và cảm_biến độ sâu 2MP ( f / 2.4 ) để chụp ảnh chân_dung . 	0
+[[];[];[];[];[]]
+Ở phía trước , chiếc máy này có một camera 8MP để chụp ảnh selfie và trò_chuyện video . 	0
+[[];[];[];[];[]]
+alt : Redmi_Note 8 	0
+[[];[];[];[];[]]
+des : Redmi_Note 8 	0
+[[];[];[];[];[]]
+Mặt_khác , Redmi_Note 8 và Realme_Narzo 10 có thiết_lập 4 camera ở phía sau . 	0
+[[];[];[];[];[]]
+Thiết_lập đó cùng có cảm_biến chính 48MP với khẩu_độ f / 1.8 , cảm_biến góc cực rộng 8MP , cảm_biến độ sâu 2MP để chụp chân_dung và ống_kính macro 2MP . 	0
+[[];[];[];[];[]]
+Ở phía trước , điện_thoại của Realme có camera 16MP f / 2.0 , trong khi smartphone của Xiaomi có camera 13MP f / 2.0 để chụp ảnh selfie . 	0
+[[];[];[];[];[]]
+Pin và các tính_năng khác 	0
+[[];[];[];[];[]]
+alt : Realme_Narzo 10 	0
+[[];[];[];[];[]]
+des : Realme_Narzo 10 	0
+[[];[];[];[];[]]
+Samsung Galaxy M11 sở_hữu pin 5.000 mAh với hỗ_trợ sạc nhanh 15W qua cổng micro USB , trong khi Redmi_Note 8 có pin 4.000 mAh và hỗ_trợ sạc nhanh 18W qua cổng Type-C . 	0
+[[];[];[];[];[]]
+Narzo 10 có pin 5.000 mAh và công_nghệ sạc nhanh 18W qua cổng Type-C . 	0
+[[];[];[];[];[]]
+alt : Redmi_Note 8 	0
+[[];[];[];[];[]]
+des : Redmi_Note 8 	0
+[[];[];[];[];[]]
+Cả ba điện_thoại đều có máy_quét vân tay ở mặt lưng phía sau để bảo_vệ dữ_liệu người dùng và kết_nối như 4G LTE , khe cắm SIM kép , Wi-Fi , Bluetooth 5.0 , GPS / GLONASS cùng giắc cắm tai nghe 3,5 mm chuyên_dụng cho âm_thanh . 	0
+[[];[];[];[];[]]
+Nói_chung , chúng có rất ít khác_biệt về mảng này . 	0
+[[];[];[];[];[]]
+Kết_luận 	0
+[[];[];[];[];[]]
+alt : Realme_Narzo 10 	0
+[[];[];[];[];[]]
+des : Realme_Narzo 10 	0
+[[];[];[];[];[]]
+Xem qua phần so_sánh thông_số kỹ_thuật ở trên , Samsung Galaxy M11 dường_như bị áp_đảo so với Realme_Narzo 10 và Redmi_Note 8 . 	0
+[[];[];[];[];[]]
+Cả hai điện_thoại từ thương_hiệu Xiaomi và Realme đều có phần_cứng mạnh hơn và thiết_lập camera tốt hơn . 	0
+[[];[];[];[];[]]
+Tuy_nhiên , smartphone của Samsung có_thể chiến_thắng nhờ thiết_kế màn_hình đục lỗ đẹp_mắt hơn , bởi_vì bạn khó có_thể kiếm được thiết_bị có giá thấp như_vậy được trang_bị màn_hình đục lỗ . 	0
+[[];[];[];[];[]]
+Bạn nghĩ sao về nhận_xét này ? 	0
+[[];[];[];[];[]]
+Hãy chia_sẻ suy_nghĩ với FPT Shop ở phần bình_luận cuối bài viết nhé . 	0
+[[];[];[];[];[]]
+Theo 91mobiles 	0
+[[];[];[];[];[]]

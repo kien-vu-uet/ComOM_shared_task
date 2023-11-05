@@ -1,0 +1,108 @@
+title : Realme X7 đọ sức với Xiaomi_Mi 10i và Samsung Galaxy M51 	0
+[[];[];[];[];[]]
+Thiết_kế 	0
+[[];[];[];[];[]]
+alt : So_sánh thiết_kế 	0
+[[];[];[];[];[]]
+des : So_sánh thiết_kế 	0
+[[];[];[];[];[]]
+Về thiết_kế , cả ba điện_thoại này sở_hữu ngôn_ngữ thiết_kế khá khác_biệt nhau . 	0
+[[];[];[];[];[]]
+Trong đó , Realme X7 cho sở_hữu ngoại_hình ấn_tượng nhất . 	0
+[[];[];[];[];[]]
+Smartphone này đi kèm với một lớp hoàn_thiện bằng nhựa bóng ở mặt sau_cùng với thiết_lập ba camera và dòng khẩu_hiệu lớn “ Dare to Leap ” . 	0
+[[];[];[];[];[]]
+Di_động Realme còn có sẵn trong các tuỳ chọn màu Space_Silver và Nebula đẹp_mắt . 	0
+[[];[];[];[];[]]
+Còn Xiaomi_Mi 10i có thiết_kế màn_hình “ đục lỗ ” bắt_mắt nhưng nhiều người có_thể sẽ không thích mô-đun camera hình ở phía sau của điện_thoại này . 	0
+[[];[];[];[];[]]
+Chưa hết , chiếc smartphone của Xiaomi hơi cồng_kềnh vì nó nặng 214.5 gram và không phải là tuỳ chọn kiểu_dáng đẹp nhất hiện có với độ dày 9mm . 	0
+[[];[];[];[];[]]
+Galaxy M51 có ngôn_ngữ thiết_kế tương_tự như các điện_thoại thông_minh Samsung khác trong tầm giá này . 	0
+[[];[];[];[];[]]
+Điện_thoại sử_dụng lớp hoàn_thiện bằng glasstic như flagship Galaxy S21 . 	0
+[[];[];[];[];[]]
+Điều gây ngạc_nhiên là chiếc điện_thoại này có trọng_lượng khá nhẹ là 213 gram mặc_dù có pin dung_lượng lớn 7,000 mAh . 	0
+[[];[];[];[];[]]
+Màn_hình 	0
+[[];[];[];[];[]]
+alt : So_sánh màn_hình 	0
+[[];[];[];[];[]]
+des : So_sánh màn_hình 	0
+[[];[];[];[];[]]
+Đến với màn_hình , Realme X7 cung_cấp tấm nền AMOLED 6.44 inch với độ_phân_giải Full-HD + ( 2,400 x 1,080 pixel ) , có độ sáng 600 nits , tỷ_lệ màn_hình trên thân máy là 90.8% , tỷ_lệ tương_phản 1.000.000 : 1 và tốc_độ lấy mẫu cảm_ứng 180Hz . Đáng tiếc là điện_thoại này chỉ hỗ tần_số quét 60Hz tiêu_chuẩn . 	0
+[[];[];[];[];[]]
+Trong khi đó , Xiaomi_Mi 10i 5G có màn_hình 6.67 inch với độ_phân_giải Full-HD + ( 2,400 x 1,080 pixel ) . 	0
+[[];[];[];[];[]]
+Chiếc điện_thoại này đi kèm với hỗ_trợ HDR10 + , 84% gam màu NTSC và được bảo_vệ bởi kính cường_lực Corning_Gorilla_Glass 5 . 	0
+[[];[];[];[];[]]
+Màn_hình này còn gây ấn_tượng với tần_số quét 120Hz siêu mượt . 	0
+[[];[];[];[];[]]
+Samsung Galaxy M51 có màn_hình Super_AMOLED_Plus_Infinity O 6.67 inch với độ_phân_giải 1,080 x 2,340 pixel , tỷ_lệ khung hình 20 : 9 , tốc_độ làm mới 60Hz , mật_độ điểm_ảnh 386 ppi và độ sáng tối_đa 420 nits . 	0
+[[];[];[];[];[]]
+Nhìn_chung , nếu bạn tìm_kiếm một chiếc điện_thoại có màn_hình AMOLED chất_lượng , hiển_thị màu_sắc rực_rỡ thì Galaxy M51 và Realme X7 có_thể khiến bạn thích_thú . 	0
+[[];[];[];[];[]]
+Tuy_nhiên , nếu bạn muốn tốc_độ làm tươi màn_hình cao hơn thì Mi 10i là lựa_chọn hoàn_hảo cho bạn . 	0
+[[];[];[];[];[]]
+Hiệu_suất 	0
+[[];[];[];[];[]]
+alt : So_sánh hiệu_năng 	0
+[[];[];[];[];[]]
+des : So_sánh hiệu_năng 	0
+[[];[];[];[];[]]
+Realme X7 được trang_bị chipset MediaTek_Dimensity 800U đi kèm dung_lượng RAM 8GB và bộ_nhớ_trong 128GB . 	0
+[[];[];[];[];[]]
+Xiaomi_Mi 10i 5G sử_dụng SoC_Qualcomm_Snapdragon 750G 5G cùng với GPU Adreno 619 , có RAM lên đến 8GB và bộ_nhớ_trong 128GB . 	0
+[[];[];[];[];[]]
+Đến với Galaxy M51 , chiếc điện_thoại này được trang_bị bộ_vi_xử_lý Qualcomm_Snapdragon 730G . 	0
+[[];[];[];[];[]]
+Nó cũng cung_cấp lên đến 8GB RAM và 128GB bộ_nhớ_trong . 	0
+[[];[];[];[];[]]
+Do_đó , cuộc_chiến thực_sự về hiệu_năng là giữa chipset MediaTek_Dimensity 800U và Snapdragon 750G 5G . 	0
+[[];[];[];[];[]]
+Cả hai SoC đều cung_cấp hiệu_suất tốt hơn nhiều so với các chipset khác có sẵn trong phân khúc giá và hứa_hẹn đáp_ứng tốt hầu_hết các nhu_cầu sử_dụng hàng ngày của người dùng . 	0
+[[];[];[];[];[]]
+Máy_ảnh 	0
+[[];[];[];[];[]]
+alt : So_sánh camera 	0
+[[];[];[];[];[]]
+des : So_sánh camera 	0
+[[];[];[];[];[]]
+Về khả_năng nhiếp_ảnh , Realme X7 sử_dụng thiết_lập ba camera với ống_kính chính 64MP với khẩu_độ f / 1.8 , ống_kính góc siêu rộng 8MP với FoV 119 độ và camera chụp macro 2MP . 	0
+[[];[];[];[];[]]
+Ở mặt trước , điện_thoại này có một camera 16MP để chụp ảnh “ tự sướng ” và gọi video call . 	0
+[[];[];[];[];[]]
+Xiaomi_Mi 10i 5G là điện_thoại thông_minh đầu_tiên trong phân khúc này có camera sau 108MP . 	0
+[[];[];[];[];[]]
+Điều này đi kèm với một ống_kính góc siêu rộng 8MP , một ống_kính macro 2MP và cảm_biến độ sâu 2MP . 	0
+[[];[];[];[];[]]
+Điện_thoại có camera trước 16MP với khẩu_độ f / 2.45 để chụp ảnh “ tự sướng ” và gọi video call . 	0
+[[];[];[];[];[]]
+Samsung Galaxy M51 đi kèm với thiết_lập bốn camera với sự kết_hợp của ống_kính chính 64MP , ống_kính góc rộng 12MP , cảm_biến độ sâu 5MP và camera chụp macro 5MP . 	0
+[[];[];[];[];[]]
+Ở mặt trước , bạn có camera selfie 32MP để chụp ảnh “ tự sướng ” và gọi video call . 	0
+[[];[];[];[];[]]
+Pin 	0
+[[];[];[];[];[]]
+alt : Realme X7 ( ảnh 1 ) 	0
+[[];[];[];[];[]]
+des : Realme X7 ( ảnh 1 ) 	0
+[[];[];[];[];[]]
+Về pin , Realme X7 cung_cấp_viên pin 4,310 mAh với hỗ_trợ sạc nhanh 50W . 	0
+[[];[];[];[];[]]
+Xiaomi_Mi 10i 5G có pin 4,820 mAh với hỗ_trợ sạc nhanh 33W . 	0
+[[];[];[];[];[]]
+Samsung Galaxy M51 cung_cấp pin dung_lượng lớn 7,000 mAh với giải_pháp sạc nhanh 25W . 	0
+[[];[];[];[];[]]
+Kết_luận 	0
+[[];[];[];[];[]]
+alt : Xiaomi_Mi 10i 	0
+[[];[];[];[];[]]
+des : Xiaomi_Mi 10i 	0
+[[];[];[];[];[]]
+Nhìn_chung , Realme X7 cạnh_tranh gay_gắt với Xiaomi_Mi 10i 5G , trong khi nó vượt qua Galaxy M51 ở hầu_hết mọi hạng_mục . 	0
+[[];[];[];[];[]]
+Chiếc điện_thoại mới nhất của Realme đi kèm với một bộ_xử_lý tốt cùng với hỗ_trợ sạc nhanh 50W và hơn thế nữa . 	0
+[[];[];[];[];[]]
+Xiaomi_Mi 10i 5G cũng là một lựa_chọn thay_thế tốt khi bạn nhận được chipset 5G cùng với màn_hình 120Hz , ba camera sau 108MP , . . . 	0
+[[];[];[];[];[]]

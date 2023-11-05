@@ -1,0 +1,8 @@
+Canon 's new line of cameras is probably the best combination of aesthetics and functionality on the camera market today . 	1
+[[1&&Canon 2&&'s 3&&new 4&&line 5&&of 6&&cameras];[];[11&&combination 12&&of 13&&aesthetics];[10&&best];[1]]
+[[1&&Canon 2&&'s 3&&new 4&&line 5&&of 6&&cameras];[];[15&&functionality];[10&&best];[1]]
+I have owned 6 digital cameras Kodak , Olympus , 2 Sony 's , a D70 and now this one ... Best camera I 've ever used and owned . 	1
+[[20&&one];[23&&camera];[];[22&&Best];[1]]
+Another review of the photos I shot and I could n't convince myself that one camera was obviously better than the other in terms of image quality , but I could occasionally find slightly more detail in some of my Nikon shots . 	1
+[[41&&Nikon 42&&shots];[];[36&&detail];[35&&more];[1]]
+[[16&&camera];[22&&other];[26&&image 27&&quality];[10&&could 11&&n't , 19&&better];[0]]

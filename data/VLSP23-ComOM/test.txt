@@ -1,0 +1,1888 @@
+title : So sánh Samsung Galaxy S22 vs Galaxy S21 : đâu là những thay đổi đáng mong đợi ? 	0
+[[];[];[];[];[]]
+Samsung Galaxy S22 sẽ không có quá nhiều sự khác biệt với phiên bản tiền nhiệm 	1
+[[1&&Samsung 2&&Galaxy 3&&S22];[13&&phiên 14&&bản 15&&tiền 16&&nhiệm];[];[5&&không 6&&có 7&&quá 8&&nhiều 9&&sự 10&&khác 11&&biệt];[EQL]]
+Khi bạn đọc bài viết này , thời điểm Samsung Galaxy S22 chính thức ra mắt chỉ còn khoảng vài tiếng đồng hồ nữa . 	0
+[[];[];[];[];[]]
+Và chúng ta hãy cùng nhau điểm lại những thay đổi đáng chú ý nhất về bản tiêu chuẩn của dòng điện thoại này so với người tiền nhiệm Galaxy S21 . 	0
+[[];[];[];[];[]]
+alt : Samsung Galaxy S22 có rất nhiều điều khác biệt so với thế hệ S21 như màn hình 	0
+[[];[];[];[];[]]
+des : 	0
+[[];[];[];[];[]]
+Kích thước nhỏ gọn và thuận tiện hơn 	1
+[[];[];[1&&Kích 2&&thước];[3&&nhỏ 4&&gọn 5&&và 6&&thuận 7&&tiện 8&&hơn];[COM+]]
+Theo tiết lộ từ nhiều trang báo , Samsung Galaxy S22 sẽ không có sự thay đổi về mặt thiết kế so với phiên bản 2021 , thay vào đó Samsung muốn tập trung nhiều hơn về kích thước để đem đến một trải nghiệm tối ưu dành cho người dùng . 	1
+[[9&&Samsung 10&&Galaxy 11&&S22];[24&&phiên 25&&bản 26&&2021];[20&&thiết 21&&kế];[13&&không 14&&có 15&&sự 16&&thay 17&&đổi];[EQL]]
+Theo đó kích thước của mẫu điện thoại này sẽ là 146 x 70.6 x 7.6 mm , nếu so với thông số của S21 ( 151.7 x 71.2 x 7.9 mm ) thì có thể thấy ngay rằng phiên bản 2022 đã được thu nhỏ lại , ngắn và mỏng hơn đáng kể . 	1
+[[40&&phiên 41&&bản 42&&2022];[25&&S21];[];[49&&ngắn 50&&và 51&&mỏng 52&&hơn 53&&đáng 54&&kể];[COM]]
+alt : Samsung Galaxy S22 có rất nhiều điều khác biệt so với thế hệ S21 như màn 	0
+[[];[];[];[];[]]
+des : 	0
+[[];[];[];[];[]]
+Điều này sẽ giúp cho cảm giác cầm nắm và sử dụng một tay của người dùng sẽ trở nên thuận tiện hơn rất nhiều . 	1
+[[];[];[6&&cảm 7&&giác 8&&cầm 9&&nắm];[21&&thuận 22&&tiện 23&&hơn 24&&rất 25&&nhiều];[COM+]]
+[[];[];[11&&sử 12&&dụng 13&&một 14&&tay];[21&&thuận 22&&tiện 23&&hơn 24&&rất 25&&nhiều];[COM+]]
+Đánh đổi lại cho sự rút gọn đó thì màn hình của S22 sẽ nhỏ hơn so với bản tiền nhiệm nhưng đây là điều hoàn toàn có thể chấp nhận được 	1
+[[13&&S22];[19&&bản 20&&tiền 21&&nhiệm];[10&&màn 11&&hình];[15&&nhỏ 16&&hơn];[COM-]]
+Máy ảnh có sự thay đổi 	0
+[[];[];[];[];[]]
+Camera của Galaxy S22 được đánh giá là sẽ đem đến sự thay đổi lớn . 	1
+[[3&&Galaxy 4&&S22];[];[1&&Camera];[13&&thay 14&&đổi 15&&lớn];[DIF]]
+Ống kính chính sẽ được tăng từ 12MP lên thành 50MP . 	0
+[[];[];[];[];[]]
+Tuy nhiên ống kính tele sẽ bị giảm từ 64MP xuống còn 10MP , riêng ống kính góc siêu rộng vẫn được giữ nguyên 12MP . 	0
+[[];[];[];[];[]]
+alt : Samsung Galaxy S22 có rất nhiều điều khác biệt so với thế hệ S21 như máy ảnh 	0
+[[];[];[];[];[]]
+des : 	0
+[[];[];[];[];[]]
+Với cụm camera này , chúng ta sẽ khó có thể so sánh được chất lượng hình ảnh cho đến khi được trải nghiệm Galaxy S22 trên tay , nhưng ít nhất có thể đảm bảo một điều rằng về tính năng quay chụp vẫn sẽ được giữ nguyên khi chiếc flagship 2022 của Samsung vẫn có thể quay video chất lượng 8K . 	1
+[[51&&chiếc 52&&flagship 53&&2022 54&&của 55&&Samsung];[];[41&&tính 42&&năng 43&&quay 44&&chụp];[48&&giữ 49&&nguyên];[EQL]]
+Về ống kính trước , sẽ không có bất kỳ sự thay đổi nào về thông số khi chúng ta vẫn sẽ sở hữu camera selfie với độ phân giải 10MP khẩu độ f / 2.2 cùng khả năng quay video ở chất lượng 4K @ 60fps . 	1
+[[];[];[2&&ống 3&&kính 4&&trước];[7&&không 8&&có 9&&bất 10&&kỳ 11&&sự 12&&thay 13&&đổi 14&&nào 15&&về 16&&thông 17&&số];[EQL]]
+Hiệu năng mạnh mẽ 	0
+[[];[];[];[];[]]
+Một điều chắc chắn rằng Samsung Galaxy S22 sẽ được trang bị con chip mạnh mẽ nhất của Qualcomm ở thời điểm hiện tại : Snapdragon 8 Gen 1 . 	1
+[[6&&Samsung 7&&Galaxy 8&&S22];[];[13&&con 14&&chip];[15&&mạnh 16&&mẽ 17&&nhất 18&&của 19&&Qualcomm 20&&ở 21&&thời 22&&điểm 23&&hiện 24&&tại];[COM+]]
+[[26&&Snapdragon 27&&8 28&&Gen 29&&1];[];[];[15&&mạnh 16&&mẽ 17&&nhất 18&&của 19&&Qualcomm 20&&ở 21&&thời 22&&điểm 23&&hiện 24&&tại];[COM+]]
+Điều này cũng đồng nghĩa với việc xét về tốc độ xử lý tác vụ , S22 phải nhanh hơn ít nhất là 15% so với S21 vốn chỉ được cung cấp con chip Snapdragon 888 . 	1
+[[17&&S22];[27&&S21];[10&&tốc 11&&độ 12&&xử 13&&lý 14&&tác 15&&vụ];[19&&nhanh 20&&hơn 21&&ít 22&&nhất 23&&là 24&&15%];[COM+]]
+alt : Samsung Galaxy S22 có rất nhiều điều khác biệt so với thế hệ S21 như cấu hình 	0
+[[];[];[];[];[]]
+des : 	0
+[[];[];[];[];[]]
+Tuy nhiên hiện Snapdragon 8 Gen 1 đang bị xem là thiếu ổn định trên những chiếc máy Android đã ra mắt trước đó . 	0
+[[];[];[];[];[]]
+Và chúng ta sẽ phải chờ xem liệu Samsung có thể đem lại sự ổn định cho bộ vi xử lý này hay không ? 	0
+[[];[];[];[];[]]
+Pin bị cắt giảm 	0
+[[];[];[];[];[]]
+Với một kích thước thu nhỏ thì chắc chắn Galaxy S22 sẽ không thể trang bị một viên pin có cùng dung lượng với bản tiền nhiệm . 	1
+[[10&&Galaxy 11&&S22];[25&&bản 26&&tiền 27&&nhiệm];[18&&viên 19&&pin];[13&&không 14&&thể 15&&trang 16&&bị 17&&một 18&&viên 19&&pin 20&&có 21&&cùng 22&&dung 23&&lượng];[DIF]]
+Theo một số thông tin rò rỉ , viên pin của chiếc flagship đời mới này sẽ chỉ dừng ở con số 3700mAh và hỗ trợ sạc nhanh 25W mà thôi . 	0
+[[];[];[];[];[]]
+alt : Samsung Galaxy S22 có rất nhiều điều khác biệt so với thế hệ S21 như pin 	0
+[[];[];[];[];[]]
+des : 	0
+[[];[];[];[];[]]
+Nhưng điều này không có nghĩa là thời gian sử dụng của S22 sẽ ít hơn vì mức tiêu thụ điện là không giống nhau . 	1
+[[13&&S22];[];[8&&thời 9&&gian 10&&sử 11&&dụng];[4&&không 5&&có 6&&nghĩa 7&&là 8&&thời 9&&gian 10&&sử 11&&dụng 12&&của 13&&S22 14&&sẽ 15&&ít 16&&hơn];[EQL]]
+[[13&&S22];[];[18&&mức 19&&tiêu 20&&thụ 21&&điện];[23&&không 24&&giống 25&&nhau];[DIF]]
+Ngoài ra vì được trang bị cùng một công nghệ hỗ trợ sạc nhưng viên pin lại có dung lượng thấp hơn nên chắc chắn thời gian sạc của Galaxy S22 sẽ nhanh hơn . 	1
+[[30&&Galaxy 31&&S22];[];[15&&viên 16&&pin];[19&&dung 20&&lượng 21&&thấp 22&&hơn];[COM-]]
+[[30&&Galaxy 31&&S22];[];[26&&thời 27&&gian 28&&sạc];[33&&nhanh 34&&hơn];[COM+]]
+Title : Độ bền iPhone 12 Pro qua test thả rơi từ độ cao 100m : ơ mây zinh , gút chóp Apple ! 	0
+[[];[];[];[];[]]
+Một Youtuber là chủ tài khoản của kênh Versus đã tiến hành thử nghiệm độ bền iPhone 12 Pro bằng cách thả rơi chiếc điện thoại ở độ cao 100m . 	0
+[[];[];[];[];[]]
+Kết quả chắc chắn sẽ khiến nhiều bạn ngạc nhiên đấy ! 	0
+[[];[];[];[];[]]
+Bài test độ bền iPhone 12 Pro bằng cách thả rơi 100m tự do cho kết quả bất ngờ 	0
+[[];[];[];[];[]]
+Một tài khoản Youtube có tên là Versus , chuyên về review thiết bị di động , phần cứng PC và ứng dụng đã tiến hành thí nghiệm thử độ bền iPhone 12 Pro . 	0
+[[];[];[];[];[]]
+Anh treo điện thoại vào giá drone rồi điều khiển nó lên cao 300 feet ( ~ 100 m ) , sau đó lái sang trái để điện thoại trượt khỏi giá và rơi xuống . 	0
+[[];[];[];[];[]]
+Theo kết quả từ video , chúng ta dễ dàng thấy được khi rơi ở độ cao như thế , mặt sau của chiếc iPhone 12 Pro đã vỡ nát . 	0
+[[];[];[];[];[]]
+Một số vi mạch điện tử bên trong còn bị lộ ra ngoài , camera cũng không còn nguyên vẹn . 	0
+[[];[];[];[];[]]
+Tuy nhiên , màn hình iPhone vẫn hoạt động tốt . 	0
+[[];[];[];[];[]]
+Camera trước vẫn còn sử dụng được , một số tính năng như nghe , gọi vẫn không bị ảnh hưởng . 	0
+[[];[];[];[];[]]
+Tỷ lệ thiệt hại này nhẹ hơn Youtuber đã dự kiến . 	1
+[[];[];[1&&Tỷ 2&&lệ 3&&thiệt 4&&hại 5&&này];[6&&nhẹ 7&&hơn 8&&Youtuber 9&&đã 10&&dự 11&&kiến];[COM+]]
+Bài test khác dành cho màn hình Ceramic Shield trên iPhone 12 Pro 	0
+[[];[];[];[];[]]
+Trước đó , Allstate Protection Plans đã thực hiện những thử nghiệm về khả năng chống vỡ trên iPhone 12 và iPhone 12 Pro ở độ cao 1,8m . 	0
+[[];[];[];[];[]]
+Kết quả , màn hình chiếc iPhone 12 bị nứt nhỏ , các góc và cạnh đều bị trầy xước . 	0
+[[];[];[];[];[]]
+Đối với iPhone 12 Pro , chiếc smartphone này đã bị nứt ở nửa dưới của màn hình Ceramic Shield nhưng cảm ứng vẫn hoạt động . 	0
+[[];[];[];[];[]]
+Độ bền này tốt hơn đáng kể so với iPhone 11 Pro trong các thử nghiệm tương tự . 	1
+[[];[10&&iPhone 11&&11 12&&Pro];[1&&Độ 2&&bền];[4&&tốt 5&&hơn 6&&đáng 7&&kể];[COM+]]
+alt : 	0
+[[];[];[];[];[]]
+des : Công nghệ màn hình Ceremic Shield mới cho độ bền gấp 4 lần 	0
+[[];[];[];[];[]]
+Tạm kết 	0
+[[];[];[];[];[]]
+Vậy còn bạn đã sở hữu cho mình chiếc iPhone 12 mới chưa ? 	0
+[[];[];[];[];[]]
+Hãy để lại ý kiến cá nhân ở phần bình luận và cũng đừng quên theo dõi Hoàng Hà Mobile để cập nhật các tin tức công nghệ mới nhất nhé . 	0
+[[];[];[];[];[]]
+Title : So sánh iPhone 15 Plus và Google Pixel 7 Pro : Máy nào ngon hơn ? 	0
+[[];[];[];[];[]]
+Dù iPhone 15 series chưa ra mắt nhưng sự quan tâm của người dùng với các sản phẩm này chưa bao giờ hạ nhiệt . 	0
+[[];[];[];[];[]]
+Để người dùng có cái nhìn tổng quan hơn , trong nội dung bài viết này , chúng ta sẽ so sánh iPhone 15 Plus và Pixel 7 Pro qua các thông số cấu hình rò rỉ đang có . 	0
+[[];[];[];[];[]]
+alt : iphone 15 plus và google pixel 7 pro 	0
+[[];[];[];[];[]]
+des : So sánh iPhone 15 Plus và Google Pixel 7 Pro : Máy nào ngon hơn ? 	0
+[[];[];[];[];[]]
+Google gần đây vừa chính thức ra mắt điện thoại Pixel 7 Pro mới , dòng máy này sở hữu nhiều thông số kỹ thuật tuyệt vời về phần cứng cũng như màn hình , hệ thống camera tốt nhất từ trước đến nay . 	1
+[[11&&Pixel 12&&7 13&&Pro];[];[29&&phần 30&&cứng];[39&&tốt 40&&nhất 41&&từ 42&&trước 43&&đến 44&&nay];[COM+]]
+[[11&&Pixel 12&&7 13&&Pro];[];[33&&màn 34&&hình];[39&&tốt 40&&nhất 41&&từ 42&&trước 43&&đến 44&&nay];[COM+]]
+[[11&&Pixel 12&&7 13&&Pro];[];[36&&hệ 37&&thống 38&&camera];[39&&tốt 40&&nhất 41&&từ 42&&trước 43&&đến 44&&nay];[COM+]]
+Dù vậy , Pixel 7 Pro có thể sẽ phải đối đầu với iPhone 15 Plus sắp ra mắt trong năm nay . 	0
+[[];[];[];[];[]]
+Nếu đặt hai smartphone này lên bàn cân thì đâu mới là lựa chọn hoàn hảo nhất cho người dùng . 	0
+[[];[];[];[];[]]
+Màn hình iPhone 15 Plus và Google Pixel 7 Pro 	0
+[[];[];[];[];[]]
+Trước hết về mặt hiển thị , iPhone 15 Plus được đồn đoán sẽ có trang bị màn hình OLED 6,7 inch , độ phân giải 2778 x 1284 pixel , trong khi đó Pixel 7 Pro được trang bị màn hình OLED 6,67 inch với độ phân giải 3120 x 1440 pixel . 	0
+[[];[];[];[];[]]
+Màn hình của Pixel 7 Pro với các thông số như trên sẽ mang đến màn hình mới với độ tương phản cao , màu sắc trung thực hơn so với iPhone 15 Plus . 	1
+[[1&&Màn 2&&hình 3&&của 4&&Pixel 5&&7 6&&Pro];[32&&iPhone 33&&15 34&&Plus];[25&&màu 26&&sắc];[27&&trung 28&&thực 29&&hơn];[COM+]]
+Ngược lại với màn hình của iPhone 15 Plus thì sẽ cho mức độ hiển thị với độ sáng tối đa tốt hơn , hỗ trợ cho người dùng có thể thoải mái sử dụng thiết bị ngoài trời , không sợ hiện tượng nhòe mờ hay khó theo dõi thông tin hiển thị . 	1
+[[4&&màn 5&&hình 6&&của 7&&iPhone 8&&15 9&&Plus];[];[18&&độ 19&&sáng 20&&tối 21&&đa];[22&&tốt 23&&hơn];[COM+]]
+alt : so sánh iphone 15 plus và google pixel 7 pro thiết kế 	0
+[[];[];[];[];[]]
+des : Màn hình của Pixel 7 Pro sẽ mang đến màn hình mới với độ tương phản cao , màu sắc trung thực hơn so với iPhone 15 Plus 	1
+[[3&&Màn 4&&hình 5&&của 6&&Pixel 7&&7 8&&Pro];[];[21&&màu 22&&sắc];[23&&trung 24&&thực 25&&hơn];[COM+]]
+Hãng Apple còn được cho rằng sẽ trang bị tính năng ProMotion cho mẫu iPhone 15 Plus sắp ra mắt , sở hữu tần số quét màn hình lên đến 120Hz , mang lại trải nghiệm mượt mà nhất . 	0
+[[];[];[];[];[]]
+Trong khi đó , chiếc điện thoại Google mới này không có tính năng tương tự . 	1
+[[5&&chiếc 6&&điện 7&&thoại 8&&Google 9&&mới 10&&này];[];[];[11&&không 12&&có 13&&tính 14&&năng 15&&tương 16&&tự];[DIF]]
+Camera iPhone 15 Plus và Google Pixel 7 Pro 	0
+[[];[];[];[];[]]
+Cả iPhone 15 Plus và Pixel 7 Pro đều sẽ sở hữu cụm camera kép ở mặt sau . 	1
+[[2&&iPhone 3&&15 4&&Plus];[6&&Pixel 7&&7 8&&Pro];[13&&cụm 14&&camera 15&&kép 16&&ở 17&&mặt 18&&sau];[9&&đều 10&&sẽ 11&&sở 12&&hữu];[EQL]]
+Cụ thể , tin đồn cho rằng chiếc iPhone 15 Plus sẽ có cụm camera chính 12MP và camera góc siêu rộng 12MP , trong khi đó dòng Pixel 7 Pro có cụm camera chính 50MP và camera góc siêu rộng 12MP . 	0
+[[];[];[];[];[]]
+alt : so sánh iphone 15 plus và google pixel 7 pro camera 	0
+[[];[];[];[];[]]
+des : Google Pixel 7 Pro được đánh giá cao hơn ở khả năng chụp ảnh trong điều kiện ánh sáng yếu 	1
+[[3&&Google 4&&Pixel 5&&7 6&&Pro];[];[13&&khả 14&&năng 15&&chụp 16&&ảnh 17&&trong 18&&điều 19&&kiện 20&&ánh 21&&sáng 22&&yếu];[7&&được 8&&đánh 9&&giá 10&&cao 11&&hơn];[COM+]]
+Theo đánh giá chung thì Google Pixel 7 Pro được đánh giá cao hơn ở khả năng chụp ảnh trong điều kiện ánh sáng yếu cũng như máy sở hữu tính năng zoom kỹ thuật số chất lượng , đảm bảo cho ra các hình ảnh rõ nét và có mật độ chi tiết cao . 	1
+[[6&&Google 7&&Pixel 8&&7 9&&Pro];[16&&khả 17&&năng 18&&chụp 19&&ảnh 20&&trong 21&&điều 22&&kiện 23&&ánh 24&&sáng 25&&yếu];[];[10&&được 11&&đánh 12&&giá 13&&cao 14&&hơn];[COM+]]
+Pixel 7 Pro cũng được trang bị tính năng chụp ảnh đêm tốt hơn , hình ảnh độ phân giải cao và chi tiết hơn so với iPhone 15 Plus . 	1
+[[1&&Pixel 2&&7 3&&Pro];[28&&iPhone 29&&15 30&&Plus];[10&&chụp 11&&ảnh 12&&đêm];[13&&tốt 14&&hơn];[COM+]]
+[[1&&Pixel 2&&7 3&&Pro];[28&&iPhone 29&&15 30&&Plus];[16&&hình 17&&ảnh];[18&&độ 19&&phân 20&&giải 21&&cao];[COM+]]
+[[1&&Pixel 2&&7 3&&Pro];[28&&iPhone 29&&15 30&&Plus];[16&&hình 17&&ảnh];[23&&chi 24&&tiết 25&&hơn];[COM+]]
+[[16&&hình 17&&ảnh];[28&&iPhone 29&&15 30&&Plus];[18&&độ 19&&phân 20&&giải];[21&&cao];[COM+]]
+[[16&&hình 17&&ảnh];[28&&iPhone 29&&15 30&&Plus];[23&&chi 24&&tiết];[25&&hơn];[COM+]]
+Những người dùng đam mê chụp ảnh selfie hoàn toàn có thể hài lòng khi Pixel 7 Pro được trang bị tính năng chụp ảnh chân dung tuyệt vời và có hỗ trợ xóa phông ảnh ấn tượng . 	0
+[[];[];[];[];[]]
+alt : so sánh iphone 15 plus và google pixel 7 pro cấu hình 	0
+[[];[];[];[];[]]
+des : Pixel 7 Pro cũng được trang bị tính năng chụp ảnh đêm tốt hơn , hình ảnh độ phân giải cao và chi tiết hơn 	0
+[[];[];[];[];[]]
+Riêng dòng iPhone 15 Plus sẽ tốt hơn ở mảng chụp ảnh với giao diện đơn giản và trực quan . 	1
+[[3&&iPhone 4&&15 5&&Plus];[];[11&&chụp 12&&ảnh];[7&&tốt 8&&hơn];[COM+]]
+Tùy theo nhu cầu sử dụng mà người dùng có thể chọn mẫu máy phù hợp nhất nhưng nhìn chung , cả hai camera của hai dòng máy mới nên trên đều đảm bảo chất lượng , xử lý hầu hết mọi tác vụ nhiếp ảnh . 	0
+[[];[];[];[];[]]
+Hiệu năng iPhone 15 Plus và Google Pixel 7 Pro 	0
+[[];[];[];[];[]]
+iPhone 15 Plus và Pixel 7 Pro đều được trang bị chip xử lý mạnh mẽ và bộ nhớ RAM cao cấp . 	0
+[[];[];[];[];[]]
+iPhone 15 Plus được trang bị chip A17 Bionic của Apple , trong khi Pixel 7 Pro được trang bị chip Snapdragon 895 của Qualcomm . 	0
+[[];[];[];[];[]]
+Cả hai chipset này đều cung cấp hiệu năng mạnh mẽ và tốc độ xử lý nhanh chóng , mượt mà . 	0
+[[];[];[];[];[]]
+Tuy nhiên , con chip trên dòng iPhone được đánh giá cao hơn ở khả năng tối ưu hiệu suất và ổn định hơn . 	1
+[[4&&con 5&&chip 6&&trên 7&&dòng 8&&iPhone];[];[15&&khả 16&&năng 17&&tối 18&&ưu 19&&hiệu 20&&suất];[12&&cao 13&&hơn];[COM+]]
+[[4&&con 5&&chip 6&&trên 7&&dòng 8&&iPhone];[];[];[22&&ổn 23&&định 24&&hơn];[COM+]]
+Do Apple thiết kế phần cứng và phần mềm của thiết bị của mình , cho phép tối ưu hóa tốt hơn hiệu năng của thiết bị . 	0
+[[];[];[];[];[]]
+Còn Pixel 7 Pro chạy trên hệ điều hành Android , có thể còn gặp phải một số vấn đề về tối ưu hóa hiệu năng . 	0
+[[];[];[];[];[]]
+alt : so sánh iphone 15 plus và google pixel 7 pro pin 	0
+[[];[];[];[];[]]
+des : iPhone 15 Plus và Pixel 7 Pro đều được trang bị chip xử lý mạnh mẽ và bộ nhớ RAM cao cấp 	0
+[[];[];[];[];[]]
+Mọi người chọn mua smartphone cũng rất quan tâm tới mức giá bán hiện tại . 	0
+[[];[];[];[];[]]
+Trong thời điểm này , iPhone 15 Plus dự kiến có giá bán khoảng 23,5 triệu đồng , cao hơn so với Pixel 7 Pro giá khoảng 21 triệu đồng . 	0
+[[];[];[];[];[]]
+Mức chênh lệch có thể nhận thấy là không nhiều , nhưng chúng ta cần chờ ngày iPhone 15 series ra mắt chính thức để biết được giá chính xác . 	0
+[[];[];[];[];[]]
+title : So sánh tốc độ sạc có dây trên Galaxy S23 series và dòng iPhone 14 , Pixel 7 , OnePlus 11 	0
+[[];[];[];[];[]]
+Tốc độ sạc nhanh có dây trên Galaxy S23 series như thế nào ? 	0
+[[];[];[];[];[]]
+Nếu bạn đang thắc mắc về khả năng sạc nhanh của Galaxy S23 series thì đừng bỏ qua bài viết này nhé ! 	0
+[[];[];[];[];[]]
+Đặc biệt là phiên bản Galaxy S23 Ultra được xem là một trong những điện thoại Android tốt nhất hiện nay . 	0
+[[];[];[];[];[]]
+Trên thị trường hiện nay có nhiều thiết bị cung cấp tốc độ sạc lên đến 100W . 	0
+[[];[];[];[];[]]
+Tuy nhiên , Galaxy S23 Plus và Galaxy S23 Ultra chỉ được hỗ trợ sạc với công suất 45W ở mức trung bình . 	0
+[[];[];[];[];[]]
+Trong khi đó , phiên bản Galaxy S23 nhỏ gọn hơn hỗ trợ sạc có dây ở mức 25W . 	1
+[[5&&phiên 6&&bản 7&&Galaxy 8&&S23];[];[];[9&&nhỏ 10&&gọn 11&&hơn];[COM]]
+Hãy so sánh tốc độ sạc có dây của dòng Galaxy S23 với các đối thủ lớn nhất và người tiền nhiệm của chúng ! 	0
+[[];[];[];[];[]]
+So sánh sạc dòng Galaxy S23 	0
+[[];[];[];[];[]]
+Đối với tất cả các thử nghiệm sạc pin thường được sử dụng bộ sạc đi kèm trong hộp của mỗi điện thoại hoặc bộ sạc do nhà sản xuất khuyên dùng khi không có phụ kiện nào như vậy đi kèm với thiết bị . 	0
+[[];[];[];[];[]]
+Bộ sạc của bên thứ 3 sẽ không được áp dụng trong thử nghiệm này , hoặc bộ sạc không được hỗ trợ để kiểm tra tốc độ sạc trên bất kỳ điện thoại nào . 	0
+[[];[];[];[];[]]
+Vậy dòng Galaxy S23 sạc nhanh như thế nào ? 	0
+[[];[];[];[];[]]
+Trước hết , chúng ta hãy cùng tìm hiểu những giải pháp sạc mà thiết bị mang đến : 	0
+[[];[];[];[];[]]
+alt : Tốc độ sạc nhanh có dây trên Galaxy S23 series như thế nào ? 	0
+[[];[];[];[];[]]
+des : 	0
+[[];[];[];[];[]]
+Tốc độ sạc này giống với dòng Galaxy S22 , vì vậy không có sự cải thiện nào về tốc độ sạc . 	1
+[[];[7&&dòng 8&&Galaxy 9&&S22];[1&&Tốc 2&&độ 3&&sạc 4&&này];[5&&giống];[EQL]]
+Khi khám phá các kết quả bên dưới , chúng ta chắc chắn có thể thấy rằng dòng Galaxy S23 sạc nhanh như dòng Galaxy S22 , mất khoảng một giờ để sạc đầy mỗi chiếc Galaxy mới . 	1
+[[19&&Galaxy 20&&S23];[25&&Galaxy 26&&S22];[21&&sạc];[22&&nhanh 23&&như];[EQL]]
+Trong khi đó , OnePlus 11 với bộ sạc 80W có thể sạc đầy trong 32 phút , khiến nó trở thành một trong những điện thoại sạc nhanh nhất hiện có ở Mỹ . 	1
+[[20&&nó];[];[28&&sạc];[29&&nhanh 30&&nhất 31&&hiện 32&&có 33&&ở 34&&Mỹ];[COM+]]
+Ở các thị trường khác bạn sẽ nhận được bộ sạc 100W , cho phép OnePlus 11 có thể sạc đầy trong vài phút . 	0
+[[];[];[];[];[]]
+Tất nhiên , Galaxy S mới sẽ có lợi thế hơn khi so sánh với iPhone 14 Pro và iPhone 14 Pro Max của Apple , hỗ trợ sạc có dây lên đến 27W và mất nhiều thời gian hơn từ 30 đến 40 phút để được sạc đầy . 	1
+[[4&&Galaxy 5&&S 6&&mới];[16&&iPhone 17&&14 18&&Pro];[29&&sạc 30&&có 31&&dây];[9&&lợi 10&&thế 11&&hơn];[COM+]]
+[[4&&Galaxy 5&&S 6&&mới];[20&&iPhone 21&&14 22&&Pro];[29&&sạc 30&&có 31&&dây];[9&&lợi 10&&thế 11&&hơn];[COM+]]
+Google Pixel 7 và Pixel 7 Pro hỗ trợ sạc có dây tương ứng với tốc độ 20W và 23W . 	0
+[[];[];[];[];[]]
+Điện thoại mới nhất của Google được sạc đầy trong khoảng một giờ bốn mươi phút , tốc độ khá chậm . 	0
+[[];[];[];[];[]]
+Trong 30 phút các thiết bị sạc được bao nhiêu % ? 	0
+[[];[];[];[];[]]
+Trong khoảng nửa giờ thì các thiết bị nạp được bao nhiêu % pin . 	0
+[[];[];[];[];[]]
+Mặc dù không phải là nhanh nhất mà chúng ta từng thấy , nhưng điện thoại hàng đầu mới nhất của Samsung sạc tương đối nhanh so với các đối thủ . 	1
+[[15&&điện 16&&thoại 17&&hàng 18&&đầu 19&&mới 20&&nhất 21&&của 22&&Samsung];[29&&các 30&&đối 31&&thủ];[23&&sạc];[24&&tương 25&&đối 26&&nhanh 27&&so 28&&với];[COM+]]
+Tất nhiên , chúng ta đang nói về thời gian sạc với bộ sạc 45W nhanh hơn trên Galaxy S23 + và Galaxy S23 Ultra . 	1
+[[];[19&&Galaxy 20&&S23 21&&+];[9&&thời 10&&gian 11&&sạc];[16&&nhanh 17&&hơn];[COM+]]
+[[];[23&&Galaxy 24&&S23 25&&Ultra];[9&&thời 10&&gian 11&&sạc];[16&&nhanh 17&&hơn];[COM+]]
+Với một lần sạc nhanh trong 30 phút sẽ cung cấp cho bạn hơn 60% năng lượng , có thể dễ dàng kéo dài nhiều giờ sử dụng của bạn . 	0
+[[];[];[];[];[]]
+alt : Trong 30 phút các thiết bị sạc được bao nhiêu % ? 	0
+[[];[];[];[];[]]
+title : So sánh Samsung Galaxy A52s 5G và Galaxy A53 5G 	0
+[[];[];[];[];[]]
+Samsung Galaxy A52s và Samsung Galaxy A53 là hai chiếc điện thoại thuộc dòng sản phẩm Galaxy A khá " hot " của Samsung . 	0
+[[];[];[];[];[]]
+Vậy hai chiếc smartphone này có gì khác nhau và liệu có đáng để mua ? 	0
+[[];[];[];[];[]]
+Cùng Thế Giới Di Động so sánh Samsung Galaxy A52s 5G và Galaxy A53 5G nhé ! 	0
+[[];[];[];[];[]]
+Tổng quan về điện thoại Samsung Galaxy A52s 5G 	0
+[[];[];[];[];[]]
+Samsung Galaxy A52s 5G là phiên bản nâng cấp của chiếc smartphone tầm trung Samsung Galaxy A52 , được ra mắt vào tháng 09 / 2021 . 	1
+[[1&&Samsung 2&&Galaxy 3&&A52s 4&&5G];[15&&Samsung 16&&Galaxy 17&&A52];[];[5&&là 6&&phiên 7&&bản 8&&nâng 9&&cấp];[COM+]]
+Máy có thiết kế nguyên khối trẻ trung , đi kèm với màn hình Super AMOLED siêu sắc nét , có tần số quét 120 Hz . Hình ảnh hiển thị rất sống động và mượt mà . 	0
+[[];[];[];[];[]]
+Con chip Snapdragon 778G kết hợp 8 GB RAM và 128 GB bộ nhớ trong mang đến khả năng xử lý tác vụ game và tác vụ giải trí bình thường nhanh chóng . 	0
+[[];[];[];[];[]]
+alt : Samsung Galaxy A52s 5G là phiên bản nâng cấp của Galaxy A52 	0
+[[];[];[];[];[]]
+des : Samsung Galaxy A52s 5G là phiên bản nâng cấp của Galaxy A52 	0
+[[];[];[];[];[]]
+Samsung Galaxy A52s 5G là phiên bản nâng cấp của Galaxy A52 . 	1
+[[1&&Samsung 2&&Galaxy 3&&A52s 4&&5G];[11&&Galaxy 12&&A52];[];[5&&là 6&&phiên 7&&bản 8&&nâng 9&&cấp 10&&của];[COM+]]
+Tổng quan về điện thoại Samsung Galaxy A53 5G 	0
+[[];[];[];[];[]]
+Samsung Galaxy A53 5G là sản phẩm hướng đến đối tượng Gen Z năng động với nhiều cải tiến mạnh mẽ , được ra mắt vào tháng 03 / 2022 . 	0
+[[];[];[];[];[]]
+Thiết bị sở hữu màn hình Super AMOLED kích thước lớn , đạt độ phân giải Full HD + cùng tần số quét 120 Hz . từng gam màu được tái tạo chân thực nhất . 	0
+[[];[];[];[];[]]
+Con chip Exynos 1280 8 nhân do Samsung tự phát triển có hiệu năng khá mạnh mẽ , dễ dàng cân các tác vụ chơi game ở mức cài đặt đồ họa cao nhất . 	0
+[[];[];[];[];[]]
+alt : Samsung Galaxy A53 5G được ra mắt vào tháng 03 / 2022 	0
+[[];[];[];[];[]]
+des : Samsung Galaxy A53 5G được ra mắt vào tháng 03 / 2022 	0
+[[];[];[];[];[]]
+Samsung Galaxy A53 5G được ra mắt vào tháng 03 / 2022 . 	0
+[[];[];[];[];[]]
+So sánh Samsung Galaxy A52s 5G và Galaxy A53 5G 	0
+[[];[];[];[];[]]
+Thiết kế 	0
+[[];[];[];[];[]]
+Samsung Galaxy A52s và Galaxy A53 có thiết kế nguyên khối khá giống nhau , với các cạnh được bo tròn giúp dễ cầm nắm . 	1
+[[1&&Samsung 2&&Galaxy 3&&A52s];[5&&Galaxy 6&&A53];[8&&thiết 9&&kế 10&&nguyên 11&&khối];[12&&khá 13&&giống 14&&nhau];[EQL]]
+Khung và mặt lưng sử dụng chất liệu nhựa bền bỉ . 	0
+[[];[];[];[];[]]
+Tuy vậy , Galaxy A53 nhìn sẽ mỏng hơn so với Galaxy A52s , với độ dày chỉ 8.1 mm so với 8.4 mm . 	1
+[[4&&Galaxy 5&&A53];[12&&Galaxy 13&&A52s];[16&&độ 17&&dày];[8&&mỏng 9&&hơn];[COM+]]
+Ngoài ra , hai sản phẩm nhà Samsung đều đồng trọng lượng 189 g . 	1
+[[4&&hai 5&&sản 6&&phẩm 7&&nhà 8&&Samsung];[4&&hai 5&&sản 6&&phẩm 7&&nhà 8&&Samsung];[11&&trọng 12&&lượng];[9&&đều 10&&đồng 11&&trọng 12&&lượng];[EQL]]
+Galaxy A52s có 4 phiên bản màu trắng là đen , trắng , tím và xanh mint . 	0
+[[];[];[];[];[]]
+Galaxy A53 lại sở hữu các phiên bản màu trẻ trung như xanh dương , đen , cam và trắng . 	0
+[[];[];[];[];[]]
+alt : Galaxy A52s và Galaxy A53 có thiết kế nguyên khối giống nhau 	0
+[[];[];[];[];[]]
+des : Galaxy A52s và Galaxy A53 có thiết kế nguyên khối giống nhau 	1
+[[3&&Galaxy 4&&A52s];[6&&Galaxy 7&&A53];[9&&thiết 10&&kế 11&&nguyên 12&&khối];[13&&giống 14&&nhau];[EQL]]
+Galaxy A52s và Galaxy A53 có thiết kế nguyên khối giống nhau . 	1
+[[1&&Galaxy 2&&A52s];[4&&Galaxy 5&&A53];[7&&thiết 8&&kế 9&&nguyên 10&&khối];[11&&giống 12&&nhau];[EQL]]
+Màn hình 	0
+[[];[];[];[];[]]
+Thật tuyệt vời khi cả hai smartphone nhà Samsung đều được trang bị màn hình Super AMOLED kích cỡ 6.5 inch , đạt độ phân giải Full HD + và độ sáng 800 nits . 	1
+[[5&&cả 6&&hai 7&&smartphone 8&&nhà 9&&Samsung];[5&&cả 6&&hai 7&&smartphone 8&&nhà 9&&Samsung];[14&&màn 15&&hình 16&&Super 17&&AMOLED 18&&kích 19&&cỡ 20&&6.5 21&&inch];[10&&đều 11&&được 12&&trang 13&&bị];[EQL]]
+Ngoài ra , tần số quét của hai màn hình là 120 Hz . Hình ảnh cũng như những chuyển động game đều hiển thị mượt mà , chân thực và sống động nhất . 	0
+[[];[];[];[];[]]
+Kính cường lực Corning Gorilla Glass 5 gia tăng thêm độ chống chịu va đập và trầy xước cho mặt kính của Galaxy A52s 5G và Galaxy A53 5G . 	0
+[[];[];[];[];[]]
+alt : Hai sản phẩm được trang bị màn hình Super AMOLED kích cỡ 6.5 inch 	0
+[[];[];[];[];[]]
+des : Hai sản phẩm được trang bị màn hình Super AMOLED kích cỡ 6.5 inch 	0
+[[];[];[];[];[]]
+Hai sản phẩm được trang bị màn hình Super AMOLED kích cỡ 6.5 inch . 	0
+[[];[];[];[];[]]
+Camera 	0
+[[];[];[];[];[]]
+Samsung đã trang bị cho Galaxy A52s và Galaxy A53 cụm 4 camera chữ nhật ở mặt sau với độ phân giải khủng lên tới 64 MP . 	0
+[[];[];[];[];[]]
+Camera trước cũng có độ phân giải 32 MP . 	0
+[[];[];[];[];[]]
+Hai bộ camera này chính là chân ái của người dùng thích chụp ảnh , hỗ trợ cực nhiều tính năng hiện đại như chống rung quang học OIS , HDR , Time Lapse , Panorama , chụp đêm , quay video 4K , . . . 	0
+[[];[];[];[];[]]
+Hình ảnh xuất ra trên Galaxy A53 sẽ có chất lượng nhỉnh hơn nhờ thuật toán AI . 	1
+[[6&&Galaxy 7&&A53];[];[1&&Hình 2&&ảnh];[10&&chất 11&&lượng 12&&nhỉnh 13&&hơn];[COM+]]
+[[1&&Hình 2&&ảnh 3&&xuất 4&&ra 5&&trên 6&&Galaxy 7&&A53];[];[10&&chất 11&&lượng];[12&&nhỉnh 13&&hơn];[COM+]]
+Trong khí đó , tính năng tự động lấy nét và chạm lấy nét lại chỉ xuất hiện trên Galaxy A52s . 	0
+[[];[];[];[];[]]
+alt : Galaxy A52s và Galaxy A53 đều sở hữ cụm 4 camera chữ nhật ở mặt sau 	0
+[[];[];[];[];[]]
+des : Galaxy A52s và Galaxy A53 đều sở hữ cụm 4 camera chữ nhật ở mặt sau 	1
+[[3&&Galaxy 4&&A52s];[6&&Galaxy 7&&A53];[11&&cụm 12&&4 13&&camera 14&&chữ 15&&nhật 16&&ở 17&&mặt 18&&sau];[8&&đều 9&&sở 10&&hữ];[EQL]]
+Galaxy A52s và Galaxy A53 đều sở hữ cụm 4 camera chữ nhật ở mặt sau . 	1
+[[1&&Galaxy 2&&A52s];[4&&Galaxy 5&&A53];[9&&cụm 10&&4 11&&camera 12&&chữ 13&&nhật 14&&ở 15&&mặt 16&&sau];[6&&đều 7&&sở 8&&hữ];[EQL]]
+CPU 	0
+[[];[];[];[];[]]
+Samsung Galaxy A52s 5G và Galaxy A53 5G đều có 8 GB RAM và 128 GB ROM , đảm bảo sự đa nhiệm tốt và lưu trữ lượng hình ảnh hoặc tài liệu dồi dào . 	1
+[[1&&Samsung 2&&Galaxy 3&&A52s 4&&5G];[6&&Galaxy 7&&A53 8&&5G];[11&&8 12&&GB 13&&RAM];[9&&đều 10&&có];[EQL]]
+[[1&&Samsung 2&&Galaxy 3&&A52s 4&&5G];[6&&Galaxy 7&&A53 8&&5G];[15&&128 16&&GB 17&&ROM];[9&&đều 10&&có];[EQL]]
+Con chip Snapdragon 778G 5G của A52s và Exynos 1280 của A53 được đánh giá là " kẻ tám lạng người nửa cân " khi đều sở hữu 8 nhân mạnh mẽ . 	1
+[[1&&Con 2&&chip 3&&Snapdragon 4&&778G 5&&5G 6&&của 7&&A52s];[9&&Exynos 10&&1280 11&&của 12&&A53];[29&&8 30&&nhân];[26&&đều 27&&sở 28&&hữu];[EQL]]
+Hai bộ vi xử lý này tự tin đáp ứng mọi nhu cầu sử dụng cơ bản và chơi nhiều tựa game nặng nhờ vào GPU chất lượng Adreno 642L và Mali-G68 . 	0
+[[];[];[];[];[]]
+alt : Snapdragon 778G và Exynos 1280 được đánh giá là ngang tài ngang sức 	0
+[[];[];[];[];[]]
+des : Snapdragon 778G và Exynos 1280 được đánh giá là ngang tài ngang sức 	1
+[[3&&Snapdragon 4&&778G];[6&&Exynos 7&&1280];[];[12&&ngang 13&&tài 14&&ngang 15&&sức];[EQL]]
+Snapdragon 778G và Exynos 1280 được đánh giá là ngang tài ngang sức . 	1
+[[1&&Snapdragon 2&&778G];[4&&Exynos 5&&1280];[];[10&&ngang 11&&tài 12&&ngang 13&&sức];[EQL]]
+Pin và sạc 	0
+[[];[];[];[];[]]
+Galaxy A53 5G có dung lượng pin khủng 5000 mAh , nhỉnh hơn so với 4500 mAh trên Galaxy A52s . 	1
+[[1&&Galaxy 2&&A53 3&&5G];[19&&Galaxy 20&&A52s];[5&&dung 6&&lượng 7&&pin];[12&&nhỉnh 13&&hơn];[COM+]]
+Hai thiết bị đều hỗ trợ cổng sạc Type-C và áp dụng công nghệ sạc nhanh tối đa 25 W . 	1
+[[1&&Hai 2&&thiết 3&&bị];[1&&Hai 2&&thiết 3&&bị];[7&&cổng 8&&sạc 9&&Type-C];[4&&đều 5&&hỗ 6&&trợ];[EQL]]
+[[1&&Hai 2&&thiết 3&&bị];[1&&Hai 2&&thiết 3&&bị];[13&&công 14&&nghệ 15&&sạc 16&&nhanh 17&&tối 18&&đa 19&&25 20&&W];[4&&đều 5&&hỗ 6&&trợ];[EQL]]
+Điểm khác biệt thú vị nằm ở công nghệ pin . 	1
+[[];[];[8&&công 9&&nghệ 10&&pin];[1&&Điểm 2&&khác 3&&biệt];[DIF]]
+Samsung Galaxy A52s sử dụng pin Li-Po trong khi Galaxy A53 sử dụng pin Li-Ion . 	0
+[[];[];[];[];[]]
+Tuy vậy , điều này không ảnh hưởng nhiều tới thời gian sạc và độ bền pin . 	0
+[[];[];[];[];[]]
+Có thể chắc chắn rằng , hai mẫu điện thoại trên đều giúp bạn có thể sử dụng hàng giờ liên tục hoặc cả ngày dài mà không cần sạc . 	1
+[[7&&hai 8&&mẫu 9&&điện 10&&thoại 11&&trên];[];[17&&sử 18&&dụng 19&&hàng 20&&giờ 21&&liên 22&&tục 23&&hoặc 24&&cả 25&&ngày 26&&dài 27&&mà 28&&không 29&&cần 30&&sạc];[12&&đều 13&&giúp 14&&bạn];[EQL]]
+alt : Samsung Galaxy A53 5G có dung lượng pin khủng 5000 mAh 	0
+[[];[];[];[];[]]
+des : Samsung Galaxy A53 5G có dung lượng pin khủng 5000 mAh 	0
+[[];[];[];[];[]]
+Samsung Galaxy A53 5G có dung lượng pin khủng 5000 mAh . 	0
+[[];[];[];[];[]]
+Giá bán điện thoại Samsung Galaxy A52s 5G và Galaxy A53 5G bao nhiêu ? 	0
+[[];[];[];[];[]]
+Samsung Galaxy A52s 5G đang được kinh doanh tại Thế Giới Di Động với mức giá 10.990.000 đồng . 	0
+[[];[];[];[];[]]
+Đặc biệt , bạn sẽ nhận được trọn bộ khuyến mãi trị giá 750.000 đồng khi mua sản phẩm . 	0
+[[];[];[];[];[]]
+Samsung Galaxy A53 5G đang được chào bán tại Thế Giới Di Động với mức giá 9.990.000 đồng . 	0
+[[];[];[];[];[]]
+Bạn có thể lựa chọn 4 phiên bản màu sắc : Xanh dương , đen , cam và trắng . 	0
+[[];[];[];[];[]]
+alt : Samsung Galaxy A52s 5G đang được chào bán đi kèm khuyến mãi 	0
+[[];[];[];[];[]]
+des : Samsung Galaxy A52s 5G đang được chào bán đi kèm khuyến mãi 	0
+[[];[];[];[];[]]
+Samsung Galaxy A52s 5G đang được chào bán đi kèm khuyến mãi . 	0
+[[];[];[];[];[]]
+Bảng tổng hợp 	0
+[[];[];[];[];[]]
+Hướng dẫn mua điện thoại Samsung Galaxy A52s 5G và Galaxy A53 5G tại Thế Giới Di Động 	0
+[[];[];[];[];[]]
+Thế Giới Di Động là nơi cung cấp điện thoại thông minh đa dạng về kiểu dáng , thiết kế cũng như thương hiệu , phủ sóng từ phân khúc giá rẻ tới cao cấp . 	0
+[[];[];[];[];[]]
+alt : Mua Samsung Galaxy A52s và Galaxy A53 tại Thế Giới Di Động 	0
+[[];[];[];[];[]]
+des : Mua Samsung Galaxy A52s và Galaxy A53 tại Thế Giới Di Động 	0
+[[];[];[];[];[]]
+Mua Samsung Galaxy A52s và Galaxy A53 tại Thế Giới Di Động . 	0
+[[];[];[];[];[]]
+Bạn có thể mua điện thoại Samsung Galaxy A52s 5G và Galaxy A53 5G tại Thế Giới Di Động dưới 2 hình thức : mua trực tiếp và mua online . 	0
+[[];[];[];[];[]]
+Chính sách bảo hành khi mua điện thoại Samsung Galaxy A52s 5G và Galaxy A53 5G tại TGDĐ 	0
+[[];[];[];[];[]]
+Khi mua điện thoại Samsung Galaxy A52s 5G và Galaxy A53 5G tại TGDĐ , bạn sẽ nhận được chính sách bảo hành hấp dẫn sau : 	0
+[[];[];[];[];[]]
+- Hư gì đổi nấy 12 tháng tại 3192 siêu thị toàn quốc ( miễn phí tháng đầu ) . 	0
+[[];[];[];[];[]]
+- Bảo hành chính hãng điện thoại 1 năm tại các trung tâm bảo hành hãng . 	0
+[[];[];[];[];[]]
+alt : Chính sách bảo hành điện thoại tại Thế Giới Di Động 	0
+[[];[];[];[];[]]
+des : Chính sách bảo hành điện thoại tại Thế Giới Di Động 	0
+[[];[];[];[];[]]
+Chính sách bảo hành điện thoại tại Thế Giới Di Động . 	0
+[[];[];[];[];[]]
+Xin cảm ơn bạn đọc đã theo dõi bài viết trên . 	0
+[[];[];[];[];[]]
+Hy vọng việc so sánh Samsung Galaxy A52s 5G và Galaxy A53 5G đã cung cấp cho bạn những thông tin hữu ích trong việc chọn mua sản phẩm . 	0
+[[];[];[];[];[]]
+title : Trên tay & đánh giá Samsung Galaxy S22 Plus : Đây mới thực sự là dòng S ? 	0
+[[];[];[];[];[]]
+Năm nay , khi Galaxy S22 Ultra được nhiều ý kiến cho rằng đây là một chiếc Note đổi tên , thì Galaxy S22 Plus được trở lại đúng vị thế anh cả của dòng S . Sản phẩm này được đánh giá sẽ tiếp cận với nhiều đối tượng khách hàng một cách rộng rãi hơn . 	0
+[[];[];[];[];[]]
+Cùng Hoàng Hà Mobile điểm qua những yếu tố đáng chú ý của Samsung Galaxy S22 Plus nhé ! 	0
+[[];[];[];[];[]]
+Thiết kế “ anh em ” với S21 Plus nhưng cảm giác cầm nắm tuyệt vời hơn 	1
+[[8&&S21 9&&Plus];[];[11&&cảm 12&&giác 13&&cầm 14&&nắm];[15&&tuyệt 16&&vời 17&&hơn];[COM+]]
+[[];[8&&S21 9&&Plus];[1&&Thiết 2&&kế];[4&&anh 5&&em];[EQL]]
+Về tương quan , Samsung Galaxy S22 Plus khá giống với phiên bản năm 2021 , mặc dù có một số cải tiến nổi bật . 	1
+[[5&&Samsung 6&&Galaxy 7&&S22 8&&Plus];[12&&phiên 13&&bản 14&&năm 15&&2021];[2&&tương 3&&quan];[9&&khá 10&&giống];[EQL]]
+Cụ thể , hai bên cạnh viền cảm giác to hơn , dày hơn và dễ cầm nắm hơn . 	1
+[[];[];[4&&hai 5&&bên 6&&cạnh 7&&viền];[10&&to 11&&hơn];[COM]]
+[[];[];[4&&hai 5&&bên 6&&cạnh 7&&viền];[13&&dày 14&&hơn];[COM]]
+[[];[];[4&&hai 5&&bên 6&&cạnh 7&&viền];[16&&dễ 17&&cầm 18&&nắm 19&&hơn];[COM+]]
+Mặt lưng của máy thì vẫn quá tốt như từ trước tới nay . 	1
+[[4&&máy];[10&&từ 11&&trước 12&&tới 13&&nay];[1&&Mặt 2&&lưng];[8&&tốt 9&&như];[EQL]]
+Lưng của Galaxy S22 Plus rất mịn khi chạm vào mà không quá trơn . 	0
+[[];[];[];[];[]]
+Thiết kế đường viền cắt – nơi mô-đun máy ảnh năm nay cảm giác gọn gẽ và sắc nét hơn so với Galaxy S21 Plus . 	1
+[[];[23&&Galaxy 24&&S21 25&&Plus];[1&&Thiết 2&&kế 3&&đường 4&&viền 5&&cắt 6&&– 7&&nơi 8&&mô-đun 9&&máy 10&&ảnh];[15&&gọn 16&&gẽ 17&&và 18&&sắc 19&&nét 20&&hơn];[COM+]]
+alt : Hoàng Hà Mobile Samsung S22 Plus 	0
+[[];[];[];[];[]]
+des : 	0
+[[];[];[];[];[]]
+Cụm camera Galaxy S22 Plus là điểm nhấn ở mặt lưng , vẫn là thiết kế camera xếp dọc hình viên thuốc quen thuộc như trên phiên bản S21 Plus tiền nhiệm . 	1
+[[1&&Cụm 2&&camera 3&&Galaxy 4&&S22 5&&Plus];[27&&phiên 28&&bản 29&&S21 30&&Plus 31&&tiền 32&&nhiệm];[15&&thiết 16&&kế 17&&camera 18&&xếp 19&&dọc 20&&hình 21&&viên 22&&thuốc];[25&&như];[EQL]]
+Tuy nhiên , camera trên chiếc máy được sơn đồng màu với mặt lưng chứ không còn nổi bật như trên Galaxy S21 Plus . 	1
+[[4&&camera 5&&trên 6&&chiếc 7&&máy];[22&&Galaxy 23&&S21 24&&Plus];[9&&sơn];[16&&không 17&&còn 18&&nổi 19&&bật 20&&như];[COM-]]
+Nhờ vậy , tổng thể thiết kế của Galaxy S22 + được liền mạch và thống nhất hơn . 	1
+[[9&&Galaxy 10&&S22 11&&+];[];[4&&tổng 5&&thể 6&&thiết 7&&kế];[13&&liền 14&&mạch 15&&và 16&&thống 17&&nhất 18&&hơn];[COM+]]
+Người dùng không phải đắn đo việc “ màu lưng đẹp nhưng lại không thích màu cụm camera ” như năm ngoái . 	0
+[[];[];[];[];[]]
+Máy vẫn có loa kép , và cổng sạc type-C tích hợp tai nghe , hỗ trợ 2 sim . 	0
+[[];[];[];[];[]]
+alt : Hoàng Hà Mobile Samsung S22 Plus 	0
+[[];[];[];[];[]]
+des : 	0
+[[];[];[];[];[]]
+Màn hình sống động bậc nhất thế giới Android 	1
+[[1&&Màn 2&&hình];[];[];[3&&sống 4&&động 5&&bậc 6&&nhất 7&&thế 8&&giới 9&&Android];[COM+]]
+Samsung Galaxy S22 Plus sở hữu màn hình AMOLED 6.6 inch dạng phẳng , cùng viền màn hình cực sexy . 	0
+[[];[];[];[];[]]
+Mặc dù bé hơn một chút với S21 Plus , nhưng không vì thế mà ảnh hưởng đến trải nghiệm . 	1
+[[];[8&&S21 9&&Plus];[];[3&&bé 4&&hơn 5&&một 6&&chút];[COM-]]
+Phải khẳng định đây là một trong những màn hình xứng đáng điểm 10 . 	0
+[[];[];[];[];[]]
+alt : Hoàng Hà Mobile Samsung S22 Plus 	0
+[[];[];[];[];[]]
+des : 	0
+[[];[];[];[];[]]
+Màn hình này là một trong những màn hình đẹp nhất chúng ta từng thấy . 	1
+[[1&&Màn 2&&hình 3&&này];[];[];[10&&đẹp 11&&nhất];[COM+]]
+Mặc dù bị giới hạn ở độ phân giải 1080p , nhưng sự sống động và rõ ràng của màu sắc HDR10 + đã thuyết phục hoàn toàn . 	0
+[[];[];[];[];[]]
+Thực tế trong điều kiện dùng thông thường , độ phân giải 2K tỏ ra không quá khác biệt , nên 1080p là vừa đủ . 	1
+[[10&&độ 11&&phân 12&&giải 13&&2K];[];[4&&điều 5&&kiện 6&&dùng 7&&thông 8&&thường];[16&&không 17&&quá 18&&khác 19&&biệt];[EQL]]
+Độ sáng tối đa được cải thiện – công ty tuyên bố là 1750 nits – đủ sức dùng trong cả điều kiện nắng gắt . 	0
+[[];[];[];[];[]]
+Màn hình vẫn sẽ dùng tần số quét 120Hz , rất tiếc chưa đẩy lên 144Hz để chúng ta thấy sự khác biệt . 	0
+[[];[];[];[];[]]
+Cảm biến vân tay siêu âm của Samsung cung cấp không thay đổi quá nhiều so với cảm biến trong Galaxy S21 series vì nó đã vốn quá tốt , tốc độ rất nhanh nhạy và chính xác . 	1
+[[1&&Cảm 2&&biến 3&&vân 4&&tay 5&&siêu 6&&âm 7&&của 8&&Samsung];[18&&cảm 19&&biến 20&&trong 21&&Galaxy 22&&S21 23&&series];[];[11&&không 12&&thay 13&&đổi 14&&quá 15&&nhiều];[EQL]]
+Không còn đắn đo lựa chọn với Snapdragon 8 Gen 1 cực mạnh mẽ ! 	0
+[[];[];[];[];[]]
+Thật thú vị khi Samsung quyết định sử dụng chip Snapdragon cho dòng S năm nay tại Việt Nam , khi người dùng đã dần nhàm chán với Exynos . 	0
+[[];[];[];[];[]]
+Rõ ràng đây là một cú “ twist ” ngoạn mục . 	0
+[[];[];[];[];[]]
+Galaxy S22 series là thương hiệu sử dụng Snapdragon 8 Gen 1 sớm bậc nhất . 	1
+[[1&&Galaxy 2&&S22 3&&series];[];[7&&sử 8&&dụng 9&&Snapdragon 10&&8 11&&Gen 12&&1];[13&&sớm 14&&bậc 15&&nhất];[COM]]
+Con chip 1 triệu điểm Antutu này được đánh giá có khả năng “ càn quét ” mọi ứng dụng . 	0
+[[];[];[];[];[]]
+Ngoài ra , Samsung đã thực hiện một số thay đổi tinh tế đối với One UI 4.1 để cải thiện trải nghiệm theo những cách nhỏ nhưng thú vị . 	0
+[[];[];[];[];[]]
+Mọi thứ sẽ cảm thấy khá quen thuộc . 	0
+[[];[];[];[];[]]
+Galaxy S22 Plus khi được bán ra sẽ có RAM 8GB và bộ nhớ trong tối đa 256 GB . 	0
+[[];[];[];[];[]]
+Rất tiếc khi bản 12GB RAM vẫn chưa có mặt . 	0
+[[];[];[];[];[]]
+alt : Hoàng Hà Mobile Samsung S22 Plus 	0
+[[];[];[];[];[]]
+des : 	0
+[[];[];[];[];[]]
+Theo trải nghiệm nhanh , sau 30 phút chơi Call of Duty : Mobile , điện thoại sẽ ấm lên nhưng không khó chịu , không có tác động lớn đến tốc độ khung hình , ngay cả ở cài đặt đồ họa cao nhất . 	0
+[[];[];[];[];[]]
+Pin 4.500mAh chắc chắn đủ để bạn sử dụng cả ngày với nhu cầu sử dụng bình thường , vừa đủ để dùng từ sáng đến tối mới cần sạc . 	0
+[[];[];[];[];[]]
+Sạc nhanh 45W được mang lên sản phẩm , sẽ giải quyết nhu cầu sạc nhanh chóng , khoảng 30 phút để đạt được 50% . 	0
+[[];[];[];[];[]]
+Camera cải thiện chụp đêm và kế thừa ưu điểm của Galaxy S21 series ! 	0
+[[];[];[];[];[]]
+Galaxy S22 và S22 Plus khá khác biệt so với những người tiền nhiệm năm 2021 . 	1
+[[1&&Galaxy 2&&S22];[11&&những 12&&người 13&&tiền 14&&nhiệm 15&&năm 16&&2021];[];[6&&khá 7&&khác 8&&biệt];[DIF]]
+[[4&&S22 5&&Plus];[11&&những 12&&người 13&&tiền 14&&nhiệm 15&&năm 16&&2021];[];[6&&khá 7&&khác 8&&biệt];[DIF]]
+Không còn là cảm biến chính 12MP , thay vào đó là cảm biến Samsung 50MP . 	0
+[[];[];[];[];[]]
+alt : Hoàng Hà Mobile Samsung S22 Plus 	0
+[[];[];[];[];[]]
+des : 	0
+[[];[];[];[];[]]
+Với kích thước 1 / 1.56 ” , cảm biến là cảm biến lớn nhất được tìm thấy , và được ghép nối với ống kính f / 1.8 và các cải tiến về xử lý hậu kỳ , kết quả trong hầu hết mọi điều kiện ánh sáng đều rất hài lòng . 	1
+[[9&&cảm 10&&biến];[];[];[14&&lớn 15&&nhất 16&&được 17&&tìm 18&&thấy];[COM+]]
+Cảm biến lớn hơn ghi lại nhiều chi tiết và như mọi khi , quá trình xử lý màu sắc của Samsung được điều chỉnh đến mức rực rỡ và nịnh mắt . 	0
+[[];[];[];[];[]]
+Samsung cũng cải thiện hiệu suất ánh sáng yếu và đã đạt được kết quả tốt hơn từ cảm biến 50MP của S22 Plus . 	1
+[[1&&Samsung];[];[5&&hiệu 6&&suất 7&&ánh 8&&sáng 9&&yếu];[3&&cải 4&&thiện];[COM+]]
+[[23&&S22 24&&Plus];[];[19&&cảm 20&&biến 21&&50MP];[16&&tốt 17&&hơn];[COM+]]
+Ảnh chụp ban đêm rõ ràng hơn , sáng hơn và ít nhiễu hơn so với các điện thoại Samsung năm ngoái . 	1
+[[];[17&&các 18&&điện 19&&thoại 20&&Samsung 21&&năm 22&&ngoái];[1&&Ảnh 2&&chụp 3&&ban 4&&đêm];[5&&rõ 6&&ràng 7&&hơn];[COM+]]
+[[];[17&&các 18&&điện 19&&thoại 20&&Samsung 21&&năm 22&&ngoái];[1&&Ảnh 2&&chụp 3&&ban 4&&đêm];[9&&sáng 10&&hơn];[COM+]]
+[[];[17&&các 18&&điện 19&&thoại 20&&Samsung 21&&năm 22&&ngoái];[1&&Ảnh 2&&chụp 3&&ban 4&&đêm];[12&&ít 13&&nhiễu 14&&hơn];[COM+]]
+alt : Hoàng Hà Mobile Samsung S22 Plus 	0
+[[];[];[];[];[]]
+des : 	0
+[[];[];[];[];[]]
+Tính năng Ultrawide do sử dụng phần cứng tương tự như S21 Plus , nên không có quá nhiều cải tiến . 	1
+[[];[12&&S21 13&&Plus];[7&&phần 8&&cứng];[9&&tương 10&&tự];[EQL]]
+[[];[12&&S21 13&&Plus];[1&&Tính 2&&năng 3&&Ultrawide];[16&&không 17&&có 18&&quá 19&&nhiều 20&&cải 21&&tiến];[EQL]]
+Camera selfie trên hầu hết các flagship của Samsung thường là tuyệt vời và Galaxy S22 Plus không gây thất vọng . 	0
+[[];[];[];[];[]]
+Chi tiết tuyệt vời mà không bị quá sắc nét , màu sắc tuyệt vời và khả năng tách đối tượng tuyệt vời ở chế độ chân dung sẽ khiến bạn muốn chụp nhiều ảnh selfie hơn . 	0
+[[];[];[];[];[]]
+Kết luận về Samsung Galaxy S22 	0
+[[];[];[];[];[]]
+Đầu tiên cần khẳng định : Đây là một chiếc điện thoại tuyệt vời . 	0
+[[];[];[];[];[]]
+Samsung Galaxy S22 Plus là giao điểm ngọt ngào giữa kích thước nhỏ gọn của Galaxy S22 và phần cứng mạnh mẽ từ Galaxy S22 Ultra . 	0
+[[];[];[];[];[]]
+Sản phẩm có màn hình hiển thị đáng kinh ngạc , hiệu suất tốt nhất trong phân khúc . 	1
+[[1&&Sản 2&&phẩm];[];[12&&hiệu 13&&suất];[14&&tốt 15&&nhất 16&&trong 17&&phân 18&&khúc];[COM+]]
+Nếu bạn muốn một chiếc điện thoại hoạt động tốt hầu hết yêu cầu , mức giá dễ chịu , nhưng đảm bảo mọi yếu tố cao cấp và được hỗ trợ lâu dài , thì Galaxy S22 Plus là một lựa chọn nổi bật . 	0
+[[];[];[];[];[]]
+title : So sánh Samsung Galaxy A03s và Vivo Y21 , nên mua chiếc nào phù hợp ? 	0
+[[];[];[];[];[]]
+Cùng được ra mắt 08 / 2021 , Samsung Galaxy A03s và Vivo Y21 là 2 dòng smartphone phân khúc giá rẻ nhận được rất nhiều sự quan tâm của khách hàng . 	0
+[[];[];[];[];[]]
+Cùng bài viết hôm nay thực hiện một cuộc so sánh toàn diện để xem 2 sản phẩm này có gì khác biệt , dòng nào mạnh hơn và nên mua chiếc nào nhé ! 	0
+[[];[];[];[];[]]
+Thiết kế ngoại hình 	0
+[[];[];[];[];[]]
+- Thiết kế và kích thước 	0
+[[];[];[];[];[]]
+Về chiều dài và chiều rộng thì 2 dòng điện thoại đến từ 2 nhà Samsung và Vivo không có quá nhiều sự khác biệt . 	1
+[[8&&2 9&&dòng 10&&điện 11&&thoại 12&&đến 13&&từ 14&&2 15&&nhà 16&&Samsung 17&&và 18&&Vivo];[8&&2 9&&dòng 10&&điện 11&&thoại 12&&đến 13&&từ 14&&2 15&&nhà 16&&Samsung 17&&và 18&&Vivo];[2&&chiều 3&&dài];[19&&không 20&&có 21&&quá 22&&nhiều 23&&sự 24&&khác 25&&biệt];[EQL]]
+[[8&&2 9&&dòng 10&&điện 11&&thoại 12&&đến 13&&từ 14&&2 15&&nhà 16&&Samsung 17&&và 18&&Vivo];[8&&2 9&&dòng 10&&điện 11&&thoại 12&&đến 13&&từ 14&&2 15&&nhà 16&&Samsung 17&&và 18&&Vivo];[5&&chiều 6&&rộng];[19&&không 20&&có 21&&quá 22&&nhiều 23&&sự 24&&khác 25&&biệt];[EQL]]
+Tuy nhiên thì Galaxy A03s nếu so với Vivo Y21 thì dày hơn kha khá , chính vì thế trọng lượng cũng nặng hơn . 	1
+[[4&&Galaxy 5&&A03s];[9&&Vivo 10&&Y21];[];[12&&dày 13&&hơn];[COM]]
+[[4&&Galaxy 5&&A03s];[9&&Vivo 10&&Y21];[20&&trọng 21&&lượng];[23&&nặng 24&&hơn];[COM]]
+Nếu bạn là người thích một chiếc smartphone gọn nhẹ thì có lẽ sẽ cảm thấy thích thiết kế của Vivo Y21 hơn . 	0
+[[];[];[];[];[]]
+alt : Thiết kế của Galaxy A03s va Vivo Y21 	0
+[[];[];[];[];[]]
+des : Thiết kế của Galaxy A03s va Vivo Y21 	0
+[[];[];[];[];[]]
+- Màu sắc 	0
+[[];[];[];[];[]]
+Trong khi Vivo Y21 chỉ có 2 màu là đen và xanh tím vì Samsung cho khách hàng nhiều sự lựa chọn hơn với 3 màu đen , xanh dương và trắng . 	1
+[[15&&Samsung];[3&&Vivo 4&&Y21];[20&&sự 21&&lựa 22&&chọn];[19&&nhiều 20&&sự 21&&lựa 22&&chọn 23&&hơn];[COM+]]
+Đây đều là những màu sắc phổ biến , hợp với thị hiếu của nhiều đối tượng khách hàng . 	0
+[[];[];[];[];[]]
+alt : Samsung Galaxy A03s có nhiều lựa chọn màu hơn 	0
+[[];[];[];[];[]]
+des : Samsung Galaxy A03s có nhiều lựa chọn màu hơn 	1
+[[3&&Samsung 4&&Galaxy 5&&A03s];[];[8&&lựa 9&&chọn 10&&màu];[7&&nhiều 8&&lựa 9&&chọn 10&&màu 11&&hơn];[COM+]]
+- Chất liệu 	0
+[[];[];[];[];[]]
+Samsung Galaxy A03s và Vivo Y21 đều có thiết kế nguyên khối , với khung và mặt lưng làm bằng bằng nhựa . 	1
+[[1&&Samsung 2&&Galaxy 3&&A03s];[5&&Vivo 6&&Y21];[9&&thiết 10&&kế 11&&nguyên 12&&khối];[7&&đều 8&&có];[EQL]]
+Vì là phân khúc giá rẻ nên chất liệu nhựa được lựa chọn để sản xuất smartphone , tuy nhiên thì nhựa được sử dụng là loại nhựa Polycarbonate , có tính bền cao , hạn chế tối đa sự hư hỏng khi xảy ra va đập trong quá trình sử dụng . 	0
+[[];[];[];[];[]]
+alt : Mặt lưng làm từ nhựa 	0
+[[];[];[];[];[]]
+des : Mặt lưng làm từ nhựa 	0
+[[];[];[];[];[]]
+Màn hình 	0
+[[];[];[];[];[]]
+- Độ phân giải 	0
+[[];[];[];[];[]]
+Về thông số cơ bản thì màn hình của 2 dòng điện thoại này đều giống nhau . 	1
+[[7&&màn 8&&hình 9&&của 10&&2 11&&dòng 12&&điện 13&&thoại 14&&này];[7&&màn 8&&hình 9&&của 10&&2 11&&dòng 12&&điện 13&&thoại 14&&này];[2&&thông 3&&số 4&&cơ 5&&bản];[15&&đều 16&&giống 17&&nhau];[EQL]]
+[[10&&2 11&&dòng 12&&điện 13&&thoại 14&&này];[10&&2 11&&dòng 12&&điện 13&&thoại 14&&này];[7&&màn 8&&hình];[15&&đều 16&&giống 17&&nhau];[EQL]]
+Màn hình của Galaxy A03s và Vivo Y21 có tần số quét 60 Hz và độ phân giải HD + . 	0
+[[];[];[];[];[]]
+Tuy không phải là một con số quá ấn tượng nhưng vẫn ổn trong tầm giá , đủ để bạn xem ảnh , xem video , phim với hình ảnh sắc nét và mượt mà . 	0
+[[];[];[];[];[]]
+alt : Độ phân giải HD + cho chất lượng hình ảnh sắc nét 	0
+[[];[];[];[];[]]
+des : Độ phân giải HD + cho chất lượng hình ảnh sắc nét 	0
+[[];[];[];[];[]]
+- Công nghệ màn hình 	0
+[[];[];[];[];[]]
+Galaxy A03s được trang bị công nghệ màn hình PLS LCD , trong khi đó Vivo Y21 được trang bị công nghệ màn hình IPS LCD . 	0
+[[];[];[];[];[]]
+Tuy nhiên , trải nghiệm màn hình sẽ tương tự nhau , đều cho chi tiết rõ ràng , màu sắc ổn định . 	1
+[[];[];[4&&trải 5&&nghiệm 6&&màn 7&&hình];[9&&tương 10&&tự 11&&nhau];[EQL]]
+Màn hình lớn phù hợp để giải trí từ lướt Facebook , xem phim hay chơi game . 	0
+[[];[];[];[];[]]
+alt : Công nghệ màn hình cho chất lượng hiển thị tốt 	0
+[[];[];[];[];[]]
+des : Công nghệ màn hình cho chất lượng hiển thị tốt 	0
+[[];[];[];[];[]]
+Camera 	0
+[[];[];[];[];[]]
+Xét về camera thì Vivo Y21 lại chiếm ưu thế hơn , với camera trước có độ phân giải cao hơn so với Galaxy A03s . 	1
+[[5&&Vivo 6&&Y21];[24&&Galaxy 25&&A03s];[3&&camera];[8&&chiếm 9&&ưu 10&&thế 11&&hơn];[COM+]]
+[[5&&Vivo 6&&Y21];[24&&Galaxy 25&&A03s];[14&&camera 15&&trước];[17&&độ 18&&phân 19&&giải 20&&cao 21&&hơn];[COM+]]
+[[14&&camera 15&&trước];[24&&Galaxy 25&&A03s];[17&&độ 18&&phân 19&&giải];[20&&cao 21&&hơn];[COM+]]
+Nếu ưu tiên về chất lượng ảnh khi chụp thì bạn nên chọn Vivo Y21 . 	0
+[[];[];[];[];[]]
+Tuy nhiên thì , " gà chiến " đến từ phía Samsung lại có 2 tính năng cực xịn đó là Tự động lấy nét ( AF ) và Zoom kỹ thuật số . 	0
+[[];[];[];[];[]]
+Điểm này khá ấn tượng vì đây chỉ là dòng điện thoại thuộc phân khúc thấp , nhưng công nghệ chụp ảnh thì lại rất tiên tiến , phù hợp với những người thích một chiếc điện thoại có nhiều tính năng camera khác nhau . 	0
+[[];[];[];[];[]]
+alt : Ảnh chụp từ Samsung Galaxy A03s 	0
+[[];[];[];[];[]]
+des : Ảnh chụp từ Samsung Galaxy A03s 	0
+[[];[];[];[];[]]
+Thông số kỹ thuật và hiệu năng 	0
+[[];[];[];[];[]]
+Dung lượng bộ nhớ của Galaxy A03s và Vivo Y21 là tương tự nhau , vừa đủ để bạn có thể tải ứng dụng , lưu trữ file , hình ảnh , video thoải mái . 	1
+[[6&&Galaxy 7&&A03s];[9&&Vivo 10&&Y21];[1&&Dung 2&&lượng 3&&bộ 4&&nhớ];[12&&tương 13&&tự 14&&nhau];[EQL]]
+[[1&&2 2&&chipset 3&&được 4&&dùng 5&&cho 6&&2 7&&dòng 8&&máy 9&&này];[1&&2 2&&chipset 3&&được 4&&dùng 5&&cho 6&&2 7&&dòng 8&&máy 9&&này];[];[10&&đều 11&&đến 12&&từ 13&&MediaTek];[EQL]]
+[[1&&2 2&&chipset 3&&được 4&&dùng 5&&cho 6&&2 7&&dòng 8&&máy 9&&này];[1&&2 2&&chipset 3&&được 4&&dùng 5&&cho 6&&2 7&&dòng 8&&máy 9&&này];[17&&8 18&&lõi 19&&CPU];[15&&đều 16&&có];[EQL]]
+Đây được đánh giá là một mức hiệu năng ổn , có thể chạy các tác vụ một cách mượt mà , ngoài ra thì cũng phù hợp nếu bạn muốn dùng máy để chơi các game không quá nặng . 	0
+[[];[];[];[];[]]
+alt : Hình ảnh của chip MediaTek 	0
+[[];[];[];[];[]]
+des : Hình ảnh của chip MediaTek 	0
+[[];[];[];[];[]]
+Dung lượng pin và sạc 	0
+[[];[];[];[];[]]
+Cả 2 dòng máy đều có dung lượng pin rất ấn tượng , lên đến 5000 mAh , Với viên pin này thì nếu chỉ sử dụng các tác vụ bình thường thì có thể vi vu dùng từ 1 đến 2 ngày . 	1
+[[1&&Cả 2&&2 3&&dòng 4&&máy];[1&&Cả 2&&2 3&&dòng 4&&máy];[7&&dung 8&&lượng 9&&pin 10&&rất 11&&ấn 12&&tượng];[5&&đều 6&&có];[EQL]]
+Công suất sạc của Galaxy A03s thì chỉ tối đa 7.75 W , trong khi Vivo Y21 tận 18 W , điều này làm cho quá trình sạc pin của máy Samsung sẽ mất thời gian hơn . 	1
+[[31&&máy 32&&Samsung];[16&&Vivo];[28&&sạc 29&&pin];[34&&mất 35&&thời 36&&gian 37&&hơn];[COM-]]
+Tuy vậy thì chế độ tiết kiệm pin trên thiết bị này có thể giữ được mức pin không bị hao hụt quá nhiều , nên vẫn sẽ không quá bất tiện nếu bạn không cần sạc pin gấp hoặc có sử dụng kèm sạc dự phòng . 	0
+[[];[];[];[];[]]
+alt : Viên pin 5000 mAh 	0
+[[];[];[];[];[]]
+des : Viên pin 5000 mAh 	0
+[[];[];[];[];[]]
+Bảng so sánh Samsung Galaxy A03s và Vivo Y21 	0
+[[];[];[];[];[]]
+Một số câu hỏi thường gặp 	0
+[[];[];[];[];[]]
+- Giá của Samsung Galaxy A03s và Vivo Y21 là bao nhiêu ? 	0
+[[];[];[];[];[]]
+Bạn có thể tham khảo về giá của 2 sản phẩm tại Thế Giới Di Động . 	0
+[[];[];[];[];[]]
++ Samsung Galaxy A03s có giá : 3.490.000 ₫ 	0
+[[];[];[];[];[]]
++ Vivo Y21 có giá : 4.290.000 ₫ 	0
+[[];[];[];[];[]]
+- Nên sở hữu Samsung Galaxy A03s hay Vivo Y21 ? 	0
+[[];[];[];[];[]]
+Nhìn chung thì Vivo Y21 có phần nhỉnh hơn so với Samsung Galaxy A03s , cũng dễ hiểu vì sản phẩm được định giá cao hơn trên thị trường . 	1
+[[4&&Vivo 5&&Y21];[12&&Samsung 13&&Galaxy 14&&A03s];[];[8&&nhỉnh 9&&hơn];[COM+]]
+[[20&&sản 21&&phẩm];[12&&Samsung 13&&Galaxy 14&&A03s];[24&&giá];[25&&cao 26&&hơn];[COM-]]
+Tuy nhiên thì dòng máy đến từ Samsung lại được tích hợp nhiều tính năng hơn , một số trong đó là những công nghệ rất tiên tiến , vốn chỉ xuất hiện trên các thiết bị tầm trung hoặc cao cấp . 	1
+[[4&&dòng 5&&máy 6&&đến 7&&từ 8&&Samsung];[];[14&&tính 15&&năng];[11&&tích 12&&hợp 13&&nhiều 14&&tính 15&&năng 16&&hơn];[COM+]]
+Nên sẽ tùy thuộc vào vào sở thích và nhu cầu sử dụng mà bạn có thể lựa chọn sản phẩm phù hợp với mình . 	0
+[[];[];[];[];[]]
+alt : Chọn mua Samsung Galaxy A03s và Vivo Y21 tùy theo nhu cầu 	0
+[[];[];[];[];[]]
+des : Chọn mua Samsung Galaxy A03s và Vivo Y21 tùy theo nhu cầu 	0
+[[];[];[];[];[]]
+Hy vọng thông qua bài so sánh giữa Samsung Galaxy A03s và Vivo Y21 , bạn đã có thể đưa ra quyết định cho riêng mình . 	0
+[[];[];[];[];[]]
+Cảm ơn bạn đã theo dõi bài viết ! 	0
+[[];[];[];[];[]]
+Title : Review nhanh iPhone 12 mini : Chiếc điện thoại “ tí hon ” thần kì của Apple 	0
+[[];[];[];[];[]]
+iPhone 12 mini có lẽ là chiếc điện thoại mang nhiều “ ẩn số ” nhất trong lần ra mắt sản phẩm mới này của Apple . 	1
+[[1&&iPhone 2&&12 3&&mini];[];[13&&ẩn 14&&số];[11&&nhiều 12&&“ 13&&ẩn 14&&số 15&&” 16&&nhất 17&&trong 18&&lần 19&&ra 20&&mắt 21&&sản 22&&phẩm 23&&mới 24&&này 25&&của 26&&Apple];[COM]]
+Hãy cùng Hoàng Hà Mobile tìm hiểu về chiếc iPhone tí hon này nhé ! 	0
+[[];[];[];[];[]]
+Viên pin nhỏ hơn 	1
+[[];[];[1&&Viên 2&&pin];[3&&nhỏ 4&&hơn];[COM-]]
+Để iPhone nhỏ hơn , mọi thứ phải nhỏ hơn , bao gồm cả pin . 	1
+[[2&&iPhone];[];[];[3&&nhỏ 4&&hơn];[COM-]]
+[[2&&iPhone];[];[6&&mọi 7&&thứ];[9&&nhỏ 10&&hơn];[COM-]]
+iPhone 12 mini có dung lượng là 2.227mAh . Apple thống kê pin của iPhone 12 mini lên đến 15 giờ phát lại video ( cục bộ ) , 10 giờ video phát trực tuyến và lên đến 50 giờ để phát lại âm thanh . 	0
+[[];[];[];[];[]]
+alt : 	0
+[[];[];[];[];[]]
+des : Viên pin của iPhone 12 mini 	0
+[[];[];[];[];[]]
+Nếu bạn là người sử dụng iPhone hàng giờ liền trong ngày để làm việc , bạn có thể thấy dung lượng pin của iPhone 12 mini hơi ít . 	0
+[[];[];[];[];[]]
+Nhưng có một điều cần lưu ý , đó là không phải pin của iPhone 12 mini tệ , mà chỉ là nó cần được thu nhỏ lại để vừa vặn với kích thước điện thoại . 	0
+[[];[];[];[];[]]
+Camera 	0
+[[];[];[];[];[]]
+iPhone 12 mini vẫn được trang bị cụm camera kép phía sau với một ống kính góc rộng độ phân giải 12MP , khẩu độ f / 1.6 và ống kính góc siêu rộng độ phân giải 12 MP khẩu độ f / 2.4 . 	0
+[[];[];[];[];[]]
+alt : 	0
+[[];[];[];[];[]]
+des : 	0
+[[];[];[];[];[]]
+Đối với các nhu cầu sử dụng máy ảnh thông thường , camera của iPhone 12 mini được đánh giá là “ tốt ” . 	0
+[[];[];[];[];[]]
+Nếu bạn không phải là một người chụp ảnh quá nhiều , và mong muốn một chiếc máy ảnh “ ổn ” , thì bạn sẽ hài lòng với camera của iPhone 12 mini . 	0
+[[];[];[];[];[]]
+Tính di động của iPhone 12 mini 	0
+[[];[];[];[];[]]
+Thay đổi đáng kể nhất khi chuyển từ điện thoại Max sang mini là tính di động . 	0
+[[];[];[];[];[]]
+Với iPhone 11 Pro Max , bạn không bao giờ phải đặt câu hỏi liệu nó có trong túi của mình hay không . 	0
+[[];[];[];[];[]]
+Bởi lẽ , chiếc điện thoại này khá to và cồng kềnh . 	0
+[[];[];[];[];[]]
+Còn với iPhone 12 mini , sẽ có lúc bạn không chắc chắn 100% rằng nó có ở trong túi của mình . 	0
+[[];[];[];[];[]]
+Nếu bạn đang muốn một chiếc điện thoại mang kích thước iPhone SE , nhưng với công nghệ mới nhất , bạn sẽ thích iPhone 12 mini . 	0
+[[];[];[];[];[]]
+alt : 	0
+[[];[];[];[];[]]
+des : 	0
+[[];[];[];[];[]]
+Tạm kết 	0
+[[];[];[];[];[]]
+Theo một người dùng từ trang 9to5mac , anh ấy không hề thấy hối hận vì đã mua iPhone 12 mini . 	0
+[[];[];[];[];[]]
+Bởi lẽ , chiếc điện thoại mang toàn bộ công nghệ mới nhất mà lại rất nhỏ và gọn . 	1
+[[4&&chiếc 5&&điện 6&&thoại];[];[10&&công 11&&nghệ];[12&&mới 13&&nhất];[COM+]]
+Bạn nghĩ sao về review iPhone 12 mini ? 	0
+[[];[];[];[];[]]
+Hãy chia sẻ cùng Hoàng Hà Mobile nhé ! 	0
+[[];[];[];[];[]]
+Cũng đừng quên rằng Hoàng Hà Mobile hiện đang là nhà bán lẻ Apple được ủy quyền chính thức tại Việt Nam . 	0
+[[];[];[];[];[]]
+Click tại đây để đặt trước dòng sản phẩm iPhone 12 chính hãng VN / A với giá ưu đãi chỉ từ 17,99 triệu ( giá áp dụng khi tham gia chương trình thu cũ đổi mới ) . 	0
+[[];[];[];[];[]]
+title : So sánh Galaxy Note 20 Ultra vs Galaxy Note 10 + : Nâng cấp liệu có đáng ? 	0
+[[];[];[];[];[]]
+Galaxy Note 20 Ultra mẫu flagship cao cấp vừa mới được Samsung ra mắt vào ngày 5 tháng 8 vừa qua . 	0
+[[];[];[];[];[]]
+Có thể đánh giá đây là một trong những model mạnh nhất trên thị trường smartphone hiện nay khi sở hữu nhiều nâng cấp xịn sò . 	1
+[[5&&đây];[];[];[11&&mạnh 12&&nhất 13&&trên 14&&thị 15&&trường 16&&smartphone 17&&hiện 18&&nay];[COM+]]
+Galaxy Note 20 Ultra mẫu flagship cao cấp vừa mới được Samsung ra mắt vào ngày 5 tháng 8 vừa qua . 	0
+[[];[];[];[];[]]
+Có thể đánh giá đây là một trong những model mạnh nhất trên thị trường smartphone hiện nay khi sở hữu nhiều nâng cấp xịn sò . 	1
+[[5&&đây];[];[];[11&&mạnh 12&&nhất 13&&trên 14&&thị 15&&trường 16&&smartphone 17&&hiện 18&&nay];[COM+]]
+Thiết kế Galaxy Note 20 Ultra sang trọng và vuông vắn hơn 	1
+[[1&&Thiết 2&&kế 3&&Galaxy 4&&Note 5&&20 6&&Ultra];[];[];[7&&sang 8&&trọng 9&&và 10&&vuông 11&&vắn 12&&hơn];[COM+]]
+Mặc dù cả Galaxy Note 20 Ultra và Galaxy Note 10 + đều được hoàn thiện từ khung kim loại cao cấp với 2 mặt kính cường lực bóng bẩy ở trước và sau . 	1
+[[4&&Galaxy 5&&Note 6&&20 7&&Ultra];[9&&Galaxy 10&&Note 11&&10 12&&+];[18&&khung 19&&kim 20&&loại 21&&cao 22&&cấp 23&&với 24&&2 25&&mặt 26&&kính 27&&cường 28&&lực 29&&bóng 30&&bẩy 31&&ở 32&&trước 33&&và 34&&sau];[13&&đều 14&&được 15&&hoàn 16&&thiện 17&&từ];[EQL]]
+Mặt trước mẫu Galaxy Note mới năm nay vẫn đi cùng màn hình cong cùng nốt ruồi đặc trưng của Samsung . 	0
+[[];[];[];[];[]]
+alt : Thiết kế Galaxy Note 20 Ultra sang trọng và vuông vắn hơn 	0
+[[];[];[];[];[]]
+des : 	0
+[[];[];[];[];[]]
+Dường như điểm khác biệt lớn nhất về thiết kế của bộ đôi này chính là cụm camera ở mặt sau . 	1
+[[9&&thiết 10&&kế 11&&của 12&&bộ 13&&đôi 14&&này];[9&&thiết 10&&kế 11&&của 12&&bộ 13&&đôi 14&&này];[17&&cụm 18&&camera 19&&ở 20&&mặt 21&&sau];[3&&điểm 4&&khác 5&&biệt 6&&lớn 7&&nhất];[DIF]]
+Theo đó , Galaxy Note 20 Ultra đi cùng với module hình chữ nhật đúng như xu hướng hiện nay . 	0
+[[];[];[];[];[]]
+Trong khi đó , bản tiền nhiệm lại sở hữu cụm camera 3 ống kính sắp dọc thông thường . 	0
+[[];[];[];[];[]]
+Chính cải tiến này đã giúp Galaxy Note 20 Ultra trở nên sang trọng , mạnh mẽ và hợp xu hướng hơn . 	1
+[[7&&Galaxy 8&&Note 9&&20 10&&Ultra];[];[];[13&&sang 14&&trọng 15&&, 16&&mạnh 17&&mẽ 18&&và 19&&hợp 20&&xu 21&&hướng 22&&hơn];[COM+]]
+Bên cạnh đó , mẫu Galaxy Note mới còn đem tới cho người dùng tùy chọn màu sắc khá đẹp mắt và mới lạ . 	0
+[[];[];[];[];[]]
+Một trong số đó chính là màu đồng huyền bí . 	0
+[[];[];[];[];[]]
+Nhìn chung , thiết kế Galaxy Note 20 Ultra không có quá nhiều khác biệt so với Note 10 + . 	1
+[[6&&Galaxy 7&&Note 8&&20 9&&Ultra];[18&&Note 19&&10 20&&+];[4&&thiết 5&&kế];[10&&không 11&&có 12&&quá 13&&nhiều 14&&khác 15&&biệt];[EQL]]
+Được Samsung chăm chút đến từng chi tiết , kích thước và trọng lượng của máy được cải thiện rõ rệt . 	0
+[[];[];[];[];[]]
+Đây sẽ là lựa chọn tuyệt vời cho những ai thích ghi chép trên điện thoại . 	0
+[[];[];[];[];[]]
+Màn hình Galaxy Note 20 Ultra vượt trội hơn hẳn 	1
+[[3&&Galaxy 4&&Note 5&&20 6&&Ultra];[];[1&&Màn 2&&hình];[7&&vượt 8&&trội 9&&hơn 10&&hẳn];[COM+]]
+Là mẫu flagship cao cấp nhất của hãng nên Galaxy Note 20 Ultra được ưu ái trang bị màn hình 6,9 inch , độ phân giải 2K + . 	1
+[[10&&Galaxy 11&&Note 12&&20 13&&Ultra];[];[];[4&&cao 5&&cấp 6&&nhất 7&&của 8&&hãng];[COM+]]
+Chưa hết , màn hình máy còn tích hợp công nghệ Dynamic AMOLED 2x , cho độ sáng cao hơn tới 25% . 	1
+[[4&&màn 5&&hình 6&&máy];[];[17&&độ 18&&sáng];[19&&cao 20&&hơn];[COM+]]
+Một điểm nâng cấp phải kể đến nữa chính là màn hình Galaxy Note 20 Ultra còn có tần số quét màn hình lên đến 120Hz . 	0
+[[];[];[];[];[]]
+alt : Galaxy Note 20 Ultra được ưu ái trang bị màn hình 6,9 inch , độ phân giải 2K + 	0
+[[];[];[];[];[]]
+des : 	0
+[[];[];[];[];[]]
+Tuy nhiên , là fagship cũ nhưng Galaxy Note 10 + cũng không thể coi thường . 	0
+[[];[];[];[];[]]
+Nhìn mặt trước máy không có gì khác biệt so với Note 20 Ultra . 	1
+[[4&&máy];[12&&Note 13&&20 14&&Ultra];[2&&mặt 3&&trước];[5&&không 6&&có 7&&gì 8&&khác 9&&biệt];[EQL]]
+Máy ở hữu màn hình Dynamic AMOLED 6,8 inch , QHD + , hỗ trợ HDR10 + , tần số quét 60Hz . 	0
+[[];[];[];[];[]]
+Có thể thấy , với thông số này màn hình Galaxy Note 10 + vẫn đem đến cho người dùng những trải nghiệm tuyệt vời nhất xứng danh flagship hàng đầu trên thị trường hiện nay . 	0
+[[];[];[];[];[]]
+Camera Galaxy Note 20 Ultra được nâng cấp mạnh mẽ 	0
+[[];[];[];[];[]]
+Dường như điểm khác biệt có thể dễ dàng nhận thấy nhất của bộ đôi này chính là cụm camera . 	1
+[[14&&bộ 15&&đôi 16&&này];[14&&bộ 15&&đôi 16&&này];[19&&cụm 20&&camera];[4&&khác 5&&biệt];[DIF]]
+Theo đó , Galaxy Note 20 Ultra đi cùng cụm camera đúng như xu hướng hiện nay là các ống kính được đặt trong ô hình chữ nhật độc đáo . 	0
+[[];[];[];[];[]]
+alt : Camera Galaxy Note 20 Ultra được nâng cấp mạnh mẽ 	0
+[[];[];[];[];[]]
+des : 	0
+[[];[];[];[];[]]
+Trong đó , camera chính của máy có độ phân giải lên đến 108MP . 	0
+[[];[];[];[];[]]
+Đi cùng với đó là một camera góc siêu rộng 12 MP và góc nhìn lên tới 120 độ với khả năng zoom lên đến 50x . 	0
+[[];[];[];[];[]]
+Ngoài ra , Samsung còn trang bị thêm một cảm biến laser cho máy để lấy nét nhanh hơn . 	1
+[[14&&máy];[];[16&&lấy 17&&nét];[18&&nhanh 19&&hơn];[COM+]]
+Trong khi đó , Galaxy Note 10 + chỉ sở hữu camera chính 12MP cùng 2 camera phụ có độ phân giải lần lượt là 12MP và 16MP . 	0
+[[];[];[];[];[]]
+Đáng tiếc là cụm camera của máy chỉ có độ phân giải 10x . 	0
+[[];[];[];[];[]]
+Tuy nhiên , máy vẫn đem tới những trải nghiệm nhiếp ảnh và quay video ấn tượng cho người dùng . 	0
+[[];[];[];[];[]]
+Cấu hình không quá chênh lệch 	0
+[[];[];[];[];[]]
+Là mẫu flagship cao cấp của hãng ở thời điểm này nên việc Galaxy Note 20 Ultra đi cùng chipset mạnh mẽ nhất là điều dễ hiểu . 	1
+[[14&&Galaxy 15&&Note 16&&20 17&&Ultra];[];[20&&chipset];[21&&mạnh 22&&mẽ 23&&nhất];[COM+]]
+Theo đó , máy được trang bị 2 chip xử lý gồm Exynos 990 và Snapdragon 865 + tùy thị trường . 	0
+[[];[];[];[];[]]
+Đi cùng với đó là các tùy chọn RAM 8GB / 12GB cùng bộ nhớ trong là 128GB / 256GB / 512GB . 	0
+[[];[];[];[];[]]
+alt : Bảng so sành Galaxy Note 20 Ultra vs Galaxy Note 10 + 	0
+[[];[];[];[];[]]
+des : 	0
+[[];[];[];[];[]]
+Cung cấp năng lượng cho máy là viên pin có dung lượng 4500 mAh có hỗ trợ sạc nhanh lên đến 25W . 	0
+[[];[];[];[];[]]
+Với những thông số này Galaxy Note 20 Ultra hứa hẹn đem tới hiệu năng khủng nhất nhì trên thị trường hiện nay . 	1
+[[6&&Galaxy 7&&Note 8&&20 9&&Ultra];[];[14&&hiệu 15&&năng];[16&&khủng 17&&nhất 18&&nhì 19&&trên 20&&thị 21&&trường 22&&hiện 23&&nay];[COM+]]
+Do đó , máy có thể xử lý tốt mọi tác vụ do người dùng đặt ra một cách dễ dàng . 	0
+[[];[];[];[];[]]
+Trong khi đó , Galaxy Note 10 + có phần kém cạnh hơn một chút khi chỉ sở hữu chip Exynos 9825 và Snapdragon 855 . 	0
+[[];[];[];[];[]]
+Trong khi đó , máy lại có cùng tùy chọn bộ nhớ tương tự như người kế nhiệm là 8GB / 12GB RAM cùng bộ nhớ trong 128GB / 256GB / 512GB . 	1
+[[5&&máy];[16&&người 17&&kế 18&&nhiệm];[9&&tùy 10&&chọn 11&&bộ 12&&nhớ];[13&&tương 14&&tự];[EQL]]
+Đáng tiếc là viên pin của máy cũng có phần kém cạnh hơn một chút khi chỉ có dung lượng 4300 mAh . 	1
+[[7&&máy];[];[4&&viên 5&&pin];[11&&kém 12&&cạnh 13&&hơn 14&&một 15&&chút];[COM-]]
+alt : Galaxy Note 10 + vẫn đáp ứng tốt nhu cầu sử dụng của người dùng 	0
+[[];[];[];[];[]]
+des : 	0
+[[];[];[];[];[]]
+Mặc dù không sở hữu thông số cấu hình mạnh mẽ nhất nhưng có thể đánh giá Galaxy Note 10 + là một đối thử đáng gờm trên thị trường smartphone hiện nay . 	0
+[[];[];[];[];[]]
+Máy vẫn đáp ứng rất tốt nhu cầu sử dụng của người dùng , nên việc nâng cấp từ Galaxy Note 10 + lên Note 20 Ultra cần cân nhắc kỹ . 	0
+[[];[];[];[];[]]
+Tổng kết 	0
+[[];[];[];[];[]]
+Có thể thấy Galaxy Note 20 Ultra mang nhiều cải tiến vượt trội từ thiết kế , màn hình , camera lẫn hiệu năng . 	1
+[[4&&Galaxy 5&&Note 6&&20 7&&Ultra];[];[15&&thiết 16&&kế];[10&&cải 11&&tiến 12&&vượt 13&&trội];[COM+]]
+[[4&&Galaxy 5&&Note 6&&20 7&&Ultra];[];[18&&màn 19&&hình];[10&&cải 11&&tiến 12&&vượt 13&&trội];[COM+]]
+[[4&&Galaxy 5&&Note 6&&20 7&&Ultra];[];[21&&camera];[10&&cải 11&&tiến 12&&vượt 13&&trội];[COM+]]
+[[4&&Galaxy 5&&Note 6&&20 7&&Ultra];[];[23&&hiệu 24&&năng];[10&&cải 11&&tiến 12&&vượt 13&&trội];[COM+]]
+Tuy nhiên , Galaxy Note 10 + cũng được đánh giá cao ở thời điểm này . 	0
+[[];[];[];[];[]]
+Do đó , tùy vào sở thích và nhu cầu cũng như là túi tiền của mình mà bạn có thể chọn cho mình mẫu điện thoại hợp lý . 	0
+[[];[];[];[];[]]
+title : So sánh Xiaomi Redmi Note 11 Pro + và Samsung Galaxy M32 5G 	0
+[[];[];[];[];[]]
+Thiết kế 	0
+[[];[];[];[];[]]
+alt : Galaxy M52 5G ( ảnh 1 ) 	0
+[[];[];[];[];[]]
+des : Galaxy M52 5G ( ảnh 1 ) 	0
+[[];[];[];[];[]]
+Bạn thích sử dụng một chiếc điện thoại có thiết kế đẹp hơn hay có chất liệu hoàn thiện cao cấp hơn . 	0
+[[];[];[];[];[]]
+Nếu chọn câu trả lời đầu tiên thì bạn nên mua Galaxy M52 5G . 	0
+[[];[];[];[];[]]
+Mẫu điện thoại tầm trung của Samsung được trang bị màn hình đục lỗ bắt mắt ở mặt trước với viền bezel các cạnh khá mỏng . 	0
+[[];[];[];[];[]]
+Ở mặt sau , smartphone này sở hữu cụm máy ảnh hình chữ nhật khá lớn nằm ở góc trên cùng bên trái nhưng được thiết kế cùng màu với mặt lưng nên trông rất ấn tượng . 	0
+[[];[];[];[];[]]
+Mặt khác , Xiaomi Redmi Note 11 Pro Plus có chất lượng hoàn thiện cao cấp hơn khi cả mặt trước lẫn sau của điện thoại này đều được bảo vệ bởi lớp kính cường lực Gorilla Glass 5 . 	1
+[[4&&Xiaomi 5&&Redmi 6&&Note 7&&11 8&&Pro 9&&Plus];[];[11&&chất 12&&lượng 13&&hoàn 14&&thiện];[15&&cao 16&&cấp 17&&hơn];[COM+]]
+Di động Xiaomi nhỏ gọn hơn một chút , nhưng nó dày và nặng hơn so với Samsung Galaxy M52 5G . 	1
+[[1&&Di 2&&động 3&&Xiaomi];[18&&Samsung 19&&Galaxy 20&&M52 21&&5G];[];[4&&nhỏ 5&&gọn 6&&hơn 7&&một 8&&chút];[COM+]]
+[[11&&nó];[18&&Samsung 19&&Galaxy 20&&M52 21&&5G];[];[12&&dày 13&&và 14&&nặng 15&&hơn];[COM-]]
+Màn hình 	0
+[[];[];[];[];[]]
+alt : Xiaomi Redmi Note 11 Pro + ( ảnh 1 ) 	0
+[[];[];[];[];[]]
+des : Xiaomi Redmi Note 11 Pro + ( ảnh 1 ) 	0
+[[];[];[];[];[]]
+Màn hình của Redmi Note 11 Pro + và Samsung Galaxy M52 5G có chất lượng hiển thị khá tương đồng nhau . 	1
+[[1&&Màn 2&&hình 3&&của 4&&Redmi 5&&Note 6&&11 7&&Pro 8&&+];[10&&Samsung 11&&Galaxy 12&&M52 13&&5G];[15&&chất 16&&lượng 17&&hiển 18&&thị];[19&&khá 20&&tương 21&&đồng 22&&nhau];[EQL]]
+Cả hai smartphone này đều sử dụng tấm nền AMOLED cao cấp , hỗ trợ độ phân giải Full-HD + sắc nét và tần số quét 120Hz mượt mà . 	0
+[[];[];[];[];[]]
+Tuy nhiên , Redmi Note 11 Pro + đạt chứng nhận HDR10 giúp cung cấp chất lượng hình ảnh cao hơn trên các nền tảng phát trực tuyến , trong khi tấm nền của Galaxy M52 5G được gọi là Super AMOLED Plus do khả năng tái tạo hình ảnh tốt hơn nếu so với các tấm nền AMOLED khác . 	1
+[[4&&Redmi 5&&Note 6&&11 7&&Pro 8&&+];[];[16&&chất 17&&lượng 18&&hình 19&&ảnh];[20&&cao 21&&hơn];[COM+]]
+[[41&&Super 42&&AMOLED 43&&Plus];[56&&các 57&&tấm 58&&nền 59&&AMOLED 60&&khác];[45&&khả 46&&năng 47&&tái 48&&tạo 49&&hình 50&&ảnh];[51&&tốt 52&&hơn];[COM+]]
+Lưu ý rằng , mặc dù đều sử dụng tấm nền AMOLED , nhưng cả hai điện thoại này chỉ có máy quét dấu vân tay được tích hợp vào nút nguồn ở cạnh bên thay vì cảm biến sinh trắc học trong màn hình . 	0
+[[];[];[];[];[]]
+Âm thanh do Redmi Note 11 Pro + cung cấp to hơn nhờ hệ thống loa stereo do JBL điều chỉnh , trong khi Galaxy M52 5G chỉ có loa đơn . 	1
+[[1&&Âm 2&&thanh 3&&do 4&&Redmi 5&&Note 6&&11 7&&Pro 8&&+];[25&&Galaxy 26&&M52 27&&5G];[11&&to];[12&&hơn];[COM+]]
+[[4&&Redmi 5&&Note 6&&11 7&&Pro 8&&+];[25&&Galaxy 26&&M52 27&&5G];[1&&Âm 2&&thanh];[11&&to 12&&hơn];[COM+]]
+Phần cứng và phần mềm 	0
+[[];[];[];[];[]]
+alt : Bảng thông số kỹ thuật 	0
+[[];[];[];[];[]]
+des : Bảng thông số kỹ thuật 	0
+[[];[];[];[];[]]
+Ở đây , chúng ta có một trận chiến rất thú vị : Mediatek Dimensity 920 5G và Qualcomm Snapdragon 778G . 	0
+[[];[];[];[];[]]
+Theo các điểm chuẩn , bộ xử lý Snapdragon 778G được tìm thấy trên Galaxy M52 5G mạnh hơn một chút so với Dimensity 920 trên Redmi Note 11 Pro + . 	1
+[[6&&bộ 7&&xử 8&&lý 9&&Snapdragon 10&&778G];[24&&Dimensity 25&&920];[2&&các 3&&điểm 4&&chuẩn];[18&&mạnh 19&&hơn 20&&một 21&&chút];[COM+]]
+Mặt khác , bạn có thể nhận được dung lượng lưu trữ cao hơn với Redmi Note 11 Pro + , lên đến 256GB bộ nhớ trong UFS 2.2 . Do sự khác biệt nhỏ giữa các bộ phận phần cứng , nên hiệu năng của hai smartphone này không chênh lệch nhau nhiều và dư sức xử lý các tác vụ hàng ngày của người dùng . 	1
+[[16&&Redmi 17&&Note 18&&11 19&&Pro 20&&+];[];[9&&dung 10&&lượng 11&&lưu 12&&trữ];[13&&cao 14&&hơn];[COM+]]
+[[47&&hai 48&&smartphone 49&&này];[47&&hai 48&&smartphone 49&&này];[44&&hiệu 45&&năng];[50&&không 51&&chênh 52&&lệch 53&&nhau 54&&nhiều];[EQL]]
+Về phần mềm , bộ đôi này đều chạy trên hệ điều hành Android 11 với giao diện tùy chỉnh riêng của mỗi hãng . 	0
+[[];[];[];[];[]]
+Máy ảnh 	0
+[[];[];[];[];[]]
+alt : Xiaomi Redmi Note 11 Pro + có 3 camera ở phía sau 	0
+[[];[];[];[];[]]
+des : Xiaomi Redmi Note 11 Pro + có 3 camera ở phía sau 	0
+[[];[];[];[];[]]
+Redmi Note 11 Pro + được trang bị camera chính tốt hơn : cảm biến 108MP hỗ trợ quay video 4K so với camera chính 64MP của đối thủ . 	1
+[[1&&Redmi 2&&Note 3&&11 4&&Pro 5&&+];[24&&camera 25&&chính 26&&64MP 27&&của 28&&đối 29&&thủ];[9&&camera 10&&chính];[11&&tốt 12&&hơn];[COM+]]
+Mặt khác , Galaxy M52 5G có các cảm biến phụ tốt hơn : một camera góc siêu rộng 12MP ( thay vì chỉ 8 MP ) và một camera macro 5MP ( thay vì 2 MP ) . 	1
+[[4&&Galaxy 5&&M52 6&&5G];[];[8&&các 9&&cảm 10&&biến 11&&phụ];[12&&tốt 13&&hơn];[COM+]]
+Cuối cùng nhưng không kém phần quan trọng , Galaxy M52 5G có camera trước tốt hơn với độ phân giải 32MP , trong khi Redmi Note 11 Pro + chỉ sở hữu cảm biến 16MP kém hơn . 	1
+[[10&&Galaxy 11&&M52 12&&5G];[26&&Redmi 27&&Note 28&&11 29&&Pro 30&&+];[14&&camera 15&&trước];[16&&tốt 17&&hơn];[COM+]]
+[[26&&Redmi 27&&Note 28&&11 29&&Pro 30&&+];[10&&Galaxy 11&&M52 12&&5G];[34&&cảm 35&&biến 36&&16MP];[37&&kém 38&&hơn];[COM-]]
+Thời lượng pin 	0
+[[];[];[];[];[]]
+alt : Galaxy M52 5G ( ảnh 4 ) 	0
+[[];[];[];[];[]]
+des : Galaxy M52 5G ( ảnh 4 ) 	0
+[[];[];[];[];[]]
+Samsung Galaxy M52 5G thực sự có thời lượng pin lâu hơn đơn giản vì nó có pin lớn hơn với dung lượng 5,000 mAh . Mặc khác , Redmi Note 11 Pro + dù có pin 4,500 mAh nhỏ hơn nhưng điện thoại này gây ấn tượng với công nghệ sạc nhanh 120W siêu tốc , giúp sạc đầy pin chỉ trong 15 phút . 	1
+[[1&&Samsung 2&&Galaxy 3&&M52 4&&5G];[];[8&&thời 9&&lượng 10&&pin];[11&&lâu 12&&hơn];[COM+]]
+[[16&&nó];[];[18&&pin];[19&&lớn 20&&hơn];[COM+]]
+[[30&&Redmi 31&&Note 32&&11 33&&Pro 34&&+];[];[37&&pin];[40&&nhỏ 41&&hơn];[COM-]]
+Tạm kết 	0
+[[];[];[];[];[]]
+alt : Xiaomi Redmi Note 11 Pro + ( ảnh 4 ) 	0
+[[];[];[];[];[]]
+des : Xiaomi Redmi Note 11 Pro + ( ảnh 4 ) 	0
+[[];[];[];[];[]]
+Nhìn chung , không có smartphone chiến thắng trong bài so sánh này vì mỗi điện thoại đều có ưu và nhược điểm của riêng mình . 	0
+[[];[];[];[];[]]
+Với Redmi Note 11 Pro + , điện thoại này gây ấn tượng với người dùng nhờ khả năng sạc nhanh 120W ấn tượng và camera chính 50MP chất lượng . 	0
+[[];[];[];[];[]]
+Còn với Galaxy M52 5G , smartphone này có thiết kế bắt mắt hơn , pin lớn , camera linh hoạt hơn và bộ xử lý cao cấp để chơi game . 	1
+[[7&&smartphone 8&&này];[];[10&&thiết 11&&kế];[12&&bắt 13&&mắt 14&&hơn];[COM+]]
+[[7&&smartphone 8&&này];[];[19&&camera];[20&&linh 21&&hoạt 22&&hơn];[COM+]]
+Bạn sẽ mua điện thoại nào ? 	0
+[[];[];[];[];[]]
+title : Có nên mua Samsung Galaxy S22 Ultra thời điểm này ? Câu trả lời là … 	0
+[[];[];[];[];[]]
+Samsung Galaxy S22 Ultra là sản phẩm tốt nhất thế giới Android hiện nay . 	1
+[[1&&Samsung 2&&Galaxy 3&&S22 4&&Ultra];[];[];[8&&tốt 9&&nhất 10&&thế 11&&giới 12&&Android 13&&hiện 14&&nay];[COM+]]
+Điều này không cần bàn luận gì thêm . 	0
+[[];[];[];[];[]]
+Tuy nhiên , chỉ có một câu hỏi đặt ra : Liệu có nên mua Galaxy S22 Ultra ngay thời điểm này ? 	0
+[[];[];[];[];[]]
+Hi vọng bài viết sau đây của Hoàng Hà Mobile sẽ giúp khách hàng đang quan tâm về siêu phẩm này sẽ có sự lựa chọn chính xác ! 	0
+[[];[];[];[];[]]
+Màn hình độ sáng & độ mượt tuyệt vời ! 	0
+[[];[];[];[];[]]
+Độ sáng cực cao đến 1.750 nits 	0
+[[];[];[];[];[]]
+Dòng Galaxy S22 series tự hào có một số cải tiến về hiển thị , nổi bật là nỗ lực tạo ra màn hình sáng nhất trên bất kỳ điện thoại thông minh nào.Trong trường hợp của Galaxy S22 Ultra , điều đó có nghĩa là màn hình hứa hẹn có độ sáng cao nhất là 1.750 nits . 	1
+[[1&&Dòng 2&&Galaxy 3&&S22 4&&series];[];[23&&màn 24&&hình];[25&&sáng 26&&nhất 27&&trên 28&&bất 29&&kỳ 30&&điện 31&&thoại 32&&thông 33&&minh 34&&nào.Trong];[COM+]]
+Và với tính năng Vision Booster của Samsung , Galaxy S22 Ultra sẽ điều chỉnh màn hình hiển thị và cân bằng màu sắc dựa trên ánh sáng xung quanh . 	0
+[[];[];[];[];[]]
+Bạn không cần phải đi sâu vào cài đặt của điện thoại để có được sự hiển thị vừa mắt nhất . 	0
+[[];[];[];[];[]]
+Mùa hè đã tới rồi , nếu bạn hay sử dụng điện thoại ngoài trời nắng , màn hình cực sáng của sản phẩm này sẽ không làm bạn thất vọng đâu ! 	0
+[[];[];[];[];[]]
+alt : s22 	0
+[[];[];[];[];[]]
+des : 	0
+[[];[];[];[];[]]
+Tần số quét 120Hz linh hoạt cải thiện thời lượng pin 	0
+[[];[];[];[];[]]
+Galaxy S21 Ultra năm ngoái có thể điều chỉnh tần số quét nằm trong khoảng từ 10Hz đến 120Hz , nhưng Galaxy S22 Ultra còn điều chỉnh hơn nữa . 	1
+[[22&&Galaxy 23&&S22 24&&Ultra];[1&&Galaxy 2&&S21 3&&Ultra];[10&&tần 11&&số 12&&quét];[26&&điều 27&&chỉnh 28&&hơn 29&&nữa];[COM]]
+Điện thoại này vẫn có thể đạt 120Hz khi cần thiết , nhưng khi ở những thời điểm khác , tốc độ làm mới có thể giảm xuống mức 1Hz . 	0
+[[];[];[];[];[]]
+alt : s22 	0
+[[];[];[];[];[]]
+des : 	0
+[[];[];[];[];[]]
+Điều chỉnh thông minh này sẽ cải thiện thời lượng pin cho máy . 	0
+[[];[];[];[];[]]
+Dòng S21 Ultra hoạt động trong thời gian khá tốt , nhưng đôi lúc vẫn phải chỉnh xuống 60Hz nếu muốn kéo dài thời gian dùng thêm 1 giờ . 	0
+[[];[];[];[];[]]
+Galaxy S22 Ultra , với tốc độ làm tươi được cải thiện , có thể giúp quản lý mức tiêu thụ điện năng một cách khéo léo hơn . 	1
+[[1&&Galaxy 2&&S22 3&&Ultra];[];[17&&quản 18&&lý 19&&mức 20&&tiêu 21&&thụ 22&&điện 23&&năng];[26&&khéo 27&&léo 28&&hơn];[COM+]]
+Lần đầu tiên , bút S-Pen có sẵn ! 	0
+[[];[];[];[];[]]
+Nói về Galaxy S21 Ultra , đây là điện thoại đầu tiên ngoài dòng Galaxy Note hỗ trợ bút S-Pen của Samsung . 	0
+[[];[];[];[];[]]
+Tuy nhiên , S-Pen là phụ kiện tùy chọn của S21 Ultra nên nó không được tích hợp trực tiếp vào máy ! 	0
+[[];[];[];[];[]]
+Đó không phải là vấn đề với Galaxy S22 Ultra , vì máy sẽ bao gồm một khe cắm cho bút S-Pen . 	0
+[[];[];[];[];[]]
+Điều đó có nghĩa là bạn không phải tìm kiếm một chiếc hộp đựng bút cảm ứng , chỉ cần bật nó ra khỏi điện thoại và ghi ngay các ghi chú ngay trên màn hình của máy . 	0
+[[];[];[];[];[]]
+alt : The-Samsung-Galaxy-S22 - Ultra-has-a - 6.8 - inch-screen-scaled 	0
+[[];[];[];[];[]]
+des : 	0
+[[];[];[];[];[]]
+S-Pen đi kèm với Galaxy S22 Ultra cũng nhanh hơn trước , với tốc độ cải thiện 70% và độ trễ ít hơn . 	1
+[[1&&S-Pen 2&&đi 3&&kèm 4&&với 5&&Galaxy 6&&S22 7&&Ultra];[];[];[9&&nhanh 10&&hơn];[COM+]]
+[[1&&S-Pen 2&&đi 3&&kèm 4&&với 5&&Galaxy 6&&S22 7&&Ultra];[];[20&&độ 21&&trễ];[22&&ít 23&&hơn];[COM+]]
+[[1&&S-Pen 2&&đi 3&&kèm 4&&với 5&&Galaxy 6&&S22 7&&Ultra];[];[14&&tốc 15&&độ];[16&&cải 17&&thiện 18&&70%];[COM+]]
+Đưa vào các tính năng chuyển đổi chữ viết tay thành văn bản , bút stylus chính xác hơn được tích hợp vào Microsoft Outlook – đây là một bổ sung đáng hoan nghênh cho mẫu Ultra của Galaxy S , đặc biệt nếu bạn xem điện thoại của mình như một công cụ đồng hành trong công việc . 	0
+[[];[];[];[];[]]
+Sạc nhanh 45W được khôi phục 	0
+[[];[];[];[];[]]
+Sau khi cung cấp tính năng sạc 45W trên Galaxy S20 Ultra năm 2020 , Samsung đã quay trở lại sạc 25W trong mô hình 2021 . 	0
+[[];[];[];[];[]]
+Thế hệ Galaxy S22 Ultra đảo ngược hướng đi đó và tốc độ sạc 45W một lần nữa được khôi phục trên điện thoại cao cấp của Samsung . 	0
+[[];[];[];[];[]]
+Với tốc độ đó , bạn sẽ có thể sạc đầy Galaxy S22 Ultra đến 50% chỉ sau 20 phút . 	0
+[[];[];[];[];[]]
+Tốc độ này nhanh hơn 10 phút so với những gì S21 Ultra cần để đạt được mốc đó . 	1
+[[];[12&&S21 13&&Ultra];[1&&Tốc 2&&độ 3&&này];[4&&nhanh 5&&hơn];[COM+]]
+Galaxy S22 Ultra cũng nhanh gấp đôi tốc độ sạc cao nhất của iPhone 13 Pro Max . 	1
+[[1&&Galaxy 2&&S22 3&&Ultra];[14&&iPhone 15&&13 16&&Pro 17&&Max];[8&&tốc 9&&độ 10&&sạc 11&&cao 12&&nhất];[5&&nhanh 6&&gấp 7&&đôi];[COM+]]
+alt : s22 	0
+[[];[];[];[];[]]
+des : 	0
+[[];[];[];[];[]]
+Galaxy S22 Ultra chụp ảnh tốt hơn trong điều kiện thiếu sáng 	1
+[[1&&Galaxy 2&&S22 3&&Ultra];[];[4&&chụp 5&&ảnh];[6&&tốt 7&&hơn];[COM+]]
+Chỉ nhìn vào thông số megapixel cho camera của Galaxy S22 Ultra , có vẻ như không có nhiều thay đổi so với Galaxy S21 Ultra . 	1
+[[8&&camera 9&&của 10&&Galaxy 11&&S22 12&&Ultra];[24&&Galaxy 25&&S21 26&&Ultra];[4&&thông 5&&số 6&&megapixel];[17&&không 18&&có 19&&nhiều 20&&thay 21&&đổi];[EQL]]
+Nhưng điều đó không đúng . 	0
+[[];[];[];[];[]]
+Máy ảnh chính 108MP trên điện thoại mới hiện sử dụng cảm biến 2,4um lớn hơn để thu được nhiều ánh sáng và dữ liệu hơn . 	1
+[[1&&Máy 2&&ảnh 3&&chính 4&&108MP 5&&trên 6&&điện 7&&thoại 8&&mới];[];[12&&cảm 13&&biến];[15&&lớn 16&&hơn];[COM+]]
+Samsung cũng đã giới thiệu ống kính Super Clear Glass để chụp ảnh ít chói và lóa ống kính vào ban đêm . 	0
+[[];[];[];[];[]]
+alt : s22 - ultra-rear-scaled 	0
+[[];[];[];[];[]]
+des : 	0
+[[];[];[];[];[]]
+Ảnh chụp từ Galaxy S22 Ultra có độ chân thực cao , độ chi tiết cao không cần phải bàn tới . 	0
+[[];[];[];[];[]]
+Đôi khi trong một vài trường hợp nếu đặt cạnh ảnh chụp của một chiếc máy ảnh với các ống kính chuyên dụng , không phải ai cũng phân biệt được đâu là ảnh từ một chiếc smartphone , hay đâu là ảnh chụp từ một chiếc máy ảnh , kể cả khi zoom lên từng góc cạnh . 	0
+[[];[];[];[];[]]
+Camera trên Galaxy S22 Ultra còn có khả năng xử lý HDR tốt tới ấn tượng , cứu lại được vùng sáng và tối một cách hài hòa nhất . 	0
+[[];[];[];[];[]]
+Những chuyên gia dùng điện thoại chụp ảnh sẽ rất hài lòng với sản phẩm này . 	0
+[[];[];[];[];[]]
+Mùa nghỉ lễ đang diễn ra , bạn đừng bỏ lỡ cơ hội lưu lại khoảnh khắc của những chuyến đi nhé . 	0
+[[];[];[];[];[]]
+Cấu hình gây tò mò 	0
+[[];[];[];[];[]]
+Tại sao lại gây tò mò ? 	0
+[[];[];[];[];[]]
+Đơn giản vì không có nhiều cơ hội để bạn mua Samsung dòng S chính hãng ở Việt Nam mà lại dùng Snapdragon . 	0
+[[];[];[];[];[]]
+Bạn đã biết Exynos trong nhiều năm qua , vậy thì chần chừ gì mà không trải nghiệm một sự thay đổi của Samsung ? 	0
+[[];[];[];[];[]]
+alt : galaxy_s22 _ ultra 	0
+[[];[];[];[];[]]
+des : 	0
+[[];[];[];[];[]]
+Đó là một chiếc điện thoại rất nhanh và mạnh mẽ . 	0
+[[];[];[];[];[]]
+Bộ xử lý 4nm của Qualcomm Snapdragon 8 Gen1 sẽ càn quét mọi ứng dụng hiện nay . 	0
+[[];[];[];[];[]]
+Đây cũng là một chiếc điện thoại chơi game tuyệt đẹp và khá mạnh mẽ , và đã xử lý những game như PUBG , Liên Quân Mobile , … mà không gặp một trục trặc nào . 	0
+[[];[];[];[];[]]
+Tất nhiên , điện thoại sẽ ấm lên nhưng không khó chịu , không có tác động lớn đến tốc độ khung hình , ngay cả ở cài đặt đồ họa cao nhất . 	0
+[[];[];[];[];[]]
+Đừng quên Samsung có thể cập nhật nhiều lần để “ buff ” hiệu năng lên nữa đấy ! 	0
+[[];[];[];[];[]]
+Sau đây là những lý do tổng hợp để bạn mua ngay Samsung Galaxy S22 Ultra ngay hôm nay : 	0
+[[];[];[];[];[]]
+Sản phẩm cao cấp nhất của thế giới Android hiện nay 	1
+[[1&&Sản 2&&phẩm];[];[];[3&&cao 4&&cấp 5&&nhất 6&&của 7&&thế 8&&giới 9&&Android 10&&hiện 11&&nay];[COM+]]
+- Cấu hình được cải tiến với Qualcomm Snapdragon 8 Gen1 	0
+[[];[];[];[];[]]
+- Camera tuyệt vời chụp đêm ấn tượng 	0
+[[];[];[];[];[]]
+- Bút S-Pen “ thần thánh ” 	0
+[[];[];[];[];[]]
+- Bạn vẫn yêu dòng Note truyền thống 	0
+[[];[];[];[];[]]
+- Mức giá cực tốt cùng nhiều ưu đãi 	0
+[[];[];[];[];[]]
+title : Google Pixel 7a vs iPhone 13 : Lựa chọn Android giá rẻ hay iOS cao cấp ? 	0
+[[];[];[];[];[]]
+Google Pixel 7a đột phá nhưng vẫn chưa vượt mặt được iPhone 13 ? 	0
+[[];[];[];[];[]]
+Mới đây , Google đã trình làng mẫu smartphone Google Pixel 7a với hàng loạt tính năng hàng đầu ấn tượng . 	0
+[[];[];[];[];[]]
+Thiết bị cũng được trang bị chip Google TenSor G2 cao cấp với hiệu suất ngang bằng iPhone 13 . 	1
+[[1&&Thiết 2&&bị];[18&&iPhone 19&&13];[14&&hiệu 15&&suất];[16&&ngang 17&&bằng];[EQL]]
+Vậy Google Pixel 7a có điểm gì khác biệt so với iPhone 13 ? 	0
+[[];[];[];[];[]]
+Hay nên mua Google Pixel 7a hay iPhone 13 ? 	0
+[[];[];[];[];[]]
+Cùng XTmobile so sánh Google Pixel 7a và iPhone 13 để tìm ra chiếc điện thoại lý tưởng ở thời điểm hiện tại nhé . 	0
+[[];[];[];[];[]]
+Google Pixel 7a được thiết kế mới mẻ với nhiều điểm khác biệt hơn 	0
+[[];[];[];[];[]]
+Điểm khác biệt lớn nhất mà dễ dàng nhận thấy giữa Google Pixel 7a và iPhone 13 chính là thiết kế . 	1
+[[12&&Google 13&&Pixel 14&&7a];[16&&iPhone 17&&13];[20&&thiết 21&&kế];[1&&Điểm 2&&khác 3&&biệt 4&&lớn 5&&nhất];[DIF]]
+Google Pixel 7a sở hữu thiết kế mặt lưng bằng nhựa và các khung viền bằng kim loại . 	0
+[[];[];[];[];[]]
+Trong khi đó , mặt lưng sau của iPhone 13 lại được làm bằng chất liệu nhôm và kính , mang đến cảm giác sang trọng và bắt mắt hơn . 	1
+[[9&&iPhone 10&&13];[];[5&&mặt 6&&lưng 7&&sau];[25&&sang 26&&trọng 27&&và 28&&bắt 29&&mắt 30&&hơn];[COM+]]
+Tuy nhiên , mặt lưng nhựa của Google Pixel 7a sẽ bền hơn so với mặt lưng kính của iPhone 13 . 	1
+[[4&&mặt 5&&lưng 6&&nhựa 7&&của 8&&Google 9&&Pixel 10&&7a];[16&&mặt 17&&lưng 18&&kính 19&&của 20&&iPhone 21&&13];[];[12&&bền 13&&hơn];[COM+]]
+Nó sẽ không bị vỡ khi điện thoại rớt xuống đất . 	0
+[[];[];[];[];[]]
+alt : Google Pixel 7a được thiết kế mới mẻ với nhiều điểm khác biệt hơn 	0
+[[];[];[];[];[]]
+des : 	0
+[[];[];[];[];[]]
+Một điểm mà chiếc điện thoại nhà Apple có thể ăn đứt chiếc điện thoại nhà Google đó chính là tùy chọn màu . 	1
+[[4&&chiếc 5&&điện 6&&thoại 7&&nhà 8&&Apple];[13&&chiếc 14&&điện 15&&thoại 16&&nhà 17&&Google];[21&&tùy 22&&chọn 23&&màu];[11&&ăn 12&&đứt];[COM+]]
+Google Pixel 7a chỉ có bốn tùy chọn màu cơ bản như Xanh , Đen , Trắng và Cam . 	0
+[[];[];[];[];[]]
+Trong khi đó iPhone 13 lại có tới 6 tùy chọn màu sắc , đa dạng cho người dùng lựa chọn . 	0
+[[];[];[];[];[]]
+Cả hai thiết bị đều có khả năng kháng nước và chống bụi . 	1
+[[1&&Cả 2&&hai 3&&thiết 4&&bị];[1&&Cả 2&&hai 3&&thiết 4&&bị];[7&&khả 8&&năng 9&&kháng 10&&nước 11&&và 12&&chống 13&&bụi];[5&&đều 6&&có];[EQL]]
+Tuy nhiên , Google pixel 7a chỉ đạt chứng nhận IP67 . 	0
+[[];[];[];[];[]]
+Trong khi đó , iPhone 13 lại có xếp hạng kháng nước , chống bụi chuẩn IP68 . 	0
+[[];[];[];[];[]]
+Nhờ vậy , chiếc điện thoại nhà táo khuyết có thể ngâm nước sâu hơn và lâu hơn . 	1
+[[4&&chiếc 5&&điện 6&&thoại 7&&nhà 8&&táo 9&&khuyết];[];[12&&ngâm 13&&nước];[14&&sâu 15&&hơn];[COM+]]
+[[4&&chiếc 5&&điện 6&&thoại 7&&nhà 8&&táo 9&&khuyết];[];[12&&ngâm 13&&nước];[17&&lâu 18&&hơn];[COM+]]
+Màn hình iPhone 13 có chất lượng hiển thị tốt hơn Google Pixel 7a 	1
+[[1&&Màn 2&&hình 3&&iPhone 4&&13];[12&&Google 13&&Pixel 14&&7a];[6&&chất 7&&lượng 8&&hiển 9&&thị];[10&&tốt 11&&hơn];[COM+]]
+[[3&&iPhone 4&&13];[12&&Google 13&&Pixel 14&&7a];[1&&Màn 2&&hình];[6&&chất 7&&lượng 8&&hiển 9&&thị 10&&tốt 11&&hơn];[COM+]]
+Màn hình của iPhone 13 vượt trội hơn Google Pixel 7a khi sở hữu tấm nền Super Retina XDR OLED 6.1 inch với độ phân giải Full HD + , tần số quét 120Hz . Mang đến những khung hình hiển thị cực kỳ sắc nét , mượt mà và sống động . 	1
+[[4&&iPhone 5&&13];[9&&Google 10&&Pixel 11&&7a];[1&&Màn 2&&hình];[6&&vượt 7&&trội 8&&hơn];[COM+]]
+Ngoài ra , máy còn được trang bị thêm công nghệ hiển thị HDR10 + , Dolby Vision có khả năng điều chỉnh màu sắc theo ánh sáng xung quanh . 	0
+[[];[];[];[];[]]
+Đi kèm theo đó là công nghệ True Tone giúp tạo ra những hình ảnh có màu sắc sống động và tự nhiên hơn . 	1
+[[];[];[13&&những 14&&hình 15&&ảnh];[17&&màu 18&&sắc 19&&sống 20&&động];[COM+]]
+[[];[];[13&&những 14&&hình 15&&ảnh];[22&&tự 23&&nhiên 24&&hơn];[COM+]]
+[[13&&những 14&&hình 15&&ảnh];[];[17&&màu 18&&sắc];[19&&sống 20&&động];[COM+]]
+[[13&&những 14&&hình 15&&ảnh];[];[17&&màu 18&&sắc];[22&&tự 23&&nhiên 24&&hơn];[COM+]]
+alt : Màn hình iPhone 13 có chất lượng hiển thị tốt hơn Google Pixel 7a 	0
+[[];[];[];[];[]]
+des : 	0
+[[];[];[];[];[]]
+Trong khi đó , Google Pixel 7a chỉ được trang bị tấm nền OLED 6,2 inch cùng tần số quét 60Hz . Bù lại , màn hình chiếc flagship của Google có kích thước lớn hơn so với iPhone 13 . 	1
+[[26&&màn 27&&hình 28&&chiếc 29&&flagship 30&&của 31&&Google];[39&&iPhone 40&&13];[33&&kích 34&&thước];[35&&lớn 36&&hơn];[COM]]
+[[28&&chiếc 29&&flagship 30&&của 31&&Google];[39&&iPhone 40&&13];[26&&màn 27&&hình];[33&&kích 34&&thước 35&&lớn 36&&hơn];[COM]]
+Màn hình của máy được bố trí rộng rãi hơn nhờ các đường viền xung quanh được làm mỏng đi . 	1
+[[4&&máy];[];[1&&Màn 2&&hình];[8&&rộng 9&&rãi 10&&hơn];[COM+]]
+Chưa hết , thiết bị còn được trang bị cảm biến vân tay dưới màn hình rất tiện lợi . 	0
+[[];[];[];[];[]]
+Điều mà chiếc điện thoại nhà Apple không có . 	0
+[[];[];[];[];[]]
+Nhìn chung , màn hình Google Pixel 7a tuy không xịn sò như iPhone 13 nhưng nó vẫn đủ để người dùng sử dụng và trải nghiệm . 	1
+[[6&&Google 7&&Pixel 8&&7a];[14&&iPhone 15&&13];[4&&màn 5&&hình];[10&&không 11&&xịn 12&&sò 13&&như];[COM-]]
+alt : Google Pixel 7a sở hữu màn hình rộng rãi hơn so với iPhone 13 	0
+[[];[];[];[];[]]
+des : 	0
+[[];[];[];[];[]]
+Hệ thống camera không có quá nhiều sự khác biệt 	1
+[[];[];[1&&Hệ 2&&thống 3&&camera];[4&&không 5&&có 6&&quá 7&&nhiều 8&&sự 9&&khác 10&&biệt];[EQL]]
+Google Pixel 7a và iPhone 13 đều được đánh giá cao về hệ thống camera . 	0
+[[];[];[];[];[]]
+Google Pixel 7a sở hữu cụm camera kép với ống kính chính 64MP và camera góc siêu rộng 13MP . 	0
+[[];[];[];[];[]]
+Trong khi đó , iPhone 13 có cụm 2 camera có độ phân giải 12MP thấp hơn . 	1
+[[5&&iPhone 6&&13];[];[8&&cụm 9&&2 10&&camera];[12&&độ 13&&phân 14&&giải 15&&12MP 16&&thấp 17&&hơn];[COM-]]
+Có thể thấy , hệ thống camera trên Google Pixel 7 có độ phân giải cao hơn rất nhiều so với iPhone 13 . 	1
+[[9&&Google 10&&Pixel 11&&7];[22&&iPhone 23&&13];[5&&hệ 6&&thống 7&&camera];[13&&độ 14&&phân 15&&giải 16&&cao 17&&hơn 18&&rất 19&&nhiều];[COM+]]
+[[5&&hệ 6&&thống 7&&camera 8&&trên 9&&Google 10&&Pixel 11&&7];[22&&iPhone 23&&13];[13&&độ 14&&phân 15&&giải];[16&&cao 17&&hơn 18&&rất 19&&nhiều];[COM+]]
+Tuy nhiên , nếu so sánh ảnh chụp thực tế của iPhone 13 và Google Pixel 7a thì lại tương đương nhau . 	1
+[[12&&iPhone 13&&13];[15&&Google 16&&Pixel 17&&7a];[7&&ảnh 8&&chụp 9&&thực 10&&tế];[20&&tương 21&&đương 22&&nhau];[EQL]]
+alt : Hệ thống camera không có quá nhiều sự khác biệt 	0
+[[];[];[];[];[]]
+des : 	0
+[[];[];[];[];[]]
+Cả hai mẫu điện thoại đều có khả năng quay video 4K với tốc độ 60 khung hình / giây . 	1
+[[1&&Cả 2&&hai 3&&mẫu 4&&điện 5&&thoại];[];[8&&khả 9&&năng 10&&quay 11&&video 12&&4K 13&&với 14&&tốc 15&&độ 16&&60 17&&khung 18&&hình 19&&/ 20&&giây];[6&&đều 7&&có];[EQL]]
+Tuy nhiên , Google Pixel 7a lại có ưu điểm hơn về khả năng chụp ảnh xóa phông . 	1
+[[4&&Google 5&&Pixel 6&&7a];[];[13&&khả 14&&năng 15&&chụp 16&&ảnh 17&&xóa 18&&phông];[9&&ưu 10&&điểm 11&&hơn];[COM+]]
+Tính năng này giúp người dùng tạo ra những bức ảnh xóa phông chuyên nghiệp , trông rất đẹp mắt và tự nhiên . 	0
+[[];[];[];[];[]]
+Bên cạnh đó , iPhone 13 cũng được trang bị một tính năng tuyệt vời không thua kém gì mẫu flagship nhà Google . 	1
+[[5&&iPhone 6&&13];[20&&mẫu 21&&flagship 22&&nhà 23&&Google];[11&&một 12&&tính 13&&năng 14&&tuyệt 15&&vời];[16&&không 17&&thua 18&&kém 19&&gì];[EQL]]
+Thiết bị sở hữu tính năng chụp ảnh Night mode cực ấn tượng , với khả năng tái tạo màu sắc và chi tiết tốt những bức ảnh chụp trong điều kiện ánh sáng yếu . 	0
+[[];[];[];[];[]]
+Flagship Android tầm trung nhưng sở hữu hiệu năng mạnh mẽ ngang iPhone 13 	1
+[[1&&Flagship 2&&Android 3&&tầm 4&&trung];[13&&iPhone 14&&13];[8&&hiệu 9&&năng];[10&&mạnh 11&&mẽ 12&&ngang];[EQL]]
+Thông thường , những mẫu điện thoại Android tầm trung sẽ có bộ vi xử lý chậm hơn , nhưng Google Pixel 7a là một trường hợp ngoại lệ . 	1
+[[4&&những 5&&mẫu 6&&điện 7&&thoại 8&&Android 9&&tầm 10&&trung];[];[13&&bộ 14&&vi 15&&xử 16&&lý];[17&&chậm 18&&hơn];[COM-]]
+Google Pixel 7a được trang bị chip Google Tensor G2 đi kèm RAM 8GB . 	0
+[[];[];[];[];[]]
+Đây được xem là con chip có hiệu năng tốt nhất hiện nay trong phân khúc trung cấp . 	1
+[[1&&Đây];[];[8&&hiệu 9&&năng];[10&&tốt 11&&nhất 12&&hiện 13&&nay 14&&trong 15&&phân 16&&khúc 17&&trung 18&&cấp];[COM+]]
+Với chipset này , bạn có thể trải nghiệm mượt mà các tác vụ hàng ngày như lướt web , xem phim hay thậm chí là chơi game . 	0
+[[];[];[];[];[]]
+Ngoài ra , Google Pixel 7a cũng được trang bị bộ nhớ rộng rãi , giúp bạn thoải mái lưu trữ nhiều dữ liệu và ứng dụng mà không lo bộ nhớ đầy . 	0
+[[];[];[];[];[]]
+Đặc biệt , máy còn được hỗ trợ công nghệ 5G với tốc độ kết nối nhanh chóng và ổn định . 	0
+[[];[];[];[];[]]
+alt : Flagship Android tầm trung nhưng sở hữu hiệu năng mạnh mẽ ngang iPhone 13 	0
+[[];[];[];[];[]]
+des : 	0
+[[];[];[];[];[]]
+Trong khi đó , iPhone 13 được trang bị bộ vi xử lý A15 Bionic mạnh mẽ với hiệu suất vượt trội . 	0
+[[];[];[];[];[]]
+Kết hợp cùng với RAM 4GB và bộ nhớ lưu trữ 64GB đến 512GB . 	0
+[[];[];[];[];[]]
+Bên cạnh đó , thiết bị cũng được hỗ trợ công nghệ 5G tiên tiến , đảm bảo kết nối nhanh chóng và ổn định . 	0
+[[];[];[];[];[]]
+Với cấu hình này , iPhone 13 có thể mang lại những trải nghiệm mượt mà và đáp ứng tốt cả các tác vụ đa nhiệm và ứng dụng nặng . 	0
+[[];[];[];[];[]]
+Điểm khác biệt đáng chú ý nhất giữa hai thiết bị này đó chính là phần mềm cập nhật bên trong máy . 	1
+[[9&&hai 10&&thiết 11&&bị 12&&này];[9&&hai 10&&thiết 11&&bị 12&&này];[16&&phần 17&&mềm 18&&cập 19&&nhật 20&&bên 21&&trong 22&&máy];[2&&khác 3&&biệt];[DIF]]
+iPhone 13 sở hữu hệ điều hành iOS 16 với nhiều tính năng hấp dẫn hơn so với Android 13 trên Google Pixel 7a . 	1
+[[5&&hệ 6&&điều 7&&hành 8&&iOS 9&&16];[19&&Android 20&&13];[12&&tính 13&&năng];[14&&hấp 15&&dẫn 16&&hơn];[COM+]]
+[[1&&iPhone 2&&13];[22&&Google 23&&Pixel 24&&7a];[5&&hệ 6&&điều 7&&hành];[11&&nhiều 12&&tính 13&&năng 14&&hấp 15&&dẫn 16&&hơn];[COM+]]
+alt : Bảng so sánh thông số kỹ thuật Google Pixel 7a vs iPhone 13 	0
+[[];[];[];[];[]]
+des : 	0
+[[];[];[];[];[]]
+iPhone 13 có thời lượng pin tốt hơn Google Pixel 7a 	1
+[[1&&iPhone 2&&13];[9&&Google 10&&Pixel 11&&7a];[4&&thời 5&&lượng 6&&pin];[7&&tốt 8&&hơn];[COM+]]
+Google Pixel 7a sở hữu viên pin có dung lượng lên đến 4.385 mAh . Nghe có vẻ là một kích thước đáng nể so với viên pin 3.227 mAh trên iPhone 13 . 	0
+[[];[];[];[];[]]
+Tuy nhiên , thời lượng pin sử dụng thực tế trên Google Pixel 7a lại không tồn tại lâu bằng iPhone 13 . 	1
+[[12&&Google 13&&Pixel 14&&7a];[21&&iPhone 22&&13];[4&&thời 5&&lượng 6&&pin 7&&sử 8&&dụng 9&&thực 10&&tế];[16&&không 17&&tồn 18&&tại 19&&lâu 20&&bằng];[COM-]]
+Tốc độ sạc có dây của hai thiết bị này gần như giống hệt nhau . 	1
+[[7&&hai 8&&thiết 9&&bị 10&&này];[7&&hai 8&&thiết 9&&bị 10&&này];[1&&Tốc 2&&độ 3&&sạc 4&&có 5&&dây];[11&&gần 12&&như 13&&giống 14&&hệt 15&&nhau];[EQL]]
+Về sạc không dây , iPhone 13 được tích hợp công nghệ MagSafe 15W nhanh gấp đôi so với tốc độ sạc không dây 7,5W trên Google Pixel 7a . 	1
+[[6&&iPhone 7&&13];[27&&Google 28&&Pixel 29&&7a];[2&&sạc 3&&không 4&&dây];[15&&nhanh 16&&gấp 17&&đôi];[COM+]]
+alt : iPhone 13 có thời lượng pin tốt hơn Google Pixel 7a 	0
+[[];[];[];[];[]]
+des : 	0
+[[];[];[];[];[]]
+Nên mua Google Pixel 7a hay iPhone 13 ? 	0
+[[];[];[];[];[]]
+Google Pixel 7a và iPhone 13 đều là những chiếc flagship đáng mua nhất trong năm 2023 . 	0
+[[];[];[];[];[]]
+Có thể thấy cả hai mẫu điện thoại này đều sở hữu những ưu điểm riêng khác nhau . 	0
+[[];[];[];[];[]]
+Nên lựa chọn Google Pixel 7a hay iPhone 13 còn tùy thuộc vào nhu cầu sử dụng cũng như điều kiện kinh tế của mỗi người . 	0
+[[];[];[];[];[]]
+Nếu bạn đang tìm kiếm một mẫu điện thoại Android với nhiều cải tiến hiện đại và giá cả hợp lý thì Google Pixel 7a sẽ là sự lựa chọn phù hợp nhất . 	0
+[[];[];[];[];[]]
+Tuy nhiên , nếu bạn yêu thích một chiếc smartphone có hiệu năng mạnh mẽ và màn hình chất lượng hơn thì iPhone 13 sẽ là một lựa chọn tuyệt vời . 	0
+[[];[];[];[];[]]
+Title : So sánh iPhone 13 và Google Pixel 6 : Đâu mới là trùm cuối ? 	0
+[[];[];[];[];[]]
+Sau nhiều ngày chờ đợi , Google mới đây vừa chính thức ra mắt dòng Pixel 6 mới . 	0
+[[];[];[];[];[]]
+Năm nay , các điện thoại thuộc phân khúc cao cấp chứ không phải là tầm trung như các mẫu máy Pixel 5 tiền nhiệm . 	0
+[[];[];[];[];[]]
+Điều đó có nghĩa là Pixel 6 sẽ phải cạnh tranh khá nhiều đối thủ “ sừng sỏ ” khác và iPhone 13 của Apple là một trong số đó . 	0
+[[];[];[];[];[]]
+Vậy khi đặt lên bàn cân so sánh thì đâu mới là lựa chọn tốt hơn cho người dùng ? 	0
+[[];[];[];[];[]]
+alt : So sánh iPhone 13 và Google Pixel 6 ( ảnh 1 ) 	0
+[[];[];[];[];[]]
+des : 	0
+[[];[];[];[];[]]
+So sánh về thiết kế 	0
+[[];[];[];[];[]]
+Google Pixel 6 đi kèm với một thiết kế hoàn toàn mới , và trông hoàn toàn khác biệt so với các smartphone khác trên thị trường . 	1
+[[1&&Google 2&&Pixel 3&&6];[22&&các 23&&smartphone 24&&khác 25&&trên 26&&thị 27&&trường];[8&&thiết 9&&kế];[16&&hoàn 17&&toàn 18&&khác 19&&biệt];[DIF]]
+Không giống như các nhà sản xuất khác , Google quyết định không chạy theo xu hướng và tung ra một thiết bị có mô-đun camera hoàn toàn khác với iPhone . 	1
+[[10&&Google];[31&&iPhone];[25&&mô-đun 26&&camera];[27&&hoàn 28&&toàn 29&&khác];[DIF]]
+[[10&&Google];[4&&các 5&&nhà 6&&sản 7&&xuất 8&&khác];[];[1&&Không 2&&giống];[DIF]]
+alt : So sánh iPhone 13 và Google Pixel 6 ( ảnh 2 ) 	0
+[[];[];[];[];[]]
+des : 	0
+[[];[];[];[];[]]
+Điện thoại Pixel mới cũng đi kèm với chất lượng hoàn thiện tuyệt vời khi đi kèm lớp kính bảo vệ Gorilla Glass Victus cho mặt trước , kính bảo vệ Gorilla Glass 6 cho mặt sau và chứng nhận IP68 đảm bảo khả năng chống nước và bụi . 	0
+[[];[];[];[];[]]
+Trong khi đó , iPhone 13 có thiết kế có phần nhàm chán với phần notch và cụm camera hình vuông , nhưng di động Apple vẫn có chất lượng hoàn thiện thậm chí còn tốt hơn Pixel 6 với kính Ceramic Shield và chứng nhận IP68 cho phép nó chịu được nước sâu tới 6 mét . 	1
+[[24&&di 25&&động 26&&Apple];[38&&Pixel 39&&6];[29&&chất 30&&lượng 31&&hoàn 32&&thiện];[36&&tốt 37&&hơn];[COM+]]
+Cuối cùng nhưng không kém phần quan trọng , iPhone 13 nhỏ gọn hơn , cho cảm giác cầm nắm bằng một tay thoải mái hơn so với Pixel 6 . 	1
+[[10&&iPhone 11&&13];[29&&Pixel 30&&6];[];[12&&nhỏ 13&&gọn 14&&hơn];[COM]]
+[[10&&iPhone 11&&13];[29&&Pixel 30&&6];[17&&cảm 18&&giác 19&&cầm 20&&nắm 21&&bằng 22&&một 23&&tay];[24&&thoải 25&&mái 26&&hơn];[COM+]]
+So sánh màn hình 	0
+[[];[];[];[];[]]
+alt : So sánh iPhone 13 và Google Pixel 6 ( ảnh 3 ) 	0
+[[];[];[];[];[]]
+des : 	0
+[[];[];[];[];[]]
+Nếu bạn đang tìm kiếm một chiếc điện thoại có màn hình chất lượng hơn thì hãy chọn iPhone 13 mà không cần suy nghĩ nhiều . 	1
+[[19&&iPhone 20&&13];[];[11&&màn 12&&hình];[13&&chất 14&&lượng 15&&hơn];[COM+]]
+Tấm nền Super Retina XDR OLED của nó có thể hiển thị màu sắc rất trung thực và độ tương phản tuyệt vời . 	0
+[[];[];[];[];[]]
+Di động Apple cũng đi kèm với chứng nhận HDR10 và hỗ trợ Dolby Vision . 	0
+[[];[];[];[];[]]
+iPhone 13 có thể không dành cho tất cả mọi người vì nó có màn hình 6.1 inch khá nhỏ so với xu hướng hiện nay . 	1
+[[13&&nó];[23&&xu 24&&hướng 25&&hiện 26&&nay];[15&&màn 16&&hình];[19&&khá 20&&nhỏ 21&&so 22&&với];[COM]]
+Nhưng nếu bạn không bận tâm về kích thước thì màn hình của nó là tốt nhất cho nhu cầu của bạn . 	0
+[[];[];[];[];[]]
+Dù vậy , Google Pixel 6 vẫn mang lại ba lợi thế quan trọng về mặt hiển thị . 	0
+[[];[];[];[];[]]
+Đầu tiên là tốc độ làm tươi cao hơn với 90Hz , thứ hai là kích thước lớn hơn với đường chéo 6.4 inch và thứ ba là sự hiện diện của đầu đọc dấu vân tay trong màn hình . 	1
+[[];[];[4&&tốc 5&&độ 6&&làm 7&&tươi];[8&&cao 9&&hơn];[COM+]]
+[[];[];[16&&kích 17&&thước];[18&&lớn 19&&hơn];[COM+]]
+Thông số kỹ thuật và phần mềm 	0
+[[];[];[];[];[]]
+alt : So sánh iPhone 13 và Google Pixel 6 ( ảnh 4 ) 	0
+[[];[];[];[];[]]
+des : 	0
+[[];[];[];[];[]]
+Google Pixel 6 là điện thoại đầu tiên có SoC độc quyền đầu tiên của Google , đó là Google Tensor . 	0
+[[];[];[];[];[]]
+Con chip này được xây dựng trên tiến trình 5nm và là bộ xử lý đầu tiên có hai CPU Cortex-X1 trên bo mạch . 	0
+[[];[];[];[];[]]
+Nó được ghép nối với 8GB RAM và 128GB hoặc 256GB bộ nhớ trong chuẩn UFS 3.1 . 	0
+[[];[];[];[];[]]
+Mặt khác , iPhone 13 có chipset Apple A15 Bionic kết hợp với RAM 4GB và bộ nhớ trong lên đến 512GB . 	0
+[[];[];[];[];[]]
+Dù có bộ nhớ không bằng Pixel 6 nhưng nhờ hệ điều hành iOS tối ưu hóa tốt nên iPhone 13 cung cấp hiệu suất cao hơn và ổn định hơn so với đối thủ của nó . 	1
+[[20&&iPhone 21&&13];[7&&Pixel 8&&6];[3&&bộ 4&&nhớ];[5&&không 6&&bằng];[COM-]]
+[[20&&iPhone 21&&13];[34&&đối 35&&thủ];[24&&hiệu 25&&suất];[26&&cao 27&&hơn];[COM+]]
+[[];[34&&đối 35&&thủ];[24&&hiệu 25&&suất];[29&&ổn 30&&định 31&&hơn];[COM+]]
+Nhưng bạn cũng không nên đánh giá thấp các tính năng của Android 12 và đặc biệt là những tính năng dành riêng cho Pixel 6 . 	0
+[[];[];[];[];[]]
+So sánh máy ảnh 	0
+[[];[];[];[];[]]
+alt : So sánh iPhone 13 và Google Pixel 6 ( ảnh 5 ) 	0
+[[];[];[];[];[]]
+des : 	0
+[[];[];[];[];[]]
+Trên lý thuyết , có vẻ như Google Pixel 6 có thiết lập máy ảnh thú vị hơn khi nó đi kèm với cảm biến chính 50MP với OIS và một máy ảnh siêu rộng 12MP . 	1
+[[8&&Google 9&&Pixel 10&&6];[];[12&&thiết 13&&lập 14&&máy 15&&ảnh];[16&&thú 17&&vị 18&&hơn];[COM]]
+Còn hệ thống camera kép của iPhone 13 chỉ có cùng độ phân giải 12MP . 	0
+[[];[];[];[];[]]
+Dù vậy , về chất lượng ảnh thực tế thì nhiều khả năng bộ đôi điện thoại này sẽ cho ra những bức ảnh không chênh lệch nhau quá nhiều và dư sức đáp ứng tốt nhu cầu sử dụng hàng ngày của người dùng . 	1
+[[14&&bộ 15&&đôi 16&&điện 17&&thoại 18&&này];[14&&bộ 15&&đôi 16&&điện 17&&thoại 18&&này];[5&&chất 6&&lượng 7&&ảnh];[25&&không 26&&chênh 27&&lệch 28&&nhau 29&&quá 30&&nhiều];[EQL]]
+So sánh thời lượng pin 	0
+[[];[];[];[];[]]
+alt : So sánh iPhone 13 và Google Pixel 6 ( ảnh 6 ) 	0
+[[];[];[];[];[]]
+des : 	0
+[[];[];[];[];[]]
+Google Pixel 6 có pin lớn hơn với dung lượng 4,614 mAh và Google rất giỏi trong việc tối ưu hóa điện thoại của mình để đạt được thời lượng pin cao nhất có thể . 	1
+[[1&&Google 2&&Pixel 3&&6];[];[5&&pin];[6&&lớn 7&&hơn];[COM+]]
+Do đó , iPhone 13 nhiều khả năng sẽ có thời lượng pin kém hơn một chút so với đối thủ đến từ Google . 	1
+[[4&&iPhone 5&&13];[20&&đối 21&&thủ 22&&đến 23&&từ 24&&Google];[11&&thời 12&&lượng 13&&pin];[14&&kém 15&&hơn 16&&một 17&&chút];[COM-]]
+Tạm kết 	0
+[[];[];[];[];[]]
+alt : So sánh iPhone 13 và Google Pixel 6 ( ảnh 7 ) 	0
+[[];[];[];[];[]]
+des : 	0
+[[];[];[];[];[]]
+Nhìn chung , Pixel 6 mang đến nhiều cải tiến so với mẫu máy tiền nhiệm , nhưng rõ ràng iPhone 13 là một lựa chọn tốt hơn cho người dùng khi sở hữu màn hình cực kỳ chất lượng , hiệu năng mạnh mẽ và hệ thống camera tuyệt vời . . 	1
+[[4&&Pixel 5&&6];[13&&mẫu 14&&máy 15&&tiền 16&&nhiệm];[];[8&&nhiều 9&&cải 10&&tiến 11&&so 12&&với];[COM+]]
+Tuy nhiên , Pixel 6 có thể khiến chúng ta ngạc nhiên trong tương lai với các tính năng mới và sự tối ưu hóa của nó , vì vậy đừng đánh giá thấp điện thoại này . 	0
+[[];[];[];[];[]]
+title : So sánh Oppo Find N2 Flip và Samsung Galaxy Z Flip 4 : Nên mua máy nào ? 	0
+[[];[];[];[];[]]
+Bên cạnh việc là smartphone nắp gập đầu tiên của thương hiệu , đây cũng sẽ là điện thoại màn hình gập đầu tiên của Oppo tung ra thị trường toàn cầu . 	0
+[[];[];[];[];[]]
+Khi đó , thiết bị này sẽ gặp phải một đối thủ quan trọng và duy nhất là Galaxy Z Flip 4 . 	0
+[[];[];[];[];[]]
+Hãy cùng so sánh Oppo Find N2 Flip và Samsung Galaxy Z Flip 4 : Nên mua máy nào ? 	0
+[[];[];[];[];[]]
+Tổng quan về điện thoại Oppo Find N2 Flip 	0
+[[];[];[];[];[]]
+Thiết kế màn hình gập của Find N2 Flip với tỷ lệ khung hình rộng và viền mỏng . 	0
+[[];[];[];[];[]]
+Điểm thú vị nhất trên điện thoại Oppo mới này là màn hình phụ . 	0
+[[];[];[];[];[]]
+Nhờ kích thước lớn , màn hình này có thể tận dụng để hiển thị một bảng dự báo thời tiết lớn , danh sách thông báo hay trình phát nhạc . 	0
+[[];[];[];[];[]]
+Phần mặt lưng được hoàn thiện từ chất liệu kim loại nhám cao cấp mang đến vẻ ngoài bền bỉ và hạn chế được tình trạng bám mồ hôi hoặc vân tay khi sử dụng . 	0
+[[];[];[];[];[]]
+Oppo Find N2 Flip có màn hình gập được , khi mở ra thì chúng ta có một chiếc smartphone như bình thường . 	0
+[[];[];[];[];[]]
+alt : Tỷ lệ khung hình rộng và viền mỏng 	0
+[[];[];[];[];[]]
+des : Tỷ lệ khung hình rộng và viền mỏng 	0
+[[];[];[];[];[]]
+Tổng quan về điện thoại Samsung Galaxy Z Flip 4 	0
+[[];[];[];[];[]]
+Galaxy Z Flip 4 được thiết kế vuông vắn hơn nhờ tạo hình vát phẳng ở hai mặt và các cạnh , phần mặt lưng của điện thoại Samsung này được phủ một lớp nhám nhẹ giúp cầm nắm chắc tay hơn , hạn chế được tình trạng bám dấu vân tay trong quá trình sử dụng . 	0
+[[];[];[];[];[]]
+Bộ khung và bản lề của sản phẩm được hoàn thiện từ vật liệu Armor Aluminum cứng cáp . 	0
+[[];[];[];[];[]]
+Liên kết giữa các chi tiết được làm khít lại để giúp máy có thể kháng nước tốt hơn với chuẩn IPX8 , giao diện chụp ảnh chia đôi màn hình đã hỗ trợ trên ứng dụng camera bên thứ 3 . 	0
+[[];[];[];[];[]]
+alt : Thiết kế vuông vắn hơn nhờ tạo hình vát phẳng ở hai mặt và các cạnh 	0
+[[];[];[];[];[]]
+des : Thiết kế vuông vắn hơn nhờ tạo hình vát phẳng ở hai mặt và các cạnh 	0
+[[];[];[];[];[]]
+So sánh điện thoại Oppo Find N2 Flip với Samsung Z Flip 4 	0
+[[];[];[];[];[]]
+Thiết kế 	0
+[[];[];[];[];[]]
+Galaxy Z Flip 4 và Find N2 Flip có ngôn ngữ thiết kế khá giống nhau . 	1
+[[1&&Galaxy 2&&Z 3&&Flip 4&&4];[6&&Find 7&&N2 8&&Flip];[10&&ngôn 11&&ngữ 12&&thiết 13&&kế];[14&&khá 15&&giống 16&&nhau];[EQL]]
+Cả hai điện thoại này đều sở hữu màn hình gập dọc dạng vỏ sò với bản lề nằm chính giữa . 	1
+[[1&&Cả 2&&hai 3&&điện 4&&thoại];[1&&Cả 2&&hai 3&&điện 4&&thoại];[9&&màn 10&&hình 11&&gập 12&&dọc 13&&dạng 14&&vỏ 15&&sò 16&&với 17&&bản 18&&lề 19&&nằm 20&&chính 21&&giữa];[6&&đều 7&&sở 8&&hữu];[EQL]]
+Bộ đôi này còn được hoàn thiện từ chất liệu cao cấp , bao gồm mặt lưng kính và khung nhôm . 	0
+[[];[];[];[];[]]
+Khi mở ra , cả Galaxy Z Flip 4 và Find N2 Flip trông giống như những chiếc điện thoại bình thường với màn hình phụ ở phía sau , nhưng khi gập lại thì bạn sẽ có những thiết bị cực kỳ nhỏ gọn , dễ dàng cầm nắm bằng một tay . 	1
+[[6&&Galaxy 7&&Z 8&&Flip 9&&4];[17&&những 18&&chiếc 19&&điện 20&&thoại 21&&bình 22&&thường];[];[14&&trông 15&&giống 16&&như];[EQL]]
+[[11&&Find 12&&N2 13&&Flip];[17&&những 18&&chiếc 19&&điện 20&&thoại 21&&bình 22&&thường];[];[14&&trông 15&&giống 16&&như];[EQL]]
+Hơn nữa , Galaxy Z Flip 4 còn hỗ trợ khả năng kháng nước đạt tiêu chuẩn IPX8 , tính năng mà Find N2 Flip đã bỏ lỡ . 	0
+[[];[];[];[];[]]
+alt : Ngôn ngữ thiết kế khá giống nhau 	0
+[[];[];[];[];[]]
+des : Ngôn ngữ thiết kế khá giống nhau 	0
+[[];[];[];[];[]]
+Màn hình 	0
+[[];[];[];[];[]]
+Các thông số màn hình chính của Oppo Find N2 Flip và Z Flip 4 không có nhiều sự khác biệt . 	1
+[[8&&Oppo 9&&Find 10&&N2 11&&Flip];[13&&Z 14&&Flip 15&&4];[2&&thông 3&&số 4&&màn 5&&hình 6&&chính];[16&&không 17&&có 18&&nhiều 19&&sự 20&&khác 21&&biệt];[EQL]]
+alt : Find N2 Flip có kích thước nhỉnh hơn 	0
+[[];[];[];[];[]]
+des : Find N2 Flip có kích thước nhỉnh hơn 	1
+[[3&&Find 4&&N2 5&&Flip];[];[7&&kích 8&&thước];[9&&nhỉnh 10&&hơn];[COM+]]
+Độ phân giải 1080 x 2520 pixels cùng tần số quét 120Hz và độ sáng tối đa đạt 1600 nits . 	0
+[[];[];[];[];[]]
+Samsung Z Flip 4 nhỏ hơn một chút với màn hình 6.7 inches , sử dụng tấm nền Dynamic AMOLED 2X . 	1
+[[1&&Samsung 2&&Z 3&&Flip 4&&4];[];[10&&màn 11&&hình];[5&&nhỏ 6&&hơn 7&&một 8&&chút];[COM-]]
+Tần số quét 120Hz nhưng độ phân giải lên tới 1080x 2640 pixels . 	0
+[[];[];[];[];[]]
+Ngoài ra , màn hình phụ của Z Flip 4 có độ phân giải 260 x 512 Pixels nhỏ hơn so với màn hình phụ của Find N2 là 720 x 382 Pixels . 	1
+[[4&&màn 5&&hình 6&&phụ 7&&của 8&&Z 9&&Flip 10&&4];[23&&màn 24&&hình 25&&phụ 26&&của 27&&Find 28&&N2];[12&&độ 13&&phân 14&&giải];[19&&nhỏ 20&&hơn];[COM-]]
+alt : Find N2 Flip có kích thước nhỉnh hơn 	0
+[[];[];[];[];[]]
+des : Find N2 Flip có kích thước nhỉnh hơn 	1
+[[3&&Find 4&&N2 5&&Flip];[];[7&&kích 8&&thước];[9&&nhỉnh 10&&hơn];[COM+]]
+Camera 	0
+[[];[];[];[];[]]
+Oppo Find N2 Flip sở hữu phần máy ảnh ấn tượng hơn , gồm cảm biến chính Sony IMX890 tốt hơn với độ phân giải 50MP nhưng thiếu công nghệ chống rung quang học ( OIS ) , trong khi camera chính Galaxy Z Flip 4 có tính năng này nhưng chỉ sở hữu độ phân giải 12MP . 	1
+[[1&&Oppo 2&&Find 3&&N2 4&&Flip];[43&&Galaxy 44&&Z 45&&Flip 46&&4];[8&&máy 9&&ảnh];[10&&ấn 11&&tượng 12&&hơn];[COM+]]
+[[1&&Oppo 2&&Find 3&&N2 4&&Flip];[43&&Galaxy 44&&Z 45&&Flip 46&&4];[15&&cảm 16&&biến 17&&chính];[20&&tốt 21&&hơn];[COM+]]
+Camera selfie của điện thoại Oppo có độ phân giải lên tới 32MP với HDR và panorama . 	0
+[[];[];[];[];[]]
+Về cơ bản , chất lượng camera của hai máy đều mang đến những bức ảnh hấp dẫn người chụp . 	1
+[[9&&hai 10&&máy];[9&&hai 10&&máy];[5&&chất 6&&lượng 7&&camera];[11&&đều 12&&mang 13&&đến 14&&những 15&&bức 16&&ảnh 17&&hấp 18&&dẫn 19&&người 20&&chụp];[EQL]]
+Tuy nhiên với thông số cao hơn đi kèm các thuật toán hỗ trợ chụp ảnh , camera của Find N2 Flip hấp dẫn hơn chiếc điện thoại gập còn lại . 	1
+[[20&&Find 21&&N2 22&&Flip];[26&&chiếc 27&&điện 28&&thoại 29&&gập 30&&còn 31&&lại];[18&&camera];[23&&hấp 24&&dẫn 25&&hơn];[COM+]]
+[[20&&Find 21&&N2 22&&Flip];[26&&chiếc 27&&điện 28&&thoại 29&&gập 30&&còn 31&&lại];[18&&camera];[4&&thông 5&&số 6&&cao 7&&hơn];[COM+]]
+alt : OPPO Find N2 Flip sở hữu phần máy ảnh ấn tượng hơn 	0
+[[];[];[];[];[]]
+des : OPPO Find N2 Flip sở hữu phần máy ảnh ấn tượng hơn 	1
+[[3&&OPPO 4&&Find 5&&N2 6&&Flip];[];[10&&máy 11&&ảnh];[12&&ấn 13&&tượng 14&&hơn];[COM+]]
+Hiệu năng 	0
+[[];[];[];[];[]]
+Hai chiếc điện thoại gập được trang bị hai chip xử lý mạnh mẽ đến từ hai thương hiệu lớn . 	0
+[[];[];[];[];[]]
+Galaxy Z Flip 4 sử dụng chip Snapdragon 8 + Gen 1 của nhà Qualcomm , N2 Flip sẽ dùng chip Dimensity 9000 + của Mediatek . 	0
+[[];[];[];[];[]]
+Đây đều là hai chip xử lý được đánh giá cao trong phân khúc cao cấp hiện nay . 	0
+[[];[];[];[];[]]
+Trên lý thuyết , chip Dimensity 9000 + có hiệu suất hoạt động tốt hơn Snapdragon 8 + Gen 1 . 	1
+[[6&&Dimensity 7&&9000 8&&+];[16&&Snapdragon 17&&8 18&&+ 19&&Gen 20&&1];[10&&hiệu 11&&suất 12&&hoạt 13&&động];[14&&tốt 15&&hơn];[COM+]]
+Tuy nhiên hai chip xử lý cùng được sản xuất trên tiến trình 4nm nhưng khả năng tiết kiệm điện năng lại không có quá nhiều chênh lệch . 	1
+[[3&&hai 4&&chip 5&&xử 6&&lý];[3&&hai 4&&chip 5&&xử 6&&lý];[16&&khả 17&&năng 18&&tiết 19&&kiệm 20&&điện 21&&năng];[23&&không 24&&có 25&&quá 26&&nhiều 27&&chênh 28&&lệch];[EQL]]
+alt : Trang bị hai chip xử lý mạnh mẽ đến từ hai thương hiệu lớn 	0
+[[];[];[];[];[]]
+des : Trang bị hai chip xử lý mạnh mẽ đến từ hai thương hiệu lớn 	0
+[[];[];[];[];[]]
+Pin và sạc 	0
+[[];[];[];[];[]]
+Oppo đã trang bị viên pin có mức dung lượng 4300mAh cho điện thoại gập của hãng . 	0
+[[];[];[];[];[]]
+Còn Z Flip 4 lại chỉ sở hữu viên pin dung lượng 3700mAh . 	0
+[[];[];[];[];[]]
+Oppo còn hỗ trợ công nghệ sạc nhanh có dây 44W , so với sạc 25W của Z Flip 4 . 	0
+[[];[];[];[];[]]
+Do sức mạnh đến từ bộ vi xử lý tương tự nhau nên không có nhiều sự khác biệt về khả năng tiết kiệm điện năng . 	1
+[[];[];[6&&bộ 7&&vi 8&&xử 9&&lý];[10&&tương 11&&tự 12&&nhau];[EQL]]
+[[];[];[21&&khả 22&&năng 23&&tiết 24&&kiệm 25&&điện 26&&năng];[14&&không 15&&có 16&&nhiều 17&&sự 18&&khác 19&&biệt];[DIF]]
+Vậy nên với dung lượng cao hơn , Find N2 Flip có thời lượng hoạt động dài hơn thiết bị còn lại . 	1
+[[9&&Find 10&&N2 11&&Flip];[19&&thiết 20&&bị 21&&còn 22&&lại];[13&&thời 14&&lượng 15&&hoạt 16&&động];[17&&dài 18&&hơn];[COM+]]
+[[9&&Find 10&&N2 11&&Flip];[19&&thiết 20&&bị 21&&còn 22&&lại];[4&&dung 5&&lượng];[6&&cao 7&&hơn];[COM+]]
+alt : Không có nhiều sự khác biệt về khả năng tiết kiệm điện năng 	0
+[[];[];[];[];[]]
+des : Không có nhiều sự khác biệt về khả năng tiết kiệm điện năng 	1
+[[];[];[10&&khả 11&&năng 12&&tiết 13&&kiệm 14&&điện 15&&năng];[3&&Không 4&&có 5&&nhiều 6&&sự 7&&khác 8&&biệt];[EQL]]
+alt : Bạn có thể mua điện thoại tại Thế Giới Di Động 	0
+[[];[];[];[];[]]
+des : Bạn có thể mua điện thoại tại Thế Giới Di Động 	0
+[[];[];[];[];[]]
+Bài viết trên đây đã giúp bạn so sánh Oppo Find N2 Flip và Samsung Galaxy Z Flip 4 : Nên mua máy nào ? 	0
+[[];[];[];[];[]]
+Hẹn gặp lại bạn ở các bài viết sau ! 	0
+[[];[];[];[];[]]
+title : So sánh Redmi Note 11 với Galaxy M32 5G và Realme 8 5G 	0
+[[];[];[];[];[]]
+Thiết kế 	0
+[[];[];[];[];[]]
+alt : Redmi Note 11 và Redmi Note 11 Pro Plus 	0
+[[];[];[];[];[]]
+des : Redmi Note 11 và Redmi Note 11 Pro Plus 	0
+[[];[];[];[];[]]
+Cá nhân mình nhận thấy , Redmi Note 11 sở hữu thiết kế đẹp và ấn tượng nhất trong bộ ba điện thoại này . 	1
+[[7&&Redmi 8&&Note 9&&11];[];[12&&thiết 13&&kế];[14&&đẹp 15&&và 16&&ấn 17&&tượng 18&&nhất 19&&trong 20&&bộ 21&&ba 22&&điện 23&&thoại 24&&này];[COM+]]
+Di động Xiaomi được trang bị màn hình đục lỗ hiện đại , bắt mắt ở mặt trước để chứa camera selfie nằm ở vị trí chính giữa viền trên . 	0
+[[];[];[];[];[]]
+Trong khi đó , Realme 8 5G cũng sở hữu màn hình đục lỗ nhưng camera trước của nó nằm ở góc trên cùng bên trái nên không đẹp và đối xứng như Redmi Note 11 . 	1
+[[5&&Realme 6&&8 7&&5G];[34&&Redmi 35&&Note 36&&11];[11&&màn 12&&hình 13&&đục 14&&lỗ];[8&&cũng 9&&sở 10&&hữu];[EQL]]
+[[5&&Realme 6&&8 7&&5G];[34&&Redmi 35&&Note 36&&11];[16&&camera 17&&trước];[28&&không 29&&đẹp 30&&và 31&&đối 32&&xứng 33&&như];[EQL]]
+Còn Galaxy M32 5G sở hữu màn hình giọt nước kém hiện đại hơn . 	1
+[[2&&Galaxy 3&&M32 4&&5G];[];[7&&màn 8&&hình];[11&&kém 12&&hiện 13&&đại 14&&hơn];[COM-]]
+alt : Galaxy M32 5G 	0
+[[];[];[];[];[]]
+des : Galaxy M32 5G 	0
+[[];[];[];[];[]]
+Di chuyển sang mặt sau , cả ba điện thoại này đều sở hữu thân máy được hoàn thiện từ chất liệu nhựa , cụm camera sau khá lớn và mỗi thiết bị đều có điểm nhấn của riêng mình . 	0
+[[];[];[];[];[]]
+Trong đó , Redmi Note 11 đi kèm các hiệu ứng chuyển màu gradient bắt mắt , còn Realme 8 5G có hiệu ứng ánh sáng thú vị phát ra từ cụm camera sau . 	0
+[[];[];[];[];[]]
+Cuối cùng , Galaxy M32 5G có thiết kế phía sau rất đẹp với các cảm biến được đặt trực tiếp trong vỏ và không có mô-đun máy ảnh . 	0
+[[];[];[];[];[]]
+Màn hình 	0
+[[];[];[];[];[]]
+alt : Màn hình IPS với tốc độ làm mới 90Hz trên realme 8 5G 	0
+[[];[];[];[];[]]
+des : Màn hình IPS với tốc độ làm mới 90Hz trên realme 8 5G 	0
+[[];[];[];[];[]]
+Galaxy M32 5G có chất lượng màn hình kém hơn 2 mẫu máy còn lại . 	1
+[[1&&Galaxy 2&&M32 3&&5G];[11&&2 12&&mẫu 13&&máy 14&&còn 15&&lại];[5&&chất 6&&lượng 7&&màn 8&&hình];[9&&kém 10&&hơn];[COM-]]
+Điều này là do di động Samsung sử dụng màn hình TFT , trong khi Redmi Note 11 và Realme 8 5G đi kèm với tấm nền IPS tốt hơn . 	1
+[[16&&Redmi 17&&Note 18&&11];[7&&Samsung];[26&&tấm 27&&nền];[29&&tốt 30&&hơn];[COM+]]
+[[20&&Realme 21&&8 22&&5G];[7&&Samsung];[26&&tấm 27&&nền];[29&&tốt 30&&hơn];[COM+]]
+Hơn nữa , màn hình di động Samsung có độ phân giải HD + thấp hơn và tốc độ làm mới t60Hz tiêu chuẩn . 	1
+[[4&&màn 5&&hình 6&&di 7&&động 8&&Samsung];[];[10&&độ 11&&phân 12&&giải];[15&&thấp 16&&hơn];[COM-]]
+Với Redmi Note 11 và Realme 8 5G , bạn sẽ có được độ phân giải Full-HD + và tốc độ làm mới 90Hz cao hơn . 	1
+[[2&&Redmi 3&&Note 4&&11];[];[20&&tốc 21&&độ 22&&làm 23&&mới];[25&&cao 26&&hơn];[COM+]]
+[[6&&Realme 7&&8 8&&5G];[];[20&&tốc 21&&độ 22&&làm 23&&mới];[25&&cao 26&&hơn];[COM+]]
+Điện thoại Xiaomi có màn hình rộng hơn một chút với kích thước 6.6 inch , trong khi Realme 8 5G dừng ở con số 6.5 inch . 	1
+[[1&&Điện 2&&thoại 3&&Xiaomi];[19&&Realme 20&&8];[5&&màn 6&&hình];[7&&rộng 8&&hơn 9&&một 10&&chút];[COM+]]
+Phần cứng và phần mềm 	0
+[[];[];[];[];[]]
+alt : Bảng thông số kỹ thuật 	0
+[[];[];[];[];[]]
+des : Bảng thông số kỹ thuật 	0
+[[];[];[];[];[]]
+Redmi Note 11 có bộ phận phần cứng tiên tiến nhất vì nó đi kèm với bộ vi xử lý mạnh hơn : Mediatek Dimensity 810 5G mới được xây dựng trên tiến trình 6nm với xung nhịp tối đa là 2.4 GHz . Con chip này được kết hợp với RAM lên đến 8GB và bộ nhớ trong tối đa 256GB . 	1
+[[1&&Redmi 2&&Note 3&&11];[];[5&&bộ 6&&phận 7&&phần 8&&cứng];[9&&tiên 10&&tiến 11&&nhất];[COM+]]
+[[13&&nó];[];[17&&bộ 18&&vi 19&&xử 20&&lý];[21&&mạnh 22&&hơn];[COM+]]
+Mặt khác , hai điện thoại còn lại đều sử dụng chipset Mediatek Dimensity 700 , nhưng hiệu năng của Realme 8 5G hứa hẹn nhỉnh hơn một chút so với Galaxy M32 5G vì nó sử dụng bộ nhớ trong chuẩn UFS 2.1 nhanh hơn . 	1
+[[4&&hai 5&&điện 6&&thoại 7&&còn 8&&lại];[4&&hai 5&&điện 6&&thoại 7&&còn 8&&lại];[12&&chipset 13&&Mediatek 14&&Dimensity 15&&700];[9&&đều 10&&sử 11&&dụng];[EQL]]
+[[21&&Realme 22&&8 23&&5G];[32&&Galaxy 33&&M32 34&&5G];[18&&hiệu 19&&năng];[26&&nhỉnh 27&&hơn 28&&một 29&&chút];[COM+]]
+[[21&&Realme 22&&8 23&&5G];[32&&Galaxy 33&&M32 34&&5G];[39&&bộ 40&&nhớ 41&&trong];[45&&nhanh 46&&hơn];[COM+]]
+Về phần mềm , tất cả các điện thoại này đều chạy trên hệ điều hành Android 11 với giao diện tùy chỉnh riêng của mỗi hãng . 	1
+[[5&&tất 6&&cả 7&&các 8&&điện 9&&thoại 10&&này];[];[2&&phần 3&&mềm];[11&&đều 12&&chạy 13&&trên 14&&hệ 15&&điều 16&&hành 17&&Android 18&&11];[EQL]]
+Máy ảnh 	0
+[[];[];[];[];[]]
+alt : Redmi Note 11 có 2 camera ở phía sau với camera chính 50MP 	0
+[[];[];[];[];[]]
+des : Redmi Note 11 có 2 camera ở phía sau với camera chính 50MP 	0
+[[];[];[];[];[]]
+Trong ba smartphone này , Galaxy M32 5G có hệ thống máy ảnh linh hoạt nhất . 	1
+[[6&&Galaxy 7&&M32 8&&5G];[];[10&&hệ 11&&thống 12&&máy 13&&ảnh];[14&&linh 15&&hoạt 16&&nhất];[COM+]]
+Di động Samsung sở hữu hệ thống 4 camera sau , bao gồm cảm biến chính 48MP , ống kính góc siêu rộng 8MP , camera macro 5MP và cảm biến độ sâu 2MP . 	0
+[[];[];[];[];[]]
+Redmi Note 11 chỉ có hai camera ở phía sau , nhưng camera chính vượt trội hơn vì nó sử dụng cảm biến 50MP mới hơn mang lại chất lượng ảnh tốt hơn . 	1
+[[13&&camera 14&&chính];[];[];[15&&vượt 16&&trội 17&&hơn];[COM+]]
+[[13&&camera 14&&chính];[];[29&&chất 30&&lượng 31&&ảnh];[32&&tốt 33&&hơn];[COM+]]
+[[19&&nó];[];[22&&cảm 23&&biến];[25&&mới 26&&hơn];[COM+]]
+Realme 8 5G thua cuộc vì thiếu camera siêu rộng . 	0
+[[];[];[];[];[]]
+Thời lượng pin 	0
+[[];[];[];[];[]]
+alt : Thiết kế siêu mỏng nhẹ , tinh tế trên realme 8 5G 	0
+[[];[];[];[];[]]
+des : Thiết kế siêu mỏng nhẹ , tinh tế trên realme 8 5G 	0
+[[];[];[];[];[]]
+Cả ba smartphone này đều sở hữu viên pin có dung lượng khá tốt là 5,000 mAh . Nhưng Samsung Galaxy M32 5G sẽ cung cấp thời lượng pin lâu hơn vì nó đi kèm màn hình hỗ trợ độ phân giải và tốc độ làm mới thấp hơn . 	1
+[[20&&Samsung 21&&Galaxy 22&&M32 23&&5G];[];[27&&thời 28&&lượng 29&&pin];[30&&lâu 31&&hơn];[COM+]]
+[[33&&nó];[];[40&&độ 41&&phân 42&&giải];[48&&thấp 49&&hơn];[COM-]]
+[[33&&nó];[];[44&&tốc 45&&độ 46&&làm 47&&mới];[48&&thấp 49&&hơn];[COM-]]
+Redmi Note 11 có sạc nhanh hơn ( 33W ) . 	1
+[[1&&Redmi 2&&Note 3&&11];[];[5&&sạc];[6&&nhanh 7&&hơn];[COM+]]
+Tạm kết 	0
+[[];[];[];[];[]]
+Qua bài so sánh trên , có thể thấy Redmi Note 11 nổi bật và đáng mua hơn hai mẫu máy còn lại . 	1
+[[10&&Redmi 11&&Note 12&&11];[19&&hai 20&&mẫu 21&&máy 22&&còn 23&&lại];[];[13&&nổi 14&&bật];[COM+]]
+[[10&&Redmi 11&&Note 12&&11];[19&&hai 20&&mẫu 21&&máy 22&&còn 23&&lại];[];[16&&đáng 17&&mua 18&&hơn];[COM+]]
+Điện thoại này sở hữu màn hình đục lỗ bắt mắt , trông hiện đại hơn , màn hình chất lượng , phần cứng mạnh mẽ , camera chính chất lượng và sạc nhanh hơn hai điện thoại còn lại . 	1
+[[1&&Điện 2&&thoại 3&&này];[36&&hai 37&&điện 38&&thoại 39&&còn 40&&lại];[6&&màn 7&&hình];[14&&hiện 15&&đại 16&&hơn];[COM+]]
+[[1&&Điện 2&&thoại 3&&này];[36&&hai 37&&điện 38&&thoại 39&&còn 40&&lại];[33&&sạc];[34&&nhanh 35&&hơn];[COM+]]
+Bạn có nghĩ vậy không ? 	0
+[[];[];[];[];[]]
+Mẫu điện thoại kế nhiệm mới được ra mắt từ nhà Realme có tên là Realme 10 đang được mở bán tại FPTShop , tham khảo để có thêm nhiều đánh giá , lựa chọn hơn cho bạn nhé ! 	0
+[[];[];[];[];[]]
+title : Galaxy Note 9 và Galaxy A23 : Liệu cũ có phải là không tốt ? 	0
+[[];[];[];[];[]]
+Cùng mức giá , Galaxy Note 9 hay Galaxy A23 tốt hơn ? 	0
+[[];[];[];[];[]]
+Galaxy Note 9 , chiếc điện thoại từng được xếp vào hàng cao cấp cách đây 4 năm . 	0
+[[];[];[];[];[]]
+Galaxy A23 , mẫu điện thoại được Samsung tạo ra hướng tới phần khúc tầm trung trở xuống . 	0
+[[];[];[];[];[]]
+Khoảng cách 4 năm khiến 2 mẫu điện thoại có mức giá gần như ngang bằng nhau . 	1
+[[6&&2 7&&mẫu 8&&điện 9&&thoại];[6&&2 7&&mẫu 8&&điện 9&&thoại];[11&&mức 12&&giá];[13&&gần 14&&như 15&&ngang 16&&bằng 17&&nhau];[EQL]]
+Vậy giữa một chiếc smartphone mới và flagship cũ , sản phẩm nào sẽ đáng để bạn xuống tiền hơn ? 	0
+[[];[];[];[];[]]
+alt : Cùng mức giá , Galaxy Note 9 hay Galaxy A23 tốt hơn ? Phân tích 	0
+[[];[];[];[];[]]
+des : 	0
+[[];[];[];[];[]]
+Galaxy Note 9 vs Galaxy A23 	0
+[[];[];[];[];[]]
+Hình dáng theo hai trường phái khác nhau 	1
+[[];[];[1&&Hình 2&&dáng];[7&&khác 8&&nhau];[DIF]]
+Galaxy Note 9 là mẫu điện thoại từng được xếp vào hàng cao cấp nhất năm 2018 , thế nên không quá khó hiểu vì sao mẫu máy này lại sở hữu nhiều đặc tính cho đến nay vẫn được xem là cao cấp trong thiết kế như mặt lưng kính , khung viền nhôm , cảm biến vân tay , chuẩn kháng nước IP68 và biểu tượng đặc trưng của dòng Note nhà Samsung : Bút S-Pen . 	1
+[[1&&Galaxy 2&&Note 3&&9];[];[];[13&&cao 14&&cấp 15&&nhất 16&&năm 17&&2018];[COM+]]
+Trái ngược với sự sang trọng của Note 9 , A23 được hướng tới người dùng trẻ , đề cao sự gọn nhẹ và năng động . 	0
+[[];[];[];[];[]]
+Chính vì thế mà chiếc điện thoại này chỉ được sử dụng vật liệu nhựa . 	0
+[[];[];[];[];[]]
+Ưu điểm của chất liệu này là không làm tăng khối lượng máy , dễ lên màu và hơn hết là được làm nhám để tăng cảm giác cầm nắm , tránh bám vân tay hoặc mồ hôi . 	0
+[[];[];[];[];[]]
+alt : Cùng mức giá , Galaxy Note 9 hay Galaxy A23 tốt hơn ? Phân tích thiết kế 	0
+[[];[];[];[];[]]
+des : 	0
+[[];[];[];[];[]]
+Ra mắt đã lâu nhưng Note 9 vẫn có nhiều đặc điểm cao cấp 	0
+[[];[];[];[];[]]
+Cách bố trí camera sau của hai chiếc máy cũng có những sự khác biệt . 	1
+[[7&&hai 8&&chiếc 9&&máy];[7&&hai 8&&chiếc 9&&máy];[1&&Cách 2&&bố 3&&trí 4&&camera 5&&sau];[14&&khác 15&&biệt];[DIF]]
+Tuy nhiên nếu để lựa chọn , mình thích cách bố trí ống kính ngang của Note 9 hơn bởi nó độc lạ và dễ nổi bật hơn khi được sử dụng giữa đám đông . 	1
+[[21&&nó];[];[];[22&&độc 23&&lạ 24&&và 25&&dễ 26&&nổi 27&&bật 28&&hơn];[COM+]]
+Ngược lại , cách sắp xếp camera trên A23 tương đối đơn giản và khá phổ biến hiện nay . 	0
+[[];[];[];[];[]]
+Không nói đâu xa , ngoài A23 thì chúng còn Galaxy A13 , A33 , A53 hay thậm chí là A73 đều có cùng một thiết kế này . 	1
+[[7&&A23];[11&&Galaxy 12&&A13 13&&, 14&&A33 15&&, 16&&A53 17&&hay 18&&thậm 19&&chí 20&&là 21&&A73];[26&&thiết 27&&kế 28&&này];[22&&đều 23&&có];[EQL]]
+Màn hình khác biệt 	0
+[[];[];[];[];[]]
+Đây có lẽ là nơi cho thấy sự khác biệt rõ ràng nhất giữa một chiếc máy cao cấp và một chiếc điện thoại tầm trung . 	1
+[[15&&một 16&&chiếc 17&&máy 18&&cao 19&&cấp];[21&&một 22&&chiếc 23&&điện 24&&thoại 25&&tầm 26&&trung];[];[8&&sự 9&&khác 10&&biệt 11&&rõ 12&&ràng 13&&nhất];[DIF]]
+Galaxy A23 sở hữu màn hình 6.6 inch với tấm nền PLS LCD hỗ trợ tần số quét 90Hz cùng độ phân giải 1080x2408 Pixels . 	0
+[[];[];[];[];[]]
+alt : Cùng mức giá , Galaxy Note 9 hay Galaxy A23 tốt hơn ? Phân tích màn hình 	0
+[[];[];[];[];[]]
+des : 	0
+[[];[];[];[];[]]
+Màn hình Note 9 tốt hơn so với Galaxy A23 	1
+[[3&&Note 4&&9];[9&&Galaxy 10&&A23];[1&&Màn 2&&hình];[5&&tốt 6&&hơn];[COM+]]
+Khoảng cách 4 năm khiến Note 9 chỉ có được chuẩn quét màn hình 60Hz , tuy nhiên bù lại thì chiếc máy sở hữu tấm nền Super AMOLED hỗ trợ HDR10 với độ phân giải lên đến 1440x2960 pixels . 	0
+[[];[];[];[];[]]
+Như vậy , dù cho có nhỏ hơn đôi chút về kích thước so A23 nhưng chắc chắn hình ảnh hiển thị trên màn hình của Galaxy Note 9 sẽ sắc nét và chi tiết hơn . 	1
+[[27&&Galaxy 28&&Note 29&&9];[15&&A23];[12&&kích 13&&thước];[7&&nhỏ 8&&hơn 9&&đôi 10&&chút];[COM-]]
+[[27&&Galaxy 28&&Note 29&&9];[15&&A23];[19&&hình 20&&ảnh 21&&hiển 22&&thị 23&&trên 24&&màn 25&&hình];[31&&sắc 32&&nét 33&&và 34&&chi 35&&tiết 36&&hơn];[COM+]]
+Camera chênh lệch về thông số 	0
+[[];[];[];[];[]]
+Nếu chỉ xét về thông số ống kính , chắc chắn Galaxy A23 sẽ là chiếc máy vượt trội hơn bởi nó được trang bị tới tận 4 ống kính sau với độ phân giải 50 / 5 / 2 / 2 MP . 	1
+[[12&&Galaxy 13&&A23];[];[5&&thông 6&&số 7&&ống 8&&kính];[18&&vượt 19&&trội 20&&hơn];[COM+]]
+Trong khi đó Galaxy Note 9 chỉ được trang bị một camera kép ở mặt sau với độ phân giải của cả hai ống kính đều là 12MP . 	0
+[[];[];[];[];[]]
+Tuy nhiên nếu xét về khả năng quay chụp cũng như các tính năng hỗ trợ , mẫu điện thoại flagship lại cho thấy sự vượt trội của mình . 	1
+[[18&&mẫu 19&&điện 20&&thoại 21&&flagship];[];[6&&khả 7&&năng 8&&quay 9&&chụp];[26&&vượt 27&&trội];[COM+]]
+[[18&&mẫu 19&&điện 20&&thoại 21&&flagship];[];[12&&các 13&&tính 14&&năng 15&&hỗ 16&&trợ];[26&&vượt 27&&trội];[COM+]]
+Cụ thể thì Galaxy A23 chỉ có thể quay phim ở 2 chuẩn là 4K @ 30fps và 1080p @ 30fps . 	0
+[[];[];[];[];[]]
+Trong khi đó người đàn anh chiếc điện thoại này lại có tới 6 chuẩn hình ảnh khác nhau để qua video , tiêu biểu nhất là chế độ 4K @ 60fps và 720p @ 960fps dành cho chế độ slow motion . 	0
+[[];[];[];[];[]]
+Rõ ràng thông số ống kính không thể nói lên nhiều điều phải không nào ? 	0
+[[];[];[];[];[]]
+alt : Cùng mức giá , Galaxy Note 9 hay Galaxy A23 tốt hơn ? Phân tích màn hình 	0
+[[];[];[];[];[]]
+des : 	0
+[[];[];[];[];[]]
+Galaxy A23 sở hữu tới 4 camera sau 	0
+[[];[];[];[];[]]
+Về mặt trước , Galaxy A23 và Note 9 đều được trang bị ống kính 8MP nhưng khẩu độ của chiếc điện thoại dòng A chỉ là f / 2.2 , trong khi đó thì smartphone dòng Note lên đến f / 1.7 . 	0
+[[];[];[];[];[]]
+Chưa dừng lại ở đó , camera trước của Galaxy Note 9 còn được trang bị thêm ống kính dedicated iris scanner 2 MP để chất lượng ảnh được tốt hơn . 	1
+[[7&&camera 8&&trước 9&&của 10&&Galaxy 11&&Note 12&&9];[];[26&&chất 27&&lượng 28&&ảnh];[30&&tốt 31&&hơn];[COM+]]
+Cấu hình mạnh mẽ bất chấp thời gian 	0
+[[];[];[];[];[]]
+Tuy ra đời sau tận 4 năm nhưng Galaxy A23 chỉ là một chiếc máy phân khúc tầm trung , thế nên nó chỉ được Samsung trang bị chip Snapdragon 680 . 	0
+[[];[];[];[];[]]
+Nếu so với Snapdragon 845 , chắc chắn sẽ không thể bằng được về khả năng xử lý tác vụ , bên cạnh đó , chiếc máy năm 2022 cũng chỉ được hỗ trợ Ram 4GB và bộ nhớ 128GB . 	1
+[[];[4&&Snapdragon 5&&845];[15&&khả 16&&năng 17&&xử 18&&lý 19&&tác 20&&vụ];[10&&không 11&&thể 12&&bằng 13&&được];[COM-]]
+Trong khi đó thì chiếc flagship năm 2018 được sở hữu cấu hình gồm 6GB Ram và 512 GB Rom . 	0
+[[];[];[];[];[]]
+Khác biệt rõ ràng là quá lớn ! 	0
+[[];[];[];[];[]]
+alt : Cùng mức giá , Galaxy Note 9 hay Galaxy A23 tốt hơn ? Phân tích cấu hình 	0
+[[];[];[];[];[]]
+des : 	0
+[[];[];[];[];[]]
+Galaxy Note 9 trang bị Snapdragon 845 	0
+[[];[];[];[];[]]
+Tuy vậy , có một ưu điểm ở Galaxy A23 và Note 9 không có đó là chiếc máy được hỗ trợ công nghệ 5G . 	1
+[[9&&Galaxy 10&&A23];[12&&Note 13&&9];[23&&công 24&&nghệ 25&&5G];[14&&không 15&&có];[DIF]]
+Điều này có thể giúp cho mẫu điện thoại tầm trung của Samsung có chút lợi thế hơn người anh em của mình về mặt kết nối internet trong tương lai . 	1
+[[7&&mẫu 8&&điện 9&&thoại 10&&tầm 11&&trung 12&&của 13&&Samsung];[19&&người 20&&anh 21&&em 22&&của 23&&mình];[26&&kết 27&&nối 28&&internet];[15&&chút 16&&lợi 17&&thế 18&&hơn];[COM+]]
+Mức pin gần bằng nhau 	1
+[[];[];[1&&Mức 2&&pin];[3&&gần 4&&bằng 5&&nhau];[EQL]]
+Với một chiếc điện thoại đã ra mắt cách 4 năm , rất khó để bạn tìm ra một chiếc máy có thể giữ nguyên mức pin 4000 mAh , tuy nhiên với sạc nhanh 15W , có lẽ nó cũng sẽ không phải là vấn đề lớn . 	0
+[[];[];[];[];[]]
+Trong khi đó Galaxy A23 sẽ được sở hữu viên pin với dung lượng lớn hơn , 5000 mAh đi kèm với sạc nhanh 25W . 	0
+[[];[];[];[];[]]
+Trên phương diện năng lượng , A23 tỏ ra vượt trội hơn là điều dễ hiểu . 	1
+[[7&&A23];[];[4&&năng 5&&lượng];[10&&vượt 11&&trội 12&&hơn];[COM+]]
+alt : Cùng mức giá , Galaxy Note 9 hay Galaxy A23 tốt hơn ? Phân tích pin 	0
+[[];[];[];[];[]]
+des : 	0
+[[];[];[];[];[]]
+Galaxy A23 có mức pin vượt trội hơn Galaxy Note 9 	1
+[[1&&Galaxy 2&&A23];[9&&Galaxy 10&&Note 11&&9];[4&&mức 5&&pin];[6&&vượt 7&&trội 8&&hơn];[COM+]]
+Mức giá hiện nay 	0
+[[];[];[];[];[]]
+Hiện Galaxy A23 đang bán tại XTmobile với cấu hình 4GB / 128GB có mức giá khoảng 5.1 triệu đồng , trong khi đó Galaxy Note 9 phiên bản 8GB / 512GB lại chỉ mắc hơn 1 chút , khoảng 5.4 triệu đồng . 	1
+[[25&&Galaxy 26&&Note 27&&9];[2&&Galaxy 3&&A23];[15&&mức 16&&giá];[35&&mắc 36&&hơn 37&&1 38&&chút];[COM-]]
+Vậy đâu sẽ là sự lựa chọn của bạn ? 	0
+[[];[];[];[];[]]
+title : Samsung Galaxy A73 5G ra mắt khi nào ? Giá bao nhiêu ? Có nên mua không ? 	0
+[[];[];[];[];[]]
+Vào tháng 04 / 2022 , Samsung cho ra mắt Samsung Galaxy A73 5G tại thị trường Việt Nam . 	0
+[[];[];[];[];[]]
+Sản phẩm dự kiến sẽ là một trong những mẫu điện thoại nổi bật trong dòng Galaxy A . 	0
+[[];[];[];[];[]]
+Cùng tìm hiểu giá bán Samsung Galaxy A73 5G và một số thông tin về sản phẩm này . 	0
+[[];[];[];[];[]]
+Điện thoại Samsung Galaxy A73 5G ra mắt khi nào ? 	0
+[[];[];[];[];[]]
+Vào đầu tháng 04 / 2022 Samsung Galaxy A73 5G được chính thức mở bán tại thị trường Việt Nam . 	0
+[[];[];[];[];[]]
+Với những thiết kế cùng công nghệ hiện đại thừa kế từ thế hế tiền nhiệm , Samsung Galaxy A73 5G chắc chắn sẽ là sản phẩm chủ lực thuộc dòng Galaxy A của Samsung . 	0
+[[];[];[];[];[]]
+alt : Samsung Galaxy A73 5G được ra mắt vào đầu tháng 04 / 2022 	0
+[[];[];[];[];[]]
+des : Samsung Galaxy A73 5G được ra mắt vào đầu tháng 04 / 2022 	0
+[[];[];[];[];[]]
+Tổng quan về điện thoại Samsung Galaxy A73 5G 	0
+[[];[];[];[];[]]
+Ngoại hình Samsung Galaxy A73 5G sở hữu những đường nét thiết kế trẻ trung , năng động và cũng không kém phần hiện đại , sang trọng . 	0
+[[];[];[];[];[]]
+Ngoài ra , người dùng có thể thoải mái lựa chọn với 3 phiên bản màu sắc đa dạng . 	0
+[[];[];[];[];[]]
+Không chỉ có vẻ ngoài bắt mắt , bộ máy của sản phẩm được đánh giá cao với cấu hình phần cứng mạnh mẽ cùng độ bền sản phẩm cao . 	0
+[[];[];[];[];[]]
+Bộ camera chất lượng với camera chính 108MP đầy ấn tượng . 	0
+[[];[];[];[];[]]
+Và dù thuộc phân khúc cận cao cấp nhưng giá của sản phẩm lại phải chăng phù hợp cho nhiều đối tượng khách hàng . 	0
+[[];[];[];[];[]]
+alt : Sản phẩm mới của Samsung với sự hoàn thiện từ trong ra ngoài 	0
+[[];[];[];[];[]]
+des : Sản phẩm mới của Samsung với sự hoàn thiện từ trong ra ngoài 	0
+[[];[];[];[];[]]
+Điểm nổi bật của điện thoại Samsung Galaxy A73 5G 	0
+[[];[];[];[];[]]
+Thiết kế đẹp mắt 	0
+[[];[];[];[];[]]
+Về tổng quan , thiết kế của chiếc mày này khá giống với các thế hệ tiền nhiệm với các cạnh và mặt được vát phẳng , tạo hình vuông vắn . 	1
+[[8&&chiếc 9&&mày 10&&này];[14&&các 15&&thế 16&&hệ 17&&tiền 18&&nhiệm];[5&&thiết 6&&kế];[11&&khá 12&&giống];[EQL]]
+Thêm vào đó , 3 tông màu xanh lá , xám và đen mang đến sự trẻ trung , hiện đại cho sản phẩm . 	0
+[[];[];[];[];[]]
+Lớp vỏ ngoài làm bằng nhựa cho nên trọng lượng máy khá nhẹ , thuận tiện cho người dùng . 	0
+[[];[];[];[];[]]
+Cụm camera hình chữ nhật thiết kế nhô lên nhẹ so với mặt lưng . 	0
+[[];[];[];[];[]]
+Logo Samsung được khắc mờ trên vỏ máy tạo điểm nhấn cho mặt sau điện thoại . 	0
+[[];[];[];[];[]]
+alt : Samsung Galaxy A73 5G với các đường nét thiết kế thu hút mọi ánh nhìn 	0
+[[];[];[];[];[]]
+des : Samsung Galaxy A73 5G với các đường nét thiết kế thu hút mọi ánh nhìn 	0
+[[];[];[];[];[]]
+Khả năng đa nhiệm mượt mà và lưu trữ tốt 	0
+[[];[];[];[];[]]
+Galaxy A73 5G có RAM 8GB hỗ trợ các thao tác đa nhiệm mượt mà , hạn chế tối đa tình trạng lỗi máy khi khởi chạy nhiều ứng dụng đồng thời . 	0
+[[];[];[];[];[]]
+Đặc biệt hơn , nhà Samsung đã trang bị cho " tân binh " của mình tính năng RAM Plus , có thể nâng cấp RAM lên đến 16GB cho bạn tha hồ thực hiện đa tác vụ một cách mượt mà . 	0
+[[];[];[];[];[]]
+Ngoài ra điện thoại được trang bị bộ nhớ trong dung lượng lên đến 128GB giúp mang đến cho bạn không gian lưu trữ rộng lớn , thuận tiện lưu trữ dữ liệu . 	0
+[[];[];[];[];[]]
+alt : Samsung Galaxy A73 5G xử lý đa nhiệm mượt mà 	0
+[[];[];[];[];[]]
+des : Samsung Galaxy A73 5G xử lý đa nhiệm mượt mà 	0
+[[];[];[];[];[]]
+Camera chất lượng cao 	0
+[[];[];[];[];[]]
+Nói đến Samsung Galaxy A73 5G không thể bỏ qua cụm camera siêu chất của máy . 	0
+[[];[];[];[];[]]
+Bộ 4 camera với nhiều tính năng hiện đại như chụp đêm , chụp toàn cảnh , làm đẹp , . . . Đặc biệt , với camera chính 108MP , bạn chắc chắc sẽ được sở hữu những bức ảnh vô cùng chi tiết và sắc nét , cho bạn thỏa sức đam mê nhiếp ảnh . 	0
+[[];[];[];[];[]]
+Camera trước 32MP sẽ mang đến trải nghiệm selfie hoàn hảo nhờ độ phân giải cao và nhiều tính năng hiện đại . 	0
+[[];[];[];[];[]]
+Các bức ảnh thu được sẽ luôn đạt chất lượng , kể cả khi chụp ngược sáng . 	0
+[[];[];[];[];[]]
+Thêm nữa , các camera trên máy đều có khả năng chống rung quang học . 	0
+[[];[];[];[];[]]
+Điều này giúp các bức ảnh hay video quay lại đạt được độ chi tiết và sắc nét nhất . 	0
+[[];[];[];[];[]]
+alt : Cụm camera siêu chất giúp bạn thỏa sức đam mê nhiếp ảnh 	0
+[[];[];[];[];[]]
+des : Cụm camera siêu chất giúp bạn thỏa sức đam mê nhiếp ảnh 	0
+[[];[];[];[];[]]
+Trang bị chuẩn chống nước IP67 	0
+[[];[];[];[];[]]
+Với việc trang bị chuấn chống nước IP67 , bạn có thể thoải mái sử dụng thiết bị ngay cả khi trời mưa mà không lo hư hỏng . 	0
+[[];[];[];[];[]]
+Đặc biệt , theo thử nghiệm chuẩn IP67 mang đến khả năng kháng nước ở độ sâu 1 mét trong vòng 30 phút . 	0
+[[];[];[];[];[]]
+Đây là sự nâng cấp đáng chú ý trong dòng máy tầm trung . 	0
+[[];[];[];[];[]]
+alt : Sự nâng cấp đáng chú ý với khả năng chống nước chuẩn IP67 	0
+[[];[];[];[];[]]
+des : Sự nâng cấp đáng chú ý với khả năng chống nước chuẩn IP67 	0
+[[];[];[];[];[]]
+Màn hình sắc nét cùng tần số quét cao 	0
+[[];[];[];[];[]]
+Điện thoại Samsung Galaxy A73 5G được trang bị màn hình sử dụng công nghệ Super AMOLED Plus , với độ phân giải Full HD + ( 1080 x 2400Pixels ) mang đến chất lượng hiển thị hình ảnh sống động , sắc nét cao . 	0
+[[];[];[];[];[]]
+Màn hình điện thoại có tần số quét 120Hz và độ sáng 800 nits hỗ trợ hiển thị nội dung khi xem phim hay giải trí với những khung hình mượt mà , không mờ nhòe , siêu chi tiết và độ tương phản cao . 	0
+[[];[];[];[];[]]
+alt : Samsung Galaxy A73 5G sử dụng màn hình công nghệ Super AMOLED Plus 	0
+[[];[];[];[];[]]
+des : Samsung Galaxy A73 5G sử dụng màn hình công nghệ Super AMOLED Plus 	0
+[[];[];[];[];[]]
+Pin trâu hỗ trợ sạc nhanh 	0
+[[];[];[];[];[]]
+Điện thoại sử dụng viên pin dung lượng 5000mAh cho thời gian sử dụng hiệu quả lên đến 2 ngày liên tục . 	0
+[[];[];[];[];[]]
+Samsung Galaxy A73 5G cũng hỗ trợ sạc nhanh tối đa 25W cùng tính năng thích ứng thói quen sử dụng để tự động tối ưu hóa thời lượng sử dụng pin tốt hơn . 	0
+[[];[];[];[];[]]
+alt : Samsung Galaxy A73 5G có viên pin dung lượng 5000mAh 	0
+[[];[];[];[];[]]
+des : Samsung Galaxy A73 5G có viên pin dung lượng 5000mAh 	0
+[[];[];[];[];[]]
+Điện thoại Samsung Galaxy A73 5G có tốt không ? 	0
+[[];[];[];[];[]]
+Nên mua không ? 	0
+[[];[];[];[];[]]
+Đánh giá chung , Samsung Galaxy A73 5G có cấu hình mạnh mẽ , dung lượng lưu trữ lớn , thời lượng pin cao , thiết kế hiện đại , trẻ trung cùng độ bền sản phẩm cao . 	0
+[[];[];[];[];[]]
+Dù sở hữu nhiều tính năng vượt trội so với các sản phẩm khác trong cùng phân khúc nhưng Samsung Galaxy A73 5G có mức giá thành rất hợp lý . 	1
+[[20&&Samsung 21&&Galaxy 22&&A73 23&&5G];[11&&các 12&&sản 13&&phẩm 14&&khác 15&&trong 16&&cùng 17&&phân 18&&khúc];[4&&nhiều 5&&tính 6&&năng];[7&&vượt 8&&trội];[COM+]]
+Tóm lại đây là một mẫu điện thoại vô cùng chất lượng có thể đáp ứng mọi yêu cầu từ mọi đối tượng . 	0
+[[];[];[];[];[]]
+Dù bạn là sinh viên hay nhân viên văn phòng và kể cả là doanh nhân , chiếc điện thoại này đều có thể phục vụ tối đa các yêu cầu từ cơ bản đến nâng cao của bạn . 	0
+[[];[];[];[];[]]
+alt : Samsung Galaxy A73 5G với chất lượng tuyệt vời đáp ứng mọi yêu cầu người dùng 	0
+[[];[];[];[];[]]
+des : Samsung Galaxy A73 5G với chất lượng tuyệt vời đáp ứng mọi yêu cầu người dùng 	0
+[[];[];[];[];[]]
+Giá bán điện thoại Samsung Galaxy A73 5G bao nhiêu ? 	0
+[[];[];[];[];[]]
+Ưu đãi khi mua điện thoại Samsung Galaxy A73 5G tại TGDĐ 	0
+[[];[];[];[];[]]
+Bài viết đã giới thiệu đến bạn một số thông tin và giá bán của điện thoại Samsung Galaxy A73 5G . 	0
+[[];[];[];[];[]]
+Hy vọng bạn sẽ chọn được sản phẩm phù hợp khi có nhu cầu mua điện thoại . 	0
+[[];[];[];[];[]]

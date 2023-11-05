@@ -1,0 +1,80 @@
+title : So_sánh Samsung Galaxy M32 và Xiaomi_Redmi_Note 10S 	0
+[[];[];[];[];[]]
+Thiết_kế 	0
+[[];[];[];[];[]]
+alt : So_sánh Samsung Galaxy M32 và Xiaomi_Redmi 10S 	0
+[[];[];[];[];[]]
+des : So_sánh Samsung Galaxy M32 và Xiaomi_Redmi 10S 	0
+[[];[];[];[];[]]
+Ngôn_ngữ thiết_kế của 2 chiếc smartphone này hoàn_toàn khác_biệt nhau . 	0
+[[];[];[];[];[]]
+Trong đó , Galaxy M32 được thiết_kế trẻ_trung , sành_điệu với mặt lưng được làm từ nhựa của máy được gia_công tinh_xảo với hoạ_tiết kẻ sọc trải dài từ đầu tới cuối thân máy , giúp máy hạn_chế bám dính vân tay và mồ_hôi . 	0
+[[];[];[];[];[]]
+Tuy_nhiên , mẫu di_động tầm trung mới ra_mắt gần đây của Samsung chỉ sử_dụng màn_hình notch hình giọt nước ở mặt trước nên trông kém hiện_đại hơn so với màn_hình đục lỗ trên Redmi_Note 10S . 	0
+[[];[];[];[];[]]
+Ở mặt sau , mẫu di_động của Xiaomi sẽ có thân nhựa kết_hợp với khung kim_loại và đi kèm các hiệu_ứng chuyển màu bắt_mắt . 	0
+[[];[];[];[];[]]
+Màn_hình 	0
+[[];[];[];[];[]]
+alt : Samsung Galaxy M32 	0
+[[];[];[];[];[]]
+des : Samsung Galaxy M32 	0
+[[];[];[];[];[]]
+Về chất_lượng hiển_thị , Galaxy M32 được trang_bị màn_hình Super_AMOLED 6.4 inch , hỗ_trợ độ_phân_giải Full-HD + , tốc_độ làm tươi 90Hz và tỷ_lệ khung hình 20 : 9 giúp mang tới trải_nghiệm thị_giác chất_lượng , màu_sắc trung_thực , sắc nét . 	0
+[[];[];[];[];[]]
+Trong khi đó , Redmi_Note 10S được hãng điện_thoại Xiaomi trang_bị màn_hình đục lỗ chính giữa chứa camera selfie , có kích_thước màn_hình lớn 6.43 inch , sử_dụng tấm nền AMOLED có độ phân giải Full-HD + tốc_độ làm tươi 60Hz tiêu_chuẩn và được bảo_vệ bởi kính cường_lực Corning_Gorilla_Glass 3 . 	0
+[[];[];[];[];[]]
+Do_đó , chất_lượng hiển_thị của Galaxy M32 sẽ nhỉnh hơn một_chút so với đối_thủ đến từ Xiaomi . 	0
+[[];[];[];[];[]]
+Camera 	0
+[[];[];[];[];[]]
+alt : Redmi_Note 10S 	0
+[[];[];[];[];[]]
+des : Redmi_Note 10S 	0
+[[];[];[];[];[]]
+Về khả_năng nhiếp_ảnh , Galaxy M32 được trang_bị hệ_thống 4 camera sau , bao_gồm cảm_biến chính có độ_phân_giải 64MP ( f / 1.8 ) , ống_kính góc siêu rộng 8MP ( f / 2.2 ) , camera macro 2MP và cảm_biến độ sâu 2MP . 	0
+[[];[];[];[];[]]
+Khu_vực " giọt nước " của màn_hình là nơi đặt camera selfie 20MP có khẩu_độ f / 2.2 . Hệ_thống camera này giúp bạn bắt trọn mọi khoảnh_khắc cuộc_sống một_cách chi_tiết , bắt_mắt nhất . 	0
+[[];[];[];[];[]]
+Điện_thoại Redmi_Note 10S cũng không kém_cạnh khi sở_hữu 4 camera sau với độ_phân_giải và chức_năng giống_hệt đối_thủ đến từ Samsung . 	0
+[[];[];[];[];[]]
+Tuy_nhiên , điện_thoại Xiaomi chỉ có camera 13MP nên cho chất_lượng ảnh selfie kém hơn một_chút so với Galaxy M32 . 	0
+[[];[];[];[];[]]
+Thông_số kỹ_thuật 	0
+[[];[];[];[];[]]
+alt : Redmi_Note 10S ( ảnh 1 ) 	0
+[[];[];[];[];[]]
+des : Redmi_Note 10S ( ảnh 1 ) 	0
+[[];[];[];[];[]]
+Về mặt hiệu_năng , Galaxy M32 được trang_bị con chip MediaTek_Helio G80 , có RAM 4GB / 6GB và có bộ_nhớ lưu_trữ 64GB / 128GB . 	0
+[[];[];[];[];[]]
+Trong khi Redmi_Note 10S được cung_cấp sức_mạnh bởi chipset MediaTek_Helio G95 , các tuỳ chọn RAM 6GB / 8GB và bộ_nhớ_trong 64GB / 128GB . 	0
+[[];[];[];[];[]]
+Chính vì_vậy mà hiệu_năng của Redmi_Note 10S sẽ tốt hơn một_chút so với Galaxy M32 , đặc_biệt là khi người dùng chơi game . 	0
+[[];[];[];[];[]]
+Thời_lượng pin 	0
+[[];[];[];[];[]]
+alt : Samsung Galaxy M32 ( ảnh 1 ) 	0
+[[];[];[];[];[]]
+des : Samsung Galaxy M32 ( ảnh 1 ) 	0
+[[];[];[];[];[]]
+Điểm ấn_tượng lớn nhất của Galaxy M32 là dung_lượng pin lớn lên đến 6,000 mAh . Đây mà mức pin siêu “ khủng ” với smartphone phân khúc tầm trung , giá rẻ . 	0
+[[];[];[];[];[]]
+Chua hết , mẫu di_động của Samsung còn hỗ_trợ sạc nhanh 25W , hứa_hẹn mang đến thời_lượng sử_dụng thời_gian lâu_dài , với các tác_vụ cơ_bản , máy có_thể dùng đến 2 ngày . 	0
+[[];[];[];[];[]]
+Trong khi đó , Redmi_Note 10S cũng có dung_lượng pin khá lớn là 5,000 mAh cho_phép bạn sử_dụng thoải_mái trong 1.5 ngày chỉ sau duy_nhất một lần sạc . 	0
+[[];[];[];[];[]]
+Chưa dừng lại ở đó , mẫu di_động Xiaomi còn có khả_năng sạc nhanh 33W , giúp bạn tiết_kiệm thời_gian sạc thiết_bị của mình . 	0
+[[];[];[];[];[]]
+Tạm kết 	0
+[[];[];[];[];[]]
+alt : Redmi_Note 10S ( ảnh 2 ) 	0
+[[];[];[];[];[]]
+des : Redmi_Note 10S ( ảnh 2 ) 	0
+[[];[];[];[];[]]
+Nhìn_chung , hai chiếc điện_thoại Galaxy M32 và Redmi_Note 10S đều có thế mạnh riêng . 	0
+[[];[];[];[];[]]
+Trong đó , mẫu di_động Xiaomi có hiệu_năng tốt hơn và công_nghệ sạc siêu nhanh , còn Galaxy M32 mới gây ấn_tượng với pin khủng hơn và màn_hình có tốc_độ làm tươi cao hơn . 	0
+[[];[];[];[];[]]
+Bạn sẽ chọn smartphone nào ? 	0
+[[];[];[];[];[]]

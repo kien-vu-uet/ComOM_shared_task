@@ -1,0 +1,172 @@
+So sánh Galaxy Note 10 Plus và iPhone 11: 7 triệu chọn flagship cũ nào?	So sánh Galaxy Note 10 Plus và iPhone 11 : 7 triệu chọn flagship cũ nào ?
+
+"iPhone 11 và Galaxy Note 10 Plus đều là những mẫu flagship cũ rất đáng giá trong phân khúc trên dưới 7 triệu đồng.	" iPhone 11 và Galaxy Note 10 Plus đều là những mẫu flagship cũ rất đáng giá trong phân khúc trên dưới 7 triệu đồng .
+
+Với Note 10 Plus, chúng ta có một thiết bị sở hữu thiết kế cao cấp, màn hình xuất sắc cùng bút S-Pen, trong khi iPhone 11 hướng đến đối tượng người dùng trẻ trung với hiệu năng mạnh mẽ cùng iOS mượt mà, ổn định.	Với Note 10 Plus , chúng ta có một thiết bị sở hữu thiết kế cao cấp , màn hình xuất sắc cùng bút S-Pen , trong khi iPhone 11 hướng đến đối tượng người dùng trẻ trung với hiệu năng mạnh mẽ cùng iOS mượt mà , ổn định .
+
+Và hãy cùng đặt hai sản phẩm này lên bàn cân, để xem đâu là lựa chọn dành cho.	Và hãy cùng đặt hai sản phẩm này lên bàn cân , để xem đâu là lựa chọn dành cho .
+
+bạn nhé.	bạn nhé .
+
+Phần mềm và S-Pen	Phần mềm và S-Pen
+
+Hãy đi tới phần mềm trước tiên.	Hãy đi tới phần mềm trước tiên .
+
+Khá đáng tiếc là Note 10+ lại không hỗ trợ One UI 5 dựa trên nền Android 13, mà chỉ tối đa là One UI 4 trên Android 12.	Khá đáng tiếc là Note 10 + lại không hỗ trợ One UI 5 dựa trên nền Android 13 , mà chỉ tối đa là One UI 4 trên Android 12 .
+
+Đổi lại, iPhone 11 đã được cập nhật lên iOS 16.3 mới nhất.	Đổi lại , iPhone 11 đã được cập nhật lên iOS 16.3 mới nhất .
+
+Mẫu máy nhiều khả năng vẫn sẽ hỗ trợ từ 1-2 phiên bản iOS nữa, hơn hẳn so với đối thủ tới từ Samsung.	Mẫu máy nhiều khả năng vẫn sẽ hỗ trợ từ 1 - 2 phiên bản iOS nữa , hơn hẳn so với đối thủ tới từ Samsung .
+
+Tuy nhiên Note 10 Plus lại có lợi thế ở bút S-Pen độc quyền.	Tuy nhiên Note 10 Plus lại có lợi thế ở bút S-Pen độc quyền .
+{"subject": ["3&&Note", "4&&10", "5&&Plus"], "object": ["3&&Note", "4&&10", "5&&Plus"], "aspect": [], "predicate": ["7&&có", "8&&lợi", "9&&thế"], "label": "COM+"}
+
+Đây sẽ là trang bị cần thiết với những người cần ghi chú nhiều mà không cần sử dụng sổ tay hay giấy, bút.	Đây sẽ là trang bị cần thiết với những người cần ghi chú nhiều mà không cần sử dụng sổ tay hay giấy , bút .
+
+S-Pen trên Note 10 Plus vẫn chưa được giảm độ trễ, nhưng với cá nhân mình đó đã là lựa chọn đáng giá trong phân khúc 7 triệu rồi.	S-Pen trên Note 10 Plus vẫn chưa được giảm độ trễ , nhưng với cá nhân mình đó đã là lựa chọn đáng giá trong phân khúc 7 triệu rồi .
+
+alt:	alt :
+
+des:	des :
+
+Chưa kể đó, Note 10 Plus còn hỗ trợ Samsung Dex.	Chưa kể đó , Note 10 Plus còn hỗ trợ Samsung Dex .
+
+Mẫu máy cũng hỗ trợ Samsung Pay, khả năng tương thích và sử dụng có phần nhỉnh hơn Apple Pay trên iPhone 11.	Mẫu máy cũng hỗ trợ Samsung Pay , khả năng tương thích và sử dụng có phần nhỉnh hơn Apple Pay trên iPhone 11 .
+{"subject": ["1&&Mẫu", "2&&máy"], "object": ["23&&iPhone", "24&&11"], "aspect": ["9&&khả", "10&&năng", "11&&tương", "12&&thích"], "predicate": ["16&&có", "17&&phần", "18&&nhỉnh", "19&&hơn"], "label": "COM+"}
+{"subject": ["1&&Mẫu", "2&&máy"], "object": ["23&&iPhone", "24&&11"], "aspect": ["14&&sử", "15&&dụng"], "predicate": ["16&&có", "17&&phần", "18&&nhỉnh", "19&&hơn"], "label": "COM+"}
+
+Màn hình	Màn hình
+
+Rõ ràng iPhone 11 thua thiệt hoàn toàn về màn hình so với Galaxy Note 10+, từ các thông số màn hình, độ phân giải, độ sáng cho đến tấm nền màn hình.	Rõ ràng iPhone 11 thua thiệt hoàn toàn về màn hình so với Galaxy Note 10 + , từ các thông số màn hình , độ phân giải , độ sáng cho đến tấm nền màn hình .
+
+Đáng nói hơn, iPhone 11 chỉ có màn hình với tấm nền IPS LCD, độ phân giải HD+ và tần số quét 60Hz – những tiêu chuẩn khó có thể chấp nhận trong phân khúc này.	Đáng nói hơn , iPhone 11 chỉ có màn hình với tấm nền IPS LCD , độ phân giải HD + và tần số quét 60Hz – những tiêu chuẩn khó có thể chấp nhận trong phân khúc này .
+
+alt:	alt :
+
+des:	des :
+
+Sở hữu thông số vượt trội nên dễ hiểu khi Note 10 Plus cũng bỏ xa về chất lượng hiển thị với màu sắc tươi tắn, độ sáng và độ tương phản cao hơn.	Sở hữu thông số vượt trội nên dễ hiểu khi Note 10 Plus cũng bỏ xa về chất lượng hiển thị với màu sắc tươi tắn , độ sáng và độ tương phản cao hơn .
+
+Với các nội dung HDR, Note 10 Plus cũng vượt xa iPhone 11, đặc biệt là các cảnh có vùng trời nắng.	Với các nội dung HDR , Note 10 Plus cũng vượt xa iPhone 11 , đặc biệt là các cảnh có vùng trời nắng .
+
+Thiết kế	Thiết kế
+
+Cả Galaxy Note 10 Plus và iPhone 11 đều có mặt lưng hoàn thiện từ kính bóng.	Cả Galaxy Note 10 Plus và iPhone 11 đều có mặt lưng hoàn thiện từ kính bóng .
+{"subject": ["2&&Galaxy", "3&&Note", "4&&10", "5&&Plus"], "object": ["7&&iPhone", "8&&11"], "aspect": ["10&&có", "11&&mặt", "12&&lưng", "13&&hoàn", "14&&thiện", "15&&từ", "16&&kính", "17&&bóng"], "predicate": ["9&&đều", "10&&có", "11&&mặt"], "label": "EQL"}
+
+Vậy nên dễ hiểu khi cả hai đều bám rất nhiều mồ hôi và dấu vân tay, quá trình sử dụng máy sẽ rất bẩn và khó lau chùi sạch.	Vậy nên dễ hiểu khi cả hai đều bám rất nhiều mồ hôi và dấu vân tay , quá trình sử dụng máy sẽ rất bẩn và khó lau chùi sạch .
+{"subject": ["6&&cả", "7&&hai"], "object": ["6&&cả", "7&&hai"], "aspect": ["15&&dấu", "16&&vân", "17&&tay"], "predicate": ["8&&đều", "9&&bám", "10&&rất", "11&&nhiều"], "label": "EQL"}
+
+Hai mẫu máy đều sở hữu tiêu chuẩn kháng nước IP68, tuy nhiên bạn nên kiểm tra kỹ khi mua vì khả năng kháng nước khó có thể duy trì sau thời gian dài như vậy.	Hai mẫu máy đều sở hữu tiêu chuẩn kháng nước IP68 , tuy nhiên bạn nên kiểm tra kỹ khi mua vì khả năng kháng nước khó có thể duy trì sau thời gian dài như vậy .
+{"subject": ["1&&Hai", "2&&mẫu", "3&&máy"], "object": ["1&&Hai", "2&&mẫu", "3&&máy"], "aspect": ["7&&tiêu", "8&&chuẩn", "9&&kháng", "10&&nước", "11&&IP68"], "predicate": ["4&&đều", "5&&sở", "6&&hữu"], "label": "EQL"}
+
+alt:	alt :
+
+des:	des :
+
+Cá nhân mình sẽ chọn thiết kế trên Note 10 Plus.	Cá nhân mình sẽ chọn thiết kế trên Note 10 Plus .
+
+Máy đầm, cho cảm giác rất sang trọng và tỉ mỉ.	Máy đầm , cho cảm giác rất sang trọng và tỉ mỉ .
+
+Màn hình cong đi kèm các viền được vát rất mỏng giúp trải nghiệm hiển thị tăng lên đáng kể.	Màn hình cong đi kèm các viền được vát rất mỏng giúp trải nghiệm hiển thị tăng lên đáng kể .
+
+Trong khi đó, iPhone 11 vẫn giữ lại bốn viền rất dày đi kèm tai thỏ chiếm dụng rất nhiều không gian màn hình.	Trong khi đó , iPhone 11 vẫn giữ lại bốn viền rất dày đi kèm tai thỏ chiếm dụng rất nhiều không gian màn hình .
+
+Thời lượng pin	Thời lượng pin
+
+Pin là một yếu tố khá “hên xui” vì các máy cũ thường có sự chênh lệch về mức chai pin.	Pin là một yếu tố khá “ hên xui ” vì các máy cũ thường có sự chênh lệch về mức chai pin .
+
+Ta sẽ xét ở điều kiện lý tưởng, sau khoảng 1-2 năm sử dụng, cả 2 máy sẽ đều chai pin tương đương nhau.	Ta sẽ xét ở điều kiện lý tưởng , sau khoảng 1 - 2 năm sử dụng , cả 2 máy sẽ đều chai pin tương đương nhau .
+{"subject": ["19&&cả", "20&&2", "21&&máy"], "object": ["19&&cả", "20&&2", "21&&máy"], "aspect": ["24&&chai", "25&&pin"], "predicate": ["23&&đều", "24&&chai", "25&&pin", "26&&tương", "27&&đương", "28&&nhau"], "label": "EQL"}
+
+alt:	alt :
+
+des:	des :
+
+Khi này thời lượng sử dụng nhìn chung không chênh nhau quá nhiều.	Khi này thời lượng sử dụng nhìn chung không chênh nhau quá nhiều .
+{"subject": [], "object": [], "aspect": ["3&&thời", "4&&lượng", "5&&sử", "6&&dụng"], "predicate": ["9&&không", "10&&chênh", "11&&nhau", "12&&quá", "13&&nhiều"], "label": "EQL"}
+
+Với nhu cầu sử dụng tương đương nhau, cả hai sẽ cho ra thời gian on-screen trung bình vào khoảng 5 – 5,5 giờ.	Với nhu cầu sử dụng tương đương nhau , cả hai sẽ cho ra thời gian on-screen trung bình vào khoảng 5 – 5,5 giờ .
+
+Và nếu bạn có nhu cầu sử dụng cao, việc đem theo sạc dự phòng là điều nên cân nhắc để đảm bảo quá trình sử dụng trong ngày dài.	Và nếu bạn có nhu cầu sử dụng cao , việc đem theo sạc dự phòng là điều nên cân nhắc để đảm bảo quá trình sử dụng trong ngày dài .
+
+Camera	Camera
+
+Thoạt nhìn có thể thấy iPhone thua thiệt do sở hữu ít ống kính hơn so với Galaxy Note 10 Plus.	Thoạt nhìn có thể thấy iPhone thua thiệt do sở hữu ít ống kính hơn so với Galaxy Note 10 Plus .
+{"subject": ["6&&iPhone"], "object": ["18&&Galaxy", "19&&Note", "20&&10", "21&&Plus"], "aspect": ["13&&ống", "14&&kính"], "predicate": ["7&&thua", "8&&thiệt"], "label": "COM-"}
+{"subject": ["6&&iPhone"], "object": ["18&&Galaxy", "19&&Note", "20&&10", "21&&Plus"], "aspect": ["13&&ống", "14&&kính"], "predicate": ["12&&ít", "13&&ống", "14&&kính", "15&&hơn"], "label": "COM-"}
+
+Tuy nhiên, thực tế lại trái ngược hoàn toàn.	Tuy nhiên , thực tế lại trái ngược hoàn toàn .
+{"subject": [], "object": [], "aspect": [], "predicate": ["7&&trái", "8&&ngược", "9&&hoàn", "10&&toàn"], "label": "DIF"}
+
+alt:	alt :
+
+des:	des :
+
+Galaxy Note 10 Plus vẫn gặp vấn đề ở mặt chụp chân dung, khi hình chụp vật thể có cảm giác sương, mờ, độ tương phản không cao, khá khó nhìn.	Galaxy Note 10 Plus vẫn gặp vấn đề ở mặt chụp chân dung , khi hình chụp vật thể có cảm giác sương , mờ , độ tương phản không cao , khá khó nhìn .
+
+Trên iPhone, mặc dù ảnh xử lý bị ám vàng khá rõ nhưng lại làm tốt hơn hẳn về tương phản lẫn chi tiết.	Trên iPhone , mặc dù ảnh xử lý bị ám vàng khá rõ nhưng lại làm tốt hơn hẳn về tương phản lẫn chi tiết .
+{"subject": ["2&&iPhone"], "object": [], "aspect": ["21&&tương", "22&&phản"], "predicate": ["17&&tốt", "18&&hơn", "19&&hẳn"], "label": "COM+"}
+{"subject": ["2&&iPhone"], "object": [], "aspect": ["24&&chi", "25&&tiết"], "predicate": ["17&&tốt", "18&&hơn", "19&&hẳn"], "label": "COM+"}
+
+Chất ảnh trên Galaxy Note 10 Plus vẫn thể hiện tương tự khi vào điều kiện thiếu sáng.	Chất ảnh trên Galaxy Note 10 Plus vẫn thể hiện tương tự khi vào điều kiện thiếu sáng .
+{"subject": ["4&&Galaxy", "5&&Note", "6&&10", "7&&Plus"], "object": [], "aspect": ["1&&Chất", "2&&ảnh"], "predicate": ["9&&thể", "10&&hiện", "11&&tương", "12&&tự"], "label": "EQL"}
+
+Cảm giác ảnh sẽ không được trong trẻo như iPhone 11.	Cảm giác ảnh sẽ không được trong trẻo như iPhone 11 .
+{"subject": [], "object": ["10&&iPhone", "11&&11"], "aspect": ["1&&Cảm", "2&&giác", "3&&ảnh"], "predicate": ["5&&không", "6&&được", "7&&trong", "8&&trẻo", "9&&như"], "label": "COM-"}
+
+Cùng với đó là chi tiết trên tóc, trên áo của iPhone 11 cũng làm được tốt hơn.	Cùng với đó là chi tiết trên tóc , trên áo của iPhone 11 cũng làm được tốt hơn .
+{"subject": ["13&&iPhone", "14&&11"], "object": [], "aspect": ["5&&chi", "6&&tiết", "7&&trên", "8&&tóc"], "predicate": ["18&&tốt", "19&&hơn"], "label": "COM+"}
+{"subject": ["13&&iPhone", "14&&11"], "object": [], "aspect": ["10&&trên", "11&&áo"], "predicate": ["18&&tốt", "19&&hơn"], "label": "COM+"}
+
+Chụp chân dung không tốt, thế nhưng Galaxy Note 10 Plus lại vượt trội về khoản xử lý ánh sáng đèn khi chụp đêm.	Chụp chân dung không tốt , thế nhưng Galaxy Note 10 Plus lại vượt trội về khoản xử lý ánh sáng đèn khi chụp đêm .
+{"subject": ["9&&Galaxy", "10&&Note", "11&&10", "12&&Plus"], "object": [], "aspect": ["18&&xử", "19&&lý", "20&&ánh", "21&&sáng", "22&&đèn", "23&&khi", "24&&chụp", "25&&đêm"], "predicate": ["14&&vượt", "15&&trội"], "label": "COM+"}
+
+Ở những biển hiệu hay ngọn đèn, Note 10 Plus giữ được vật thể, không bị cháy, mất chi tiết như iPhone 11.	Ở những biển hiệu hay ngọn đèn , Note 10 Plus giữ được vật thể , không bị cháy , mất chi tiết như iPhone 11 .
+{"subject": ["9&&Note", "10&&10", "11&&Plus"], "object": ["25&&iPhone", "26&&11"], "aspect": [], "predicate": ["17&&không", "18&&bị", "19&&cháy", "20&&,", "21&&mất", "22&&chi", "23&&tiết", "24&&như"], "label": "COM+"}
+
+Về khả năng quay video, điểm cộng là cả hai đều hỗ trợ quay video 4K ở cả camera trước và sau.	Về khả năng quay video , điểm cộng là cả hai đều hỗ trợ quay video 4K ở cả camera trước và sau .
+{"subject": ["10&&cả", "11&&hai"], "object": ["10&&cả", "11&&hai"], "aspect": ["2&&khả", "3&&năng", "4&&quay", "5&&video"], "predicate": ["12&&đều", "13&&hỗ", "14&&trợ", "15&&quay", "16&&video", "17&&4K", "18&&ở", "19&&cả", "20&&camera", "21&&trước", "22&&và", "23&&sau"], "label": "EQL"}
+
+Tuy nhiên, iPhone thể hiện sự vượt trội về khả năng chống rung hay xử lý ánh sáng, trong khi Note 10 Plus xử lý màu áo khá tệ, các chi tiết bị ám hồng và khó có thể nhìn một cách rõ ràng.	Tuy nhiên , iPhone thể hiện sự vượt trội về khả năng chống rung hay xử lý ánh sáng , trong khi Note 10 Plus xử lý màu áo khá tệ , các chi tiết bị ám hồng và khó có thể nhìn một cách rõ ràng .
+{"subject": ["4&&iPhone"], "object": [], "aspect": [], "predicate": ["7&&sự", "8&&vượt", "9&&trội"], "label": "COM+"}
+
+alt:	alt :
+
+des:	des :
+
+Nhìn chung, camera trên iPhone 11 không quá xuất sắc ít nhất xét trong tầm giá này.	Nhìn chung , camera trên iPhone 11 không quá xuất sắc ít nhất xét trong tầm giá này .
+
+Tuy nhiên, khi đặt cạnh Note 10 Plus, mẫu máy tới từ Apple vẫn cho khả năng quay chụp tốt hơn trong nhiều điều kiện.	Tuy nhiên , khi đặt cạnh Note 10 Plus , mẫu máy tới từ Apple vẫn cho khả năng quay chụp tốt hơn trong nhiều điều kiện .
+{"subject": ["11&&mẫu", "12&&máy", "13&&tới", "14&&từ", "15&&Apple"], "object": ["7&&Note", "8&&10", "9&&Plus"], "aspect": ["18&&khả", "19&&năng", "20&&quay", "21&&chụp"], "predicate": ["22&&tốt", "23&&hơn", "24&&trong", "25&&nhiều", "26&&điều", "27&&kiện"], "label": "COM+"}
+
+Hiệu năng	Hiệu năng
+
+Phiên bản Galaxy Note 10 Plus mình có trên tay là phiên bản nhà mạng Hàn Quốc, sử dụng Exynos 9825 chứ không phải Snapdragon 855.	Phiên bản Galaxy Note 10 Plus mình có trên tay là phiên bản nhà mạng Hàn Quốc , sử dụng Exynos 9825 chứ không phải Snapdragon 855 .
+
+Nhìn chung, Exynos 9825 thua thiệt hoàn toàn khi so sánh với Apple A13 Bionic có trên iPhone 11, từ điểm số cho đến màn thể hiện trong các tựa game.	Nhìn chung , Exynos 9825 thua thiệt hoàn toàn khi so sánh với Apple A13 Bionic có trên iPhone 11 , từ điểm số cho đến màn thể hiện trong các tựa game .
+
+Ở hầu hết tựa game, kể cả Genshin Impact thì iPhone 11 xử lý vẫn rất tốt.	Ở hầu hết tựa game , kể cả Genshin Impact thì iPhone 11 xử lý vẫn rất tốt .
+
+Mức FPS trung bình đạt được ở tựa game này là 50, tức là còn tương đương với nhiều mẫu flagship Android mới ra mắt trong năm 2023.	Mức FPS trung bình đạt được ở tựa game này là 50 , tức là còn tương đương với nhiều mẫu flagship Android mới ra mắt trong năm 2023 .
+{"subject": [], "object": ["20&&nhiều", "21&&mẫu", "22&&flagship", "23&&Android", "24&&mới", "25&&ra", "26&&mắt", "27&&trong", "28&&năm", "29&&2023"], "aspect": ["1&&Mức", "2&&FPS", "3&&trung", "4&&bình"], "predicate": ["17&&tương", "18&&đương"], "label": "EQL"}
+
+Nhìn chung, nếu anh em là người chơi PUBG Mobile, Genshin Impact thì nên ưu tiên lựa chọn iPhone 11.	Nhìn chung , nếu anh em là người chơi PUBG Mobile , Genshin Impact thì nên ưu tiên lựa chọn iPhone 11 .
+
+Còn với những tựa game cơ bản hơn như LMHT Tốc Chiến hay Liên Quân Mobile, cả hai đều có thể đáp ứng rất tốt về cả FPS lẫn nhiệt độ.	Còn với những tựa game cơ bản hơn như LMHT Tốc Chiến hay Liên Quân Mobile , cả hai đều có thể đáp ứng rất tốt về cả FPS lẫn nhiệt độ .
+{"subject": ["18&&cả", "19&&hai"], "object": ["18&&cả", "19&&hai"], "aspect": ["31&&nhiệt", "32&&độ"], "predicate": ["20&&đều", "21&&có", "22&&thể", "23&&đáp", "24&&ứng", "25&&rất", "26&&tốt"], "label": "EQL"}
+
+Tất nhiên, tình trạng nóng lên là khó tránh khỏi nếu như mình chơi game trong thời gian dài hay quay video dưới trời nắng.	Tất nhiên , tình trạng nóng lên là khó tránh khỏi nếu như mình chơi game trong thời gian dài hay quay video dưới trời nắng .
+
+Tổng kết	Tổng kết
+
+Có thể nói Galaxy Note 10 Plus và iPhone 11 là hai mẫu máy trái ngược nhau hoàn toàn.	Có thể nói Galaxy Note 10 Plus và iPhone 11 là hai mẫu máy trái ngược nhau hoàn toàn .
+{"subject": ["4&&Galaxy", "5&&Note", "6&&10", "7&&Plus"], "object": ["9&&iPhone", "10&&11"], "aspect": [], "predicate": ["15&&trái", "16&&ngược", "17&&nhau", "18&&hoàn", "19&&toàn"], "label": "DIF"}
+
+Chúng gần như chẳng có điểm nào thực sự giống nhau cả.	Chúng gần như chẳng có điểm nào thực sự giống nhau cả .
+{"subject": ["1&&Chúng"], "object": [], "aspect": [], "predicate": ["2&&gần", "3&&như", "4&&chẳng", "5&&có", "6&&điểm", "7&&nào", "8&&thực", "9&&sự", "10&&giống", "11&&nhau"], "label": "DIF"}
+
+Với iPhone 11, nó sẽ là lựa chọn cho các bạn cần pin trâu, hiệu năng tốt và camera ổn định trong phân khúc giá.	Với iPhone 11 , nó sẽ là lựa chọn cho các bạn cần pin trâu , hiệu năng tốt và camera ổn định trong phân khúc giá .
+
+Trong khi đó, Note 10 Plus là lựa chọn cho những ai cần màn hình to đẹp, thiết kế sang trọng cùng những công nghệ độc quyền của Samsung như S-Pen, Samsung Dex hay Samsung Pay."	Trong khi đó , Note 10 Plus là lựa chọn cho những ai cần màn hình to đẹp , thiết kế sang trọng cùng những công nghệ độc quyền của Samsung như S-Pen , Samsung Dex hay Samsung Pay . "
+

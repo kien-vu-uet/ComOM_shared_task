@@ -1,0 +1,172 @@
+title: Galaxy S22 Ultra vs Pixel 7 Pro: Cuộc chiến của những chiếc smartphone nhiếp ảnh	title : Galaxy S22 Ultra vs Pixel 7 Pro : Cuộc chiến của những chiếc smartphone nhiếp ảnh
+
+Đánh giá chi tiết Galaxy S22 Ultra và Pixel 7 Pro	Đánh giá chi tiết Galaxy S22 Ultra và Pixel 7 Pro
+
+Galaxy S22 Ultra được Samsung cho ra mắt vào đầu năm nay, gây ấn tượng bằng khả năng zoom 100X trên camera.	Galaxy S22 Ultra được Samsung cho ra mắt vào đầu năm nay , gây ấn tượng bằng khả năng zoom 100X trên camera .
+
+Ngược lại, Pixel 7 Pro chính thức ra mắt vào quý 4 năm 2022 nhưng cũng nhanh chóng giành được sự chú ý nhờ vào khả năng xử lý hình ảnh ưu việt của mình.	Ngược lại , Pixel 7 Pro chính thức ra mắt vào quý 4 năm 2022 nhưng cũng nhanh chóng giành được sự chú ý nhờ vào khả năng xử lý hình ảnh ưu việt của mình .
+
+Vậy giữa hai mẫu điện thoại được đánh giá cao về khả năng nhiếp ảnh này, đâu là chiếc điện thoại đáng giá hơn?	Vậy giữa hai mẫu điện thoại được đánh giá cao về khả năng nhiếp ảnh này , đâu là chiếc điện thoại đáng giá hơn ?
+
+alt: Galaxy S22 Ultra và Pixel 7 Pro, đâu sẽ là chiếc điện thoại tốt hơn?	alt : Galaxy S22 Ultra và Pixel 7 Pro , đâu sẽ là chiếc điện thoại tốt hơn ?
+
+des:	des :
+
+Galaxy S22 Ultra và Pixel 7 Pro, đâu sẽ là chiếc điện thoại tốt hơn?	Galaxy S22 Ultra và Pixel 7 Pro , đâu sẽ là chiếc điện thoại tốt hơn ?
+
+Giá bán có sự chênh lệch do thời điểm	Giá bán có sự chênh lệch do thời điểm
+
+Thời điểm tháng 10 năm 2022, mức giá hiện tại của Galaxy S22 Ultra tại hệ thống cửa hàng XTmobile với cấu hình tiêu chuẩn vào khoảng 25 triệu đồng.	Thời điểm tháng 10 năm 2022 , mức giá hiện tại của Galaxy S22 Ultra tại hệ thống cửa hàng XTmobile với cấu hình tiêu chuẩn vào khoảng 25 triệu đồng .
+
+So với Google Pixel 7 Pro có mức giá khoảng 30 triệu đồng rõ ràng có sự chênh lệch.	So với Google Pixel 7 Pro có mức giá khoảng 30 triệu đồng rõ ràng có sự chênh lệch .
+{"subject": [], "object": ["3&&Google", "4&&Pixel", "5&&7", "6&&Pro"], "aspect": [], "predicate": ["18&&chênh", "19&&lệch"], "label": "DIF"}
+
+Tuy nhiên khoảng cách về giá này được tạo ra bởi smartphone của Google ra mắt sau.	Tuy nhiên khoảng cách về giá này được tạo ra bởi smartphone của Google ra mắt sau .
+
+Thế nên về lâu dài, nhiều khả năng hai sản phẩm này sẽ ngang bằng về mức giá bán	Thế nên về lâu dài , nhiều khả năng hai sản phẩm này sẽ ngang bằng về mức giá bán
+
+Thiết kế thú vị	Thiết kế thú vị
+
+So với người tiền nhiệm là Pixel 6 Pro, Pixel 7 Pro có hai sự thay đổi nhỏ trong thiết kế: Một là chuyển sang sử dụng 1 màu cho toàn bộ mặt lưng thay vì 2 tông màu như năm ngoái.	So với người tiền nhiệm là Pixel 6 Pro , Pixel 7 Pro có hai sự thay đổi nhỏ trong thiết kế : Một là chuyển sang sử dụng 1 màu cho toàn bộ mặt lưng thay vì 2 tông màu như năm ngoái .
+{"subject": ["11&&Pixel", "12&&7", "13&&Pro"], "object": ["7&&Pixel", "8&&6", "9&&Pro"], "aspect": ["21&&thiết", "22&&kế"], "predicate": ["17&&thay", "18&&đổi", "19&&nhỏ"], "label": "DIF"}
+
+Và hai là thay đổi chất liệu phần module camera từ kính sang kim loại.	Và hai là thay đổi chất liệu phần module camera từ kính sang kim loại .
+
+alt: Galaxy S22 Ultra và Pixel 7 Pro đều sở hữu những thay đổi trong thiết kế	alt : Galaxy S22 Ultra và Pixel 7 Pro đều sở hữu những thay đổi trong thiết kế
+{"subject": ["3&&Galaxy", "4&&S22", "5&&Ultra"], "object": ["7&&Pixel", "8&&7", "9&&Pro"], "aspect": ["13&&những", "14&&thay", "15&&đổi", "16&&trong"], "predicate": ["10&&đều", "11&&sở", "12&&hữu"], "label": "EQL"}
+
+des:	des :
+
+Galaxy S22 Ultra và Pixel 7 Pro đều sở hữu những thay đổi trong thiết kế	Galaxy S22 Ultra và Pixel 7 Pro đều sở hữu những thay đổi trong thiết kế
+{"subject": ["1&&Galaxy", "2&&S22", "3&&Ultra"], "object": ["5&&Pixel", "6&&7", "7&&Pro"], "aspect": ["11&&những", "12&&thay", "13&&đổi", "14&&trong"], "predicate": ["8&&đều", "9&&sở", "10&&hữu"], "label": "EQL"}
+
+Tuy chỉ là những thay đổi nhỏ nhưng trên thực tế chúng lại mang đến những hiệu ứng lớn trong cảm nhận người dùng: Từ một chiếc điện thoại thú vị và độc đáo ở phiên bản trước,  Pixel 7 Pro giờ đây đã trở thành một chiếc smartphone cao cấp đúng nghĩa, mang trong mình một vẻ đẹp tinh tế và đầy sang trọng.	Tuy chỉ là những thay đổi nhỏ nhưng trên thực tế chúng lại mang đến những hiệu ứng lớn trong cảm nhận người dùng : Từ một chiếc điện thoại thú vị và độc đáo ở phiên bản trước , Pixel 7 Pro giờ đây đã trở thành một chiếc smartphone cao cấp đúng nghĩa , mang trong mình một vẻ đẹp tinh tế và đầy sang trọng .
+
+Nếu sản phẩm nhà Google chỉ có chút ít thay đổi về thiết kế thì Galaxy S22 Ultra lại là chiếc điện thoại mang tính cột mốc, đánh dấu sự thay đổi lớn trong thiết kế.	Nếu sản phẩm nhà Google chỉ có chút ít thay đổi về thiết kế thì Galaxy S22 Ultra lại là chiếc điện thoại mang tính cột mốc , đánh dấu sự thay đổi lớn trong thiết kế .
+
+Trên thực tế, chiếc điện thoại cao cấp nhất dòng S không phải là thế hệ kế thừa từ Galaxy S21 Ultra mà là Note 20 Ultra.	Trên thực tế , chiếc điện thoại cao cấp nhất dòng S không phải là thế hệ kế thừa từ Galaxy S21 Ultra mà là Note 20 Ultra .
+
+alt: Galaxy S22 Ultra có nhiều thay đổi về mặt thiết kế hơn so với đối thủ	alt : Galaxy S22 Ultra có nhiều thay đổi về mặt thiết kế hơn so với đối thủ
+{"subject": ["3&&Galaxy", "4&&S22", "5&&Ultra"], "object": [], "aspect": ["12&&thiết", "13&&kế"], "predicate": ["7&&nhiều", "8&&thay", "9&&đổi"], "label": "COM+"}
+
+des:	des :
+
+Galaxy S22 Ultra có nhiều thay đổi về mặt thiết kế hơn so với đối thủ	Galaxy S22 Ultra có nhiều thay đổi về mặt thiết kế hơn so với đối thủ
+{"subject": ["1&&Galaxy", "2&&S22", "3&&Ultra"], "object": [], "aspect": ["10&&thiết", "11&&kế"], "predicate": ["5&&nhiều", "6&&thay", "7&&đổi"], "label": "COM+"}
+
+Máy sở hữu một ngoại hình vuông vức, mạnh mẽ.	Máy sở hữu một ngoại hình vuông vức , mạnh mẽ .
+
+Tuy nhiên, với phần khung máy được bo cong cùng mặt lưng kính nhám, chiếc điện thoại này vẫn mang lại cảm giác cầm nắm tuyệt vời chứ không hề bị cấn tay.	Tuy nhiên , với phần khung máy được bo cong cùng mặt lưng kính nhám , chiếc điện thoại này vẫn mang lại cảm giác cầm nắm tuyệt vời chứ không hề bị cấn tay .
+
+Điểm thú vị nhất trên chiếc điện thoại này đó là Samsung đã loại bỏ hoàn toàn phần module camera và đặt trực tiếp các ống kính lên trên mặt lưng của máy.	Điểm thú vị nhất trên chiếc điện thoại này đó là Samsung đã loại bỏ hoàn toàn phần module camera và đặt trực tiếp các ống kính lên trên mặt lưng của máy .
+
+Theo đánh giá của các chuyên gia, đây là một trong những thiết kế xuất sắc nhất từ trước đến nay của hãng công nghệ Hàn Quốc.	Theo đánh giá của các chuyên gia , đây là một trong những thiết kế xuất sắc nhất từ trước đến nay của hãng công nghệ Hàn Quốc .
+{"subject": ["9&&đây"], "object": [], "aspect": [], "predicate": ["16&&xuất", "17&&sắc", "18&&nhất", "19&&từ", "20&&trước", "21&&đến", "22&&nay", "23&&của", "24&&hãng", "25&&công", "26&&nghệ", "27&&Hàn", "28&&Quốc"], "label": "SUP+"}
+
+Thiết kế này vừa giúp giảm thiểu chi phí sản xuất, vừa giúp sản phẩm trở nên tinh tế, đơn giản nhưng vẫn vô cùng thẩm mỹ.	Thiết kế này vừa giúp giảm thiểu chi phí sản xuất , vừa giúp sản phẩm trở nên tinh tế , đơn giản nhưng vẫn vô cùng thẩm mỹ .
+
+Màn hình là chưa hẳn là thế mạnh của Samsung	Màn hình là chưa hẳn là thế mạnh của Samsung
+
+Nếu xét về mặt thông số, cả Galaxy S22 Ultra và Pixel 7 Pro sẽ đều có những tính năng hiện đại nhất về màn hình như độ phân giải 2K+, khả năng thay đổi tần số quét hỗ trợ tối đa ở 12Hz, công nghệ hiển thị màu sắc HDR10+, tính năng Always-On Display, hay hỗ trợ chiếu sáng trên 1500 nits,… Thế nên ở môi trường sử dụng thông thường, cả hai chiếc smartphone đều cho thấy khả năng hiển thị hình ảnh vô cùng xuất sắc.	Nếu xét về mặt thông số , cả Galaxy S22 Ultra và Pixel 7 Pro sẽ đều có những tính năng hiện đại nhất về màn hình như độ phân giải 2K + , khả năng thay đổi tần số quét hỗ trợ tối đa ở 12Hz , công nghệ hiển thị màu sắc HDR10 + , tính năng Always-On Display , hay hỗ trợ chiếu sáng trên 1500 nits , … Thế nên ở môi trường sử dụng thông thường , cả hai chiếc smartphone đều cho thấy khả năng hiển thị hình ảnh vô cùng xuất sắc .
+{"subject": ["9&&Galaxy", "10&&S22", "11&&Ultra"], "object": ["13&&Pixel", "14&&7", "15&&Pro"], "aspect": ["19&&những", "20&&tính", "21&&năng", "22&&hiện", "23&&đại", "24&&nhất", "25&&về", "26&&màn", "27&&hình"], "predicate": ["17&&đều", "18&&có", "19&&những", "20&&tính", "21&&năng", "22&&hiện", "23&&đại", "24&&nhất"], "label": "EQL"}
+{"subject": ["9&&Galaxy", "10&&S22", "11&&Ultra"], "object": ["83&&cả", "84&&hai", "85&&chiếc", "86&&smartphone"], "aspect": ["19&&những", "20&&tính", "21&&năng", "22&&hiện", "23&&đại", "24&&nhất", "25&&về", "26&&màn", "27&&hình"], "predicate": ["17&&đều", "18&&có", "19&&những", "20&&tính", "21&&năng", "22&&hiện", "23&&đại", "24&&nhất"], "label": "EQL"}
+{"subject": ["83&&cả", "84&&hai", "85&&chiếc", "86&&smartphone"], "object": ["13&&Pixel", "14&&7", "15&&Pro"], "aspect": ["19&&những", "20&&tính", "21&&năng", "22&&hiện", "23&&đại", "24&&nhất", "25&&về", "26&&màn", "27&&hình"], "predicate": ["17&&đều", "18&&có", "19&&những", "20&&tính", "21&&năng", "22&&hiện", "23&&đại", "24&&nhất"], "label": "EQL"}
+{"subject": ["83&&cả", "84&&hai", "85&&chiếc", "86&&smartphone"], "object": ["83&&cả", "84&&hai", "85&&chiếc", "86&&smartphone"], "aspect": ["19&&những", "20&&tính", "21&&năng", "22&&hiện", "23&&đại", "24&&nhất", "25&&về", "26&&màn", "27&&hình"], "predicate": ["17&&đều", "18&&có", "19&&những", "20&&tính", "21&&năng", "22&&hiện", "23&&đại", "24&&nhất"], "label": "EQL"}
+
+alt: Vị trí của Galaxy S22 Ultra và Pixel 7 Pro trên bảng xếp hạng của DxOMark	alt : Vị trí của Galaxy S22 Ultra và Pixel 7 Pro trên bảng xếp hạng của DxOMark
+
+des:	des :
+
+Vị trí của Galaxy S22 Ultra và Pixel 7 Pro trên bảng xếp hạng của DxOMark	Vị trí của Galaxy S22 Ultra và Pixel 7 Pro trên bảng xếp hạng của DxOMark
+
+Tuy nhiên, sự chênh lệch sẽ xuất hiện khi hai màn hình được đẩy lên ở độ sáng cao nhất.	Tuy nhiên , sự chênh lệch sẽ xuất hiện khi hai màn hình được đẩy lên ở độ sáng cao nhất .
+
+Theo chuyên trang đánh giá về màn hình DxOMark, Galaxy S22 Ultra sẽ đánh mất độ chân thực về màu sắc khi bị ép lên cường độ ánh sáng cao nhất.	Theo chuyên trang đánh giá về màn hình DxOMark , Galaxy S22 Ultra sẽ đánh mất độ chân thực về màu sắc khi bị ép lên cường độ ánh sáng cao nhất .
+
+Ngược lại, Pixel 7 Pro vẫn có thể hiển thị tốt màu sắc của hình ảnh khi đạt độ sáng lên tới 1500 nits.	Ngược lại , Pixel 7 Pro vẫn có thể hiển thị tốt màu sắc của hình ảnh khi đạt độ sáng lên tới 1500 nits .
+
+Đây cũng là nguyên nhân mà Pixel 7 Pro được đánh giá tốt hơn về khả năng hiển thị so với đối thủ của mình.	Đây cũng là nguyên nhân mà Pixel 7 Pro được đánh giá tốt hơn về khả năng hiển thị so với đối thủ của mình .
+{"subject": ["7&&Pixel", "8&&7", "9&&Pro"], "object": ["22&&đối", "23&&thủ", "24&&của", "25&&mình"], "aspect": ["16&&khả", "17&&năng", "18&&hiển", "19&&thị"], "predicate": ["13&&tốt", "14&&hơn"], "label": "COM+"}
+
+Cấu hình mạnh mẽ và ổn định	Cấu hình mạnh mẽ và ổn định
+
+Galaxy S22 Ultra được trang bị con chip Snapdragon 8 Gen 1.	Galaxy S22 Ultra được trang bị con chip Snapdragon 8 Gen 1 .
+
+Tuy nhiên, con chip này đã bị Samsung bóp hiệu năng để có thể quản lý nhiệt tốt hơn.	Tuy nhiên , con chip này đã bị Samsung bóp hiệu năng để có thể quản lý nhiệt tốt hơn .
+
+Dẫu bị hạn chế sức mạnh, song bộ vi xử lý của Qualcomm vẫn tỏ ra vượt trội hơn hẳn so với Tensor G2 của Pixel 7 Pro.	Dẫu bị hạn chế sức mạnh , song bộ vi xử lý của Qualcomm vẫn tỏ ra vượt trội hơn hẳn so với Tensor G2 của Pixel 7 Pro .
+{"subject": ["9&&bộ", "10&&vi", "11&&xử", "12&&lý", "13&&của", "14&&Qualcomm"], "object": ["24&&Tensor", "25&&G2", "26&&của", "27&&Pixel", "28&&7", "29&&Pro"], "aspect": [], "predicate": ["18&&vượt", "19&&trội", "20&&hơn", "21&&hẳn"], "label": "COM+"}
+
+Đây cũng là kết quả đã được dự báo từ trước đó của các chuyên gia.	Đây cũng là kết quả đã được dự báo từ trước đó của các chuyên gia .
+
+alt: Galaxy S22 Ultra và Pixel 7 Pro đều có cấu hình mạnh mẽ	alt : Galaxy S22 Ultra và Pixel 7 Pro đều có cấu hình mạnh mẽ
+
+des:	des :
+
+Galaxy S22 Ultra và Pixel 7 Pro đều có cấu hình mạnh mẽ	Galaxy S22 Ultra và Pixel 7 Pro đều có cấu hình mạnh mẽ
+
+Về phía con chip độc quyền của Google, tuy thua kém về khả năng xử lý tác vụ, nhưng Tensor G2 lại khiến các chuyên gia bất ngờ về khả năng duy trì độ ổn định của nó.	Về phía con chip độc quyền của Google , tuy thua kém về khả năng xử lý tác vụ , nhưng Tensor G2 lại khiến các chuyên gia bất ngờ về khả năng duy trì độ ổn định của nó .
+{"subject": ["22&&Tensor", "23&&G2"], "object": [], "aspect": ["14&&khả", "15&&năng", "16&&xử", "17&&lý", "18&&tác", "19&&vụ"], "predicate": ["11&&thua", "12&&kém"], "label": "COM-"}
+
+Theo đó, Pixel 7 Pro có thể duy trì được sự mượt mà trong vận hành ngay cả ở nhiệt độ cao.	Theo đó , Pixel 7 Pro có thể duy trì được sự mượt mà trong vận hành ngay cả ở nhiệt độ cao .
+
+Đây là điều mà cả Pixel 6 Pro, Galaxy S22 Ultra hay thậm chí là iPhone 14 Pro Max cũng chưa làm được.	Đây là điều mà cả Pixel 6 Pro , Galaxy S22 Ultra hay thậm chí là iPhone 14 Pro Max cũng chưa làm được .
+
+Cả hai mẫu điện thoại đều sẽ sở hữu viên pin dung lượng 5000 mAh.	Cả hai mẫu điện thoại đều sẽ sở hữu viên pin dung lượng 5000 mAh .
+{"subject": ["1&&Cả", "2&&hai", "3&&mẫu", "4&&điện", "5&&thoại"], "object": ["1&&Cả", "2&&hai", "3&&mẫu", "4&&điện", "5&&thoại"], "aspect": ["8&&sở", "9&&hữu", "10&&viên", "11&&pin", "12&&dung", "13&&lượng", "14&&5000", "15&&mAh"], "predicate": ["6&&đều", "7&&sẽ"], "label": "EQL"}
+
+Tuy nhiên Galaxy S22 Ultra sẽ ít tốn thời gian sạc hơn  nhờ hỗ trợ công suất lên đến 45W, trong khi đó đối thủ của nó chỉ được hỗ trợ sạc nhanh 30W mà thôi.	Tuy nhiên Galaxy S22 Ultra sẽ ít tốn thời gian sạc hơn nhờ hỗ trợ công suất lên đến 45W , trong khi đó đối thủ của nó chỉ được hỗ trợ sạc nhanh 30W mà thôi .
+
+So sánh thông số kỹ thuật Galaxy S22 Ultra và Google Pixel 7 Pro	So sánh thông số kỹ thuật Galaxy S22 Ultra và Google Pixel 7 Pro
+
+Camera mỗi người một lợi thế	Camera mỗi người một lợi thế
+
+Camera là vai trò quan trọng nhất khi nhắc đến Galaxy S22 Ultra và Google Pixel 7.	Camera là vai trò quan trọng nhất khi nhắc đến Galaxy S22 Ultra và Google Pixel 7 .
+
+Và mỗi chiếc điện thoại lại có một ưu điểm riêng biệt.	Và mỗi chiếc điện thoại lại có một ưu điểm riêng biệt .
+
+Về phía sản phẩm của của Samsung, mẫu điện thoại này có lợi thế lớn về mặt phần cứng với cụm camera 4 ống kính, trong đó đáng chú ý nhất là ống kính chính với độ phân giải 48MP.	Về phía sản phẩm của của Samsung , mẫu điện thoại này có lợi thế lớn về mặt phần cứng với cụm camera 4 ống kính , trong đó đáng chú ý nhất là ống kính chính với độ phân giải 48MP .
+{"subject": ["9&&mẫu", "10&&điện", "11&&thoại", "12&&này"], "object": [], "aspect": ["19&&phần", "20&&cứng"], "predicate": ["14&&lợi", "15&&thế", "16&&lớn"], "label": "COM+"}
+
+Đồng thời S22 Ultra còn được trang bị thêm camera trước 40MP.	Đồng thời S22 Ultra còn được trang bị thêm camera trước 40MP .
+
+Chính nhờ những thông số khủng này mà mẫu điện thoại cao cấp nhất dòng S22 sở hữu khả năng zoom và quay video 8K một cách tuyệt vời.	Chính nhờ những thông số khủng này mà mẫu điện thoại cao cấp nhất dòng S22 sở hữu khả năng zoom và quay video 8K một cách tuyệt vời .
+
+alt: Galaxy S22 Ultra và Pixel 7 Pro đều có những lợi thế riêng về camera	alt : Galaxy S22 Ultra và Pixel 7 Pro đều có những lợi thế riêng về camera
+{"subject": ["3&&Galaxy", "4&&S22", "5&&Ultra"], "object": ["7&&Pixel", "8&&7", "9&&Pro"], "aspect": ["12&&những", "13&&lợi", "14&&thế", "15&&riêng", "16&&về"], "predicate": ["10&&đều", "11&&có", "12&&những", "13&&lợi", "14&&thế", "15&&riêng", "16&&về"], "label": "DIF"}
+
+des:	des :
+
+Galaxy S22 Ultra và Pixel 7 Pro đều có những lợi thế riêng về camera	Galaxy S22 Ultra và Pixel 7 Pro đều có những lợi thế riêng về camera
+{"subject": ["1&&Galaxy", "2&&S22", "3&&Ultra"], "object": ["5&&Pixel", "6&&7", "7&&Pro"], "aspect": [], "predicate": ["8&&đều", "9&&có", "10&&những", "11&&lợi", "12&&thế", "13&&riêng", "14&&về"], "label": "EQL"}
+
+Khác với mẫu smartphone Hàn Quốc, phần mềm xử lý hình ảnh của Pixel 7 Pro mới là thứ tạo nên khả năng chụp ảnh đỉnh cao của chiếc máy này.	Khác với mẫu smartphone Hàn Quốc , phần mềm xử lý hình ảnh của Pixel 7 Pro mới là thứ tạo nên khả năng chụp ảnh đỉnh cao của chiếc máy này .
+{"subject": ["15&&Pixel", "16&&7", "17&&Pro"], "object": ["3&&mẫu", "4&&smartphone", "5&&Hàn", "6&&Quốc"], "aspect": [], "predicate": ["1&&Khác"], "label": "DIF"}
+
+Google từ trước tới nay đều rất nổi tiếng với khả năng xử lý hình ảnh cực tốt , thậm chí là đứng đầu giới công nghệ.	Google từ trước tới nay đều rất nổi tiếng với khả năng xử lý hình ảnh cực tốt , thậm chí là đứng đầu giới công nghệ .
+{"subject": [], "object": [], "aspect": [], "predicate": ["23&&đứng", "24&&đầu", "25&&giới", "26&&công", "27&&nghệ"], "label": "COM+"}
+
+Chính vì lẽ đó mà những bức ảnh được chụp bởi Pixel 7 Pro có độ chi tiết cao nhưng không làm mất đi độ trung thực và tự nhiên của màu sắc.	Chính vì lẽ đó mà những bức ảnh được chụp bởi Pixel 7 Pro có độ chi tiết cao nhưng không làm mất đi độ trung thực và tự nhiên của màu sắc .
+
+Dành cho những ai chưa biết, Pixel 7 Pro hiện được đánh giá là mẫu điện thoại có camera tốt nhất thế giới theo đánh giá của DxOMark, không chỉ vượt qua Galaxy S22 Ultra mà thậm chí còn đứng trên cả iPhone 14 Pro Max.	Dành cho những ai chưa biết , Pixel 7 Pro hiện được đánh giá là mẫu điện thoại có camera tốt nhất thế giới theo đánh giá của DxOMark , không chỉ vượt qua Galaxy S22 Ultra mà thậm chí còn đứng trên cả iPhone 14 Pro Max .
+{"subject": ["8&&Pixel", "9&&7", "10&&Pro"], "object": ["35&&Galaxy", "36&&S22", "37&&Ultra"], "aspect": ["20&&camera"], "predicate": ["21&&tốt", "22&&nhất", "23&&thế", "24&&giới"], "label": "SUP+"}
+{"subject": ["8&&Pixel", "9&&7", "10&&Pro"], "object": ["35&&Galaxy", "36&&S22", "37&&Ultra"], "aspect": ["20&&camera"], "predicate": ["42&&đứng", "43&&trên"], "label": "COM+"}
+{"subject": ["8&&Pixel", "9&&7", "10&&Pro"], "object": ["45&&iPhone", "46&&14", "47&&Pro", "48&&Max"], "aspect": ["20&&camera"], "predicate": ["21&&tốt", "22&&nhất", "23&&thế", "24&&giới"], "label": "SUP+"}
+{"subject": ["8&&Pixel", "9&&7", "10&&Pro"], "object": ["45&&iPhone", "46&&14", "47&&Pro", "48&&Max"], "aspect": ["20&&camera"], "predicate": ["42&&đứng", "43&&trên"], "label": "COM+"}
+
+Điều này đã làm bất ngờ các chuyên gia khảo sát.	Điều này đã làm bất ngờ các chuyên gia khảo sát .
+
+alt: Galaxy S22 Ultra và Pixel 7 Pro có khoảng cách lớn về khả năng xử lý hình ảnh	alt : Galaxy S22 Ultra và Pixel 7 Pro có khoảng cách lớn về khả năng xử lý hình ảnh
+{"subject": ["3&&Galaxy", "4&&S22", "5&&Ultra"], "object": ["7&&Pixel", "8&&7", "9&&Pro"], "aspect": ["15&&khả", "16&&năng", "17&&xử", "18&&lý"], "predicate": ["11&&khoảng", "12&&cách", "13&&lớn"], "label": "DIF"}
+
+des:	des :
+
+Galaxy S22 Ultra và Pixel 7 Pro có khoảng cách lớn về khả năng xử lý hình ảnh	Galaxy S22 Ultra và Pixel 7 Pro có khoảng cách lớn về khả năng xử lý hình ảnh
+{"subject": ["1&&Galaxy", "2&&S22", "3&&Ultra"], "object": ["5&&Pixel", "6&&7", "7&&Pro"], "aspect": ["13&&khả", "14&&năng", "15&&xử", "16&&lý"], "predicate": ["9&&khoảng", "10&&cách", "11&&lớn"], "label": "DIF"}
+
+Như vậy có thể thấy, cả S22 Ultra lần Pixel 7 Pro đều có những ưu nhược điểm của riêng mình.	Như vậy có thể thấy , cả S22 Ultra lần Pixel 7 Pro đều có những ưu nhược điểm của riêng mình .
+
+Nếu bạn cần một khả năng zoom ấn tượng, hiệu năng mạnh mẽ thì hãy lựa chọn smartphone của Samsung.	Nếu bạn cần một khả năng zoom ấn tượng , hiệu năng mạnh mẽ thì hãy lựa chọn smartphone của Samsung .
+
+Ngược lại, mẫu điện thoại mới nhất của Google sẽ là sản phẩm lý tưởng dành cho những người yêu thích việc chụp hình và sự ổn định trong quá trình vận hành.	Ngược lại , mẫu điện thoại mới nhất của Google sẽ là sản phẩm lý tưởng dành cho những người yêu thích việc chụp hình và sự ổn định trong quá trình vận hành .
+

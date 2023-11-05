@@ -1,0 +1,7 @@
+It was the most compact 10X optical zoom camera available as of April 2006 , when I bought it . 	1
+[[1&&It];[6&&10X 7&&optical 8&&zoom 9&&camera];[];[4&&most 5&&compact];[1]]
+D80 has faster and more reliable autofocus than D70s , particularly in low light situations . 	1
+[[1&&D80];[9&&D70s];[7&&autofocus];[3&&faster];[1]]
+[[1&&D80];[9&&D70s];[7&&autofocus];[5&&more 6&&reliable];[1]]
+Larger models balance a bit better . 	1
+[[1&&Larger 2&&models];[];[3&&balance];[4&&a 5&&bit 6&&better];[1]]

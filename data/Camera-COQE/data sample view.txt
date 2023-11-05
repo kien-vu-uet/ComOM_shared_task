@@ -1,0 +1,158 @@
+As for comparisions with other Canon Powershot cameras , the Powershot SD630 does n't have a view finder , but has a larger LCD monitor in its place . 	1
+
+[CLS] as for com ##par ##ision ##s with other canon powers ##hot cameras , the powers ##hot sd ##6 ##30 does n ' t have a view find ##er , but has a larger lcd monitor in its place . [SEP]
+
+[[5&&other 6&&Canon 7&&Powershot 8&&cameras];[11&&Powershot 12&&SD630];[24&&LCD 25&&monitor];[23&&larger];[1]]
+[[5&&other 6&&Canon 7&&Powershot 8&&cameras];[11&&Powershot 12&&SD630];[17&&view 18&&finder];[13&&does 14&&n't 15&&have];[-1]]
+
+[[15_powers 16_##hot 17_sd 18_##6 19_##30]; []; [34_lcd 35_monitor]; [33_larger]]
+[[8_other 9_canon 10_powers 11_##hot 12_cameras]; [15_powers 16_##hot 17_sd 18_##6 19_##30]; [26_view 27_find 28_##er , 34_lcd 35_monitor]; [20_does 21_n 22_' 23_t 24_have , 33_larger]]
+
+[101, 2004, 2005, 4012, 19362, 19969, 2015, 2007, 2060, 9330, 4204, 12326, 8629, 1010, 1996, 4204, 12326, 17371, 2575, 14142, 2515, 1050, 1005, 1056, 2031, 1037, 3193, 2424, 2121, 1010, 2021, 2038, 1037, 3469, 27662, 8080, 1999, 2049, 2173, 1012, 102, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+-------
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+-------
+[1] => sent_label
+-------
+[
+       array([0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 2, 2, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+       0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+       0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+       0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+       0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+       0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+       0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+       0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+       0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]),  => subject
+       
+       array([0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 2, 2, 3, 0, 0,
+       0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+       0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+       0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+       0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+       0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+       0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+       0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+       0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]),  => object
+       
+       array([0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+       0, 0, 0, 0, 1, 2, 3, 0, 0, 0, 0, 0, 1, 3, 0, 0, 0, 0, 0, 0, 0, 0,
+       0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+       0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+       0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+       0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+       0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+       0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+       0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])]  => aspect
+-------
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 2, 2, 3, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]  => comparative label
+
+[CLS] 
+as 
+for 
+com 
+##par 
+##ision 
+##s 
+with 
+other                s1  
+canon                s2
+powers               s2
+##hot                s2
+cameras              s3
+, 
+the 
+powers        o1
+##hot         o2
+sd            o2
+##6           o2
+##30          o3 
+does                        p1
+n                           p2
+'                           p2
+t                           p2
+have                        p3
+a 
+view                 a1
+find                 a2
+##er                 a3
+, 
+but 
+has 
+a 
+larger                      p4 (alone)
+lcd                  a1
+monitor              a3
+in 
+its 
+place 
+. 
+[SEP]
+
+
+
+Comparative tuple label: {-1, 0, 1, 2}
+
+-----------------------------
+
+TUPLE PAIR
+
+
+
+You know the ones -- where a newborn 's toes are in focus , but the leg and rest of the body are blurred out . 	0
+[[];[];[];[];[]] -> [[(-1, -1), (-1, -1), (-1, -1), (-1, -1), (-1, -1)]]
+
+You 'll especially need the high speed SD card for capturing movies . . 	0
+[[];[];[];[];[]] -> [[(-1, -1), (-1, -1), (-1, -1), (-1, -1), (-1, -1)]]
+
+By the way you can use the same battery the S50 comes with . 	1
+[[11&&S50];[];[9&&battery];[8&&same];[0]] -> [[(11, 13), (-1, -1), (9, 10), (8, 9), (0, 0)]]
+
+Too bad Nikon compromised their manufacturing quality ( as well as slower flash shutter speeds ) in the subsequent D-80 model . 	1
+[[];[];[13&&flash 14&&shutter 15&&speeds];[12&&slower];[-1]] -> [[(-1, -1), (-1, -1), (14, 17), (13, 14), (-1, -1)]]
+
+Over christmas when i would turn the camera on it shook violently . 	0
+[[];[];[];[];[]] -> [[(-1, -1), (-1, -1), (-1, -1), (-1, -1), (-1, -1)]]
+
+
+My 10 year old Fuji film camera , which was a piece of crap , was much better than that . 	1
+[[5&&Fuji 6&&film 7&&camera];[20&&that];[];[18&&better];[1]] -> [[(5, 8), (20, 21), (-1, -1), (18, 19), (1, 1)]]
+
+After taking close to 300 and the battery meter is showing all the bars on my XT ! 	0
+[[];[];[];[];[]] -> [[(-1, -1), (-1, -1), (-1, -1), (-1, -1), (-1, -1)]]
+
+As for comparisions with other Canon Powershot cameras , the Powershot SD630 does n't have a view finder , but has a larger LCD monitor in its place . 	1
+[[5&&other 6&&Canon 7&&Powershot 8&&cameras];[11&&Powershot 12&&SD630];[24&&LCD 25&&monitor];[23&&larger];[1]]
+[[5&&other 6&&Canon 7&&Powershot 8&&cameras];[11&&Powershot 12&&SD630];[17&&view 18&&finder];[13&&does 14&&n't 15&&have];[-1]]
+
+[CLS] as for com ##par ##ision ##s with other canon powers ##hot cameras , the powers ##hot sd ##6 ##30 does n ' t have a view find ##er , but has a larger lcd monitor in its place . [SEP]
+
+-> [[(8, 13), (15, 20), (34, 36), (33, 34), (1, 1)], 
+    [(8, 13), (15, 20), (26, 29), (20, 25), (-1, -1)]]
+
+Viewfinder/LCD The LCD gives you 99-100 % framing while the optical viewfinder gives you about 85 % framing . 	0
+[[];[];[];[];[]] -> [[(-1, -1), (-1, -1), (-1, -1), (-1, -1), (-1, -1)]]
+
+Outdoors the clarity is outstanding . 	0
+[[];[];[];[];[]] -> [[(-1, -1), (-1, -1), (-1, -1), (-1, -1), (-1, -1)]]
+
+
+
+[CLS] my 10 year old fuji film camera , which was a piece of crap , was much better than that . [SEP]
+
+[CLS] after taking close to 300 and the battery meter is showing all the bars on my x ##t ! [SEP]
+
+
+
+[CLS] view ##finder / lcd the lcd gives you 99 - 100 % framing while the optical view ##finder gives you about 85 % framing . [SEP]
+
+
+
+[(start of subject, end of subject), (start of object, end of obejct), (start of aspect, end of aspect), (start of predicate, end of predicate), (label, label)]
+
+none -> [[(-1, -1), (-1, -1), (-1, -1), (-1, -1), (-1, -1)]]
+
+
+['comparative_label', 'input_ids', 'tuple_pair_col', 'attn_mask', 'multi_label', 'result_label', 'polarity_label']
+
+polarity_label: {-1, 0, 1, 2} -> label of tuple

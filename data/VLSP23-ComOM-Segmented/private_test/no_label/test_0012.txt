@@ -1,0 +1,34 @@
+Title : Speedtest iPhone 12 Pro với Galaxy Note20 Ultra : Ai là vua tốc_độ mới ? 	0
+[[];[];[];[];[]]
+alt : iphone - 12 - voi-galaxy-note 20 - 1 	0
+[[];[];[];[];[]]
+des : 	0
+[[];[];[];[];[]]
+Trong bài viết ngày hôm_nay , chúng_ta hãy cùng thử đi xem cuộc đua giữa iPhone 12 Pro và Galaxy Note20 Ultra , để xem rằng giữa hai chiếc flagship đầu bản này , ai mới là người nhanh hơn nhé . 	0
+[[];[];[];[];[]]
+Đo tốc_độ load ứng_dụng giữa iPhone 12 Pro và Galaxy Note20 Ultra 	0
+[[];[];[];[];[]]
+Theo đó , chiếc iPhone 12 Pro của Apple đã vượt qua Samsung Galaxy_Note 20 Ultra trong bài kiểm_tra tốc_độ tải ứng_dụng thực_tế do PhoneBuff thực_hiện . 	0
+[[];[];[];[];[]]
+Với con chip A14 đi cùng với thanh RAM 6 GB , iPhone 12 Pro đã có một màn chiến thằng ngoạn_mục với chip Snapdragon 865 và RAM 12 GB trên Galaxy_Note 20 Ultra . 	0
+[[];[];[];[];[]]
+Trong bài thử_nghiệm , mỗi điện_thoại đều mở cùng một loạt ứng_dụng , bao_gồm Facebook , máy_ảnh , ứng_dụng của Microsoft , Adobe Rush , trò_chơi , … và đo thời_gian mà smartphone cần để mở hết các ứng_dụng đó . 	0
+[[];[];[];[];[]]
+iPhone 12 Pro đã vượt lên dẫn trước trong vòng đầu_tiên của thử_nghiệm bao_gồm thực_hiện kết xuất ( render ) video trong Adobe Rush và tiếp_tục dẫn_đầu thông_qua việc khởi chạy một_số trò_chơi . 	0
+[[];[];[];[];[]]
+iPhone 12 Pro của Apple đã hoàn_thành vòng mở ứng_dụng đầu_tiên trong 1 phút 41 giây , trong khi Note 20 Ultra phải mất 1 phút 55 giây để hoàn_thành các tác_vụ tương_tự . 	0
+[[];[];[];[];[]]
+Trong vòng thử_nghiệm thứ hai , vòng này sẽ đo_lường mức_độ các thiết_bị có_thể giữ cho các ứng_dụng chạy trong nền , iPhone hoàn_thành mở các ứng_dụng trong 42 giây , còn Note 20 Ultra mất 46 giây . 	0
+[[];[];[];[];[]]
+Tuy_nhiên thì cũng phải lưu_ý một_chút với bạn_đọc đây chỉ là một video speedtest mang tính_chất tham_khảo là chính . 	0
+[[];[];[];[];[]]
+Sự chênh_lệch về thời_gian và tốc_độ mở ứng_dụng giữa hai mẫu điện_thoại là rất sát nhau và khó để mà phát_hiện ra nếu_như chúng_ta chỉ dùng 1 chiếc điện_thoại . 	0
+[[];[];[];[];[]]
+Vậy nên ai là người chiến_thắng thì là tuỳ_thuộc vào sự đánh_giá của cá_nhân mỗi chúng_ta nhé . 	0
+[[];[];[];[];[]]
+Kết 	0
+[[];[];[];[];[]]
+Vậy cuối_cùng bạn_đọc quyết_định chiếc điện_thoại nào có tốc_độ nhanh hơn dựa vào những trải_nghiệm thực_tế hàng ngày , Galaxy Note20 Ultra hay iPhone 12 Pro ? 	0
+[[];[];[];[];[]]
+Hãy để lại comment của bạn dưới phần bình_luận và cũng đừng quên theo_dõi Hoàng_Hà_Mobile để cập_nhật các tin_tức công_nghệ mới nhất nhé . 	0
+[[];[];[];[];[]]

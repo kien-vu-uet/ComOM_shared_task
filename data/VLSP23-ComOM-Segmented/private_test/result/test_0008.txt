@@ -1,0 +1,372 @@
+Title: "Đọ kèo" camera Galaxy S23 Ultra và 14 Pro Max: Ai mới là ông vua nhiếp ảnh di động?	Title : " Đọ kèo " camera Galaxy S23 Ultra và 14 Pro Max : Ai mới là ông vua nhiếp ảnh di động ?
+
+Galaxy S23 Ultra và iPhone 14 Pro Max ai chiếc smartphone đầu bảng ở thời điểm hiện tại, sở hữu những tính năng và phần cứng vượt trội bậc nhất, liệu chiếc máy nào sẽ xử lý tốt hơn trong bài test camera?	Galaxy S23 Ultra và iPhone 14 Pro Max ai chiếc smartphone đầu bảng ở thời điểm hiện tại , sở hữu những tính năng và phần cứng vượt trội bậc nhất , liệu chiếc máy nào sẽ xử lý tốt hơn trong bài test camera ?
+{"subject": ["1&&Galaxy", "2&&S23", "3&&Ultra"], "object": ["5&&iPhone", "6&&14", "7&&Pro", "8&&Max"], "aspect": ["26&&phần", "27&&cứng"], "predicate": ["28&&vượt", "29&&trội", "30&&bậc", "31&&nhất"], "label": "EQL"}
+
+Samsung với Galaxy S23 Ultra ra mắt mang đến nhiều sự cải tiến, đặc biệt là ở phần mềm và trải nghiệm người dùng.	Samsung với Galaxy S23 Ultra ra mắt mang đến nhiều sự cải tiến , đặc biệt là ở phần mềm và trải nghiệm người dùng .
+
+Tất nhiên chiếc máy này cũng sở hữu nhiều tính năng ấn tượng, đặc biệt là ở camera.	Tất nhiên chiếc máy này cũng sở hữu nhiều tính năng ấn tượng , đặc biệt là ở camera .
+
+Và tất nhiên, đối thủ của Galaxy S23 Ultra không ai khác chính là iPhone 14 Pro Max.	Và tất nhiên , đối thủ của Galaxy S23 Ultra không ai khác chính là iPhone 14 Pro Max .
+
+Hãy cùng Sforum.vn đánh giá chất lượng camera của 2 chiếc máy này để xem ai mới là ông vua nhiếp ảnh di động nhé!	Hãy cùng Sforum.vn đánh giá chất lượng camera của 2 chiếc máy này để xem ai mới là ông vua nhiếp ảnh di động nhé !
+
+Điểm qua về mặt thông số	Điểm qua về mặt thông số
+
+Trước tiên, chúng ta hãy cùng điểm qua một chút về thông số camera của 2 chiếc máy này:	Trước tiên , chúng ta hãy cùng điểm qua một chút về thông số camera của 2 chiếc máy này :
+
+alt:	alt :
+
+des:	des :
+
+Nhìn tổng quát về thông số của 2 chiếc flagship đầu bảng ở hình trên, chúng ta có thể thấy cả 2 đều sở hữu cụm camera vô cùng ấn tượng, đều xứng đáng với danh xưng smartphone tốt nhất thế giới ở thời điểm hiện tại.	Nhìn tổng quát về thông số của 2 chiếc flagship đầu bảng ở hình trên , chúng ta có thể thấy cả 2 đều sở hữu cụm camera vô cùng ấn tượng , đều xứng đáng với danh xưng smartphone tốt nhất thế giới ở thời điểm hiện tại .
+{"subject": ["22&&cả", "23&&2"], "object": ["22&&cả", "23&&2"], "aspect": ["27&&cụm", "28&&camera", "29&&vô", "30&&cùng", "31&&ấn", "32&&tượng"], "predicate": ["24&&đều", "25&&sở", "26&&hữu"], "label": "EQL"}
+{"subject": ["22&&cả", "23&&2"], "object": ["22&&cả", "23&&2"], "aspect": ["27&&cụm", "28&&camera", "29&&vô", "30&&cùng", "31&&ấn", "32&&tượng"], "predicate": ["34&&đều", "35&&xứng", "36&&đáng"], "label": "EQL"}
+
+Galaxy S23 Ultra có thêm một điểm cộng lớn khi còn sở hữu thêm camera tele 10x cho khả năng chụp ảnh xa với độ sắc nét cao, đây là điểm mà 14 Pro Max không có được.	Galaxy S23 Ultra có thêm một điểm cộng lớn khi còn sở hữu thêm camera tele 10x cho khả năng chụp ảnh xa với độ sắc nét cao , đây là điểm mà 14 Pro Max không có được .
+{"subject": ["1&&Galaxy", "2&&S23", "3&&Ultra"], "object": ["34&&14", "35&&Pro", "36&&Max"], "aspect": [], "predicate": ["37&&không", "38&&có", "39&&được"], "label": "COM+"}
+
+alt:	alt :
+
+des:	des :
+
+Ngoài ra, còn một yếu tố khá then chốt và sẽ quyết định khả năng xử lý ảnh của 2 chiếc máy này nữa đó chính là vi xử lý.	Ngoài ra , còn một yếu tố khá then chốt và sẽ quyết định khả năng xử lý ảnh của 2 chiếc máy này nữa đó chính là vi xử lý .
+
+Cụ thể, trên 14 Pro Max sẽ là Apple A16 Bionic còn Galaxy S23 Ultra sẽ là Snapdragon Gen 2 for Galaxy.	Cụ thể , trên 14 Pro Max sẽ là Apple A16 Bionic còn Galaxy S23 Ultra sẽ là Snapdragon Gen 2 for Galaxy .
+
+Ngoài sở hữu khả năng xử lý nhanh chóng, 2 vi xử lý này còn phục vụ cho khả năng xử lý ảnh, thêm nữa là cả AI, thứ mà cả Samsung và Apple đều quảng bá rất nhiều cho sản phẩm di động của mình.	Ngoài sở hữu khả năng xử lý nhanh chóng , 2 vi xử lý này còn phục vụ cho khả năng xử lý ảnh , thêm nữa là cả AI , thứ mà cả Samsung và Apple đều quảng bá rất nhiều cho sản phẩm di động của mình .
+
+Không chờ đợi lâu nữa, mời các bạn xem ảnh so sánh được chụp từ 2 chiếc máy này.	Không chờ đợi lâu nữa , mời các bạn xem ảnh so sánh được chụp từ 2 chiếc máy này .
+
+"Mắt thần bóng đêm" đối đầu với "camera Pro"	" Mắt thần bóng đêm " đối đầu với " camera Pro "
+
+Điều kiện đủ sáng	Điều kiện đủ sáng
+
+Ở điều kiện ánh sáng ban ngày, cả hai đều thể hiện khả năng chụp ảnh rất tốt, vì thế, cái chúng ta quan tâm hơn cả là chất ảnh hay màu ảnh của chiếc máy nào khiến chúng ta ưng mắt hơn.	Ở điều kiện ánh sáng ban ngày , cả hai đều thể hiện khả năng chụp ảnh rất tốt , vì thế , cái chúng ta quan tâm hơn cả là chất ảnh hay màu ảnh của chiếc máy nào khiến chúng ta ưng mắt hơn .
+{"subject": ["9&&cả", "10&&hai"], "object": ["9&&cả", "10&&hai"], "aspect": ["14&&khả", "15&&năng", "16&&chụp", "17&&ảnh"], "predicate": ["11&&đều", "12&&thể", "13&&hiện", "14&&khả", "15&&năng", "16&&chụp", "17&&ảnh", "18&&rất", "19&&tốt"], "label": "EQL"}
+
+Thời điểm mình so sánh camera của 2 chiếc máy này cũng không phải quá sáng nữa, đã là hơn 5 giờ chiều, trời bắt đầu hơi nhá nhem tối một chút, tất nhiên là để tăng độ khó cho bộ đôi này.	Thời điểm mình so sánh camera của 2 chiếc máy này cũng không phải quá sáng nữa , đã là hơn 5 giờ chiều , trời bắt đầu hơi nhá nhem tối một chút , tất nhiên là để tăng độ khó cho bộ đôi này .
+
+Bức ảnh đầu tiên được mình chụp ở ống kính góc rộng, xét về tổng thể, cả hai không có nhiều sự chênh lệch, khác biệt rõ nhất có thể thấy là ánh đèn hắt xuống dưới đường của iPhone thì sẽ rực hơn trong khi đó Samsung thì hơi nhạt.	Bức ảnh đầu tiên được mình chụp ở ống kính góc rộng , xét về tổng thể , cả hai không có nhiều sự chênh lệch , khác biệt rõ nhất có thể thấy là ánh đèn hắt xuống dưới đường của iPhone thì sẽ rực hơn trong khi đó Samsung thì hơi nhạt .
+{"subject": ["19&&cả", "20&&hai"], "object": ["19&&cả", "20&&hai"], "aspect": [], "predicate": ["21&&không", "22&&có", "23&&nhiều", "24&&sự", "25&&chênh", "26&&lệch"], "label": "EQL"}
+{"subject": ["19&&cả", "20&&hai"], "object": ["51&&Samsung"], "aspect": [], "predicate": ["21&&không", "22&&có", "23&&nhiều", "24&&sự", "25&&chênh", "26&&lệch"], "label": "EQL"}
+{"subject": ["19&&cả", "20&&hai"], "object": ["51&&Samsung"], "aspect": [], "predicate": ["46&&rực", "47&&hơn"], "label": "COM+"}
+{"subject": ["43&&iPhone"], "object": ["51&&Samsung"], "aspect": [], "predicate": ["21&&không", "22&&có", "23&&nhiều", "24&&sự", "25&&chênh", "26&&lệch"], "label": "EQL"}
+{"subject": ["43&&iPhone"], "object": ["51&&Samsung"], "aspect": [], "predicate": ["46&&rực", "47&&hơn"], "label": "COM+"}
+
+alt:	alt :
+
+des:	des :
+
+alt:	alt :
+
+des:	des :
+
+Sử dụng ống kính 3x để zoom chi tiết hơn, tổng thể ảnh của 14 Pro Max sáng hơn tuy nhiên ở dòng chữ "Mỹ phẩm" thì hơi sáng hơn, cả màn hình phía dưới cũng mang lại hiện tượng hơi chói mắt.	Sử dụng ống kính 3x để zoom chi tiết hơn , tổng thể ảnh của 14 Pro Max sáng hơn tuy nhiên ở dòng chữ " Mỹ phẩm " thì hơi sáng hơn , cả màn hình phía dưới cũng mang lại hiện tượng hơi chói mắt .
+{"subject": ["16&&14", "17&&Pro", "18&&Max"], "object": [], "aspect": ["12&&tổng", "13&&thể", "14&&ảnh"], "predicate": ["19&&sáng", "20&&hơn"], "label": "COM+"}
+{"subject": ["16&&14", "17&&Pro", "18&&Max"], "object": [], "aspect": ["12&&tổng", "13&&thể", "14&&ảnh"], "predicate": ["32&&sáng", "33&&hơn"], "label": "COM+"}
+
+alt:	alt :
+
+des:	des :
+
+alt:	alt :
+
+des:	des :
+
+Tòa chung cư này có lẽ khá quen thuộc với nhiều người, điểm khác biệt rõ rệt ở dòng chữ Kangaroo khi Samsung S23 Ultra có màu xanh hơi lợt trong iPhone 14 Pro Max thì lại hơi đậm đà.	Toà chung cư này có lẽ khá quen thuộc với nhiều người , điểm khác biệt rõ rệt ở dòng chữ Kangaroo khi Samsung S23 Ultra có màu xanh hơi lợt trong iPhone 14 Pro Max thì lại hơi đậm đà .
+
+alt:	alt :
+
+des:	des :
+
+alt:	alt :
+
+des:	des :
+
+Test thử một góc khác với ống kính 3x, góc tòa nhà này có nhiều ánh sáng tự nhiên hơn nên ảnh sẽ sáng hơn 2 bức ảnh trước.	Test thử một góc khác với ống kính 3x , góc toà nhà này có nhiều ánh sáng tự nhiên hơn nên ảnh sẽ sáng hơn 2 bức ảnh trước .
+{"subject": ["11&&góc", "12&&toà", "13&&nhà", "14&&này"], "object": ["27&&2", "28&&bức", "29&&ảnh", "30&&trước"], "aspect": ["23&&ảnh"], "predicate": ["16&&nhiều", "17&&ánh", "18&&sáng", "19&&tự", "20&&nhiên", "21&&hơn"], "label": "COM+"}
+
+alt:	alt :
+
+des:	des :
+
+alt:	alt :
+
+des:	des :
+
+Tiếp tục là ống kính 3x với tòa nhà Time Square, cả 2 bức ảnh chụp từ ống kính 3x cho thấy, ảnh của iPhone 14 Pro Max luôn cho lại màu sắc có phần đậm đà hơn.	Tiếp tục là ống kính 3x với toà nhà Time Square , cả 2 bức ảnh chụp từ ống kính 3x cho thấy , ảnh của iPhone 14 Pro Max luôn cho lại màu sắc có phần đậm đà hơn .
+{"subject": ["27&&iPhone", "28&&14", "29&&Pro", "30&&Max"], "object": [], "aspect": ["34&&màu", "35&&sắc"], "predicate": ["38&&đậm", "39&&đà", "40&&hơn"], "label": "COM+"}
+
+alt:	alt :
+
+des:	des :
+
+alt:	alt :
+
+des:	des :
+
+Có thể nhận thấy, màu sắc trên iPhone 14 Pro Max có phần ám vàng hơn, tuy nhiên khả năng giữ chi tiết cũng rất ấn tượng, chúng ta có thể xem hình dưới, quả địa cầu chụp trên chiếc Galaxy S23 Ultra hơi cháy sáng trong khi đối thủ thì lại lấy rõ từng chi tiết.	Có thể nhận thấy , màu sắc trên iPhone 14 Pro Max có phần ám vàng hơn , tuy nhiên khả năng giữ chi tiết cũng rất ấn tượng , chúng ta có thể xem hình dưới , quả địa cầu chụp trên chiếc Galaxy S23 Ultra hơi cháy sáng trong khi đối thủ thì lại lấy rõ từng chi tiết .
+{"subject": ["9&&iPhone", "10&&14", "11&&Pro", "12&&Max"], "object": [], "aspect": ["6&&màu", "7&&sắc"], "predicate": ["15&&ám", "16&&vàng", "17&&hơn"], "label": "COM+"}
+
+alt:	alt :
+
+des:	des :
+
+alt:	alt :
+
+des:	des :
+
+Tuy nhiên, Galaxy S23 Ultra lại có lợi thế với ống kính tiềm vọng 10x, khoản này thì 14 Pro Max đành "bó tay".	Tuy nhiên , Galaxy S23 Ultra lại có lợi thế với ống kính tiềm vọng 10x , khoản này thì 14 Pro Max đành " bó tay " .
+{"subject": ["4&&Galaxy", "5&&S23", "6&&Ultra"], "object": [], "aspect": [], "predicate": ["8&&có", "9&&lợi", "10&&thế"], "label": "COM+"}
+
+alt:	alt :
+
+des:	des :
+
+alt:	alt :
+
+des:	des :
+
+Ở camera góc rộng, trong tấm hình này, sự khác biệt giữa hay máy gần như không kể.	Ở camera góc rộng , trong tấm hình này , sự khác biệt giữa hay máy gần như không kể .
+{"subject": ["15&&hay", "16&&máy"], "object": ["15&&hay", "16&&máy"], "aspect": [], "predicate": ["17&&gần", "18&&như", "19&&không", "20&&kể"], "label": "EQL"}
+
+Góc camera của Samsung có phần rộng hơn iPhone, ngoài ra, khả năng xử lý da mặt của S23 Ultra cũng sáng hơn 14 Pro Max trong tấm hình này.	Góc camera của Samsung có phần rộng hơn iPhone , ngoài ra , khả năng xử lý da mặt của S23 Ultra cũng sáng hơn 14 Pro Max trong tấm hình này .
+{"subject": ["4&&Samsung"], "object": ["9&&iPhone"], "aspect": ["14&&khả", "15&&năng", "16&&xử", "17&&lý", "18&&da", "19&&mặt"], "predicate": ["24&&sáng", "25&&hơn"], "label": "COM"}
+{"subject": ["4&&Samsung"], "object": ["26&&14", "27&&Pro", "28&&Max"], "aspect": ["14&&khả", "15&&năng", "16&&xử", "17&&lý", "18&&da", "19&&mặt"], "predicate": ["7&&rộng", "8&&hơn"], "label": "COM+"}
+{"subject": ["4&&Samsung"], "object": ["26&&14", "27&&Pro", "28&&Max"], "aspect": ["14&&khả", "15&&năng", "16&&xử", "17&&lý", "18&&da", "19&&mặt"], "predicate": ["24&&sáng", "25&&hơn"], "label": "COM+"}
+{"subject": ["21&&S23", "22&&Ultra"], "object": ["9&&iPhone"], "aspect": ["1&&Góc", "2&&camera"], "predicate": ["7&&rộng", "8&&hơn"], "label": "COM+"}
+{"subject": ["21&&S23", "22&&Ultra"], "object": ["9&&iPhone"], "aspect": ["1&&Góc", "2&&camera"], "predicate": ["24&&sáng", "25&&hơn"], "label": "COM"}
+{"subject": ["21&&S23", "22&&Ultra"], "object": ["9&&iPhone"], "aspect": ["14&&khả", "15&&năng", "16&&xử", "17&&lý", "18&&da", "19&&mặt"], "predicate": ["7&&rộng", "8&&hơn"], "label": "COM+"}
+{"subject": ["21&&S23", "22&&Ultra"], "object": ["26&&14", "27&&Pro", "28&&Max"], "aspect": ["1&&Góc", "2&&camera"], "predicate": ["7&&rộng", "8&&hơn"], "label": "COM+"}
+{"subject": ["21&&S23", "22&&Ultra"], "object": ["26&&14", "27&&Pro", "28&&Max"], "aspect": ["1&&Góc", "2&&camera"], "predicate": ["24&&sáng", "25&&hơn"], "label": "COM+"}
+{"subject": ["21&&S23", "22&&Ultra"], "object": ["26&&14", "27&&Pro", "28&&Max"], "aspect": ["14&&khả", "15&&năng", "16&&xử", "17&&lý", "18&&da", "19&&mặt"], "predicate": ["7&&rộng", "8&&hơn"], "label": "COM+"}
+{"subject": ["21&&S23", "22&&Ultra"], "object": ["26&&14", "27&&Pro", "28&&Max"], "aspect": ["14&&khả", "15&&năng", "16&&xử", "17&&lý", "18&&da", "19&&mặt"], "predicate": ["24&&sáng", "25&&hơn"], "label": "COM+"}
+
+alt:	alt :
+
+des:	des :
+
+alt:	alt :
+
+des:	des :
+
+Nhiều người cho rằng, không nên so sánh camera zoom xa như 10x giữa iPhone và Samsung vì iPhone không được trang bị ống kính đó và sẽ có phần thiệt hơn cho iPhone.	Nhiều người cho rằng , không nên so sánh camera zoom xa như 10x giữa iPhone và Samsung vì iPhone không được trang bị ống kính đó và sẽ có phần thiệt hơn cho iPhone .
+
+Tuy nhiên, với mình thì lại khác, là 2 chiếc máy đầu bảng đồng nghĩa phải tận dụng hết những tính năng của cả 2 mới đúng là sự so sánh cần thiết bởi cả 2 đều chung 1 phân khúc.	Tuy nhiên , với mình thì lại khác , là 2 chiếc máy đầu bảng đồng nghĩa phải tận dụng hết những tính năng của cả 2 mới đúng là sự so sánh cần thiết bởi cả 2 đều chung 1 phân khúc .
+
+Tấm ảnh này được mình chụp bằng camera tiềm vọng 10x trên S23 Ultra cùng với tính năng zoom kết hợp trên iPhone 14 series, bản thân mình thích màu của iPhone hơn khi cho nền trời xanh cùng màu của tòa Bitexco cũng rất đẹp, tuy nhiên độ chi tiết thì khó bằng Samsung được.	Tấm ảnh này được mình chụp bằng camera tiềm vọng 10x trên S23 Ultra cùng với tính năng zoom kết hợp trên iPhone 14 series , bản thân mình thích màu của iPhone hơn khi cho nền trời xanh cùng màu của toà Bitexco cũng rất đẹp , tuy nhiên độ chi tiết thì khó bằng Samsung được .
+{"subject": [], "object": ["57&&Samsung"], "aspect": ["51&&độ", "52&&chi", "53&&tiết"], "predicate": ["55&&khó", "56&&bằng"], "label": "COM-"}
+
+Hơn nữa, màu sắc của tòa nhà và nền trời khi ấy thì S23 Ultra cho ra giống hơn.	Hơn nữa , màu sắc của toà nhà và nền trời khi ấy thì S23 Ultra cho ra giống hơn .
+{"subject": ["15&&S23", "16&&Ultra"], "object": [], "aspect": ["4&&màu", "5&&sắc", "6&&của", "7&&toà", "8&&nhà"], "predicate": ["19&&giống", "20&&hơn"], "label": "COM+"}
+{"subject": ["15&&S23", "16&&Ultra"], "object": [], "aspect": ["10&&nền", "11&&trời", "12&&khi", "13&&ấy"], "predicate": ["19&&giống", "20&&hơn"], "label": "COM+"}
+
+alt:	alt :
+
+des:	des :
+
+Tiếp tục là hình này, màu sắc thì iPhone đậm hơn, nhưng độ chi tiết thì vẫn là Samsung Galaxy S23 Ultra ăn đứt.	Tiếp tục là hình này , màu sắc thì iPhone đậm hơn , nhưng độ chi tiết thì vẫn là Samsung Galaxy S23 Ultra ăn đứt .
+{"subject": ["10&&iPhone"], "object": ["21&&Samsung", "22&&Galaxy", "23&&S23", "24&&Ultra"], "aspect": ["15&&độ", "16&&chi", "17&&tiết"], "predicate": ["25&&ăn", "26&&đứt"], "label": "COM+"}
+{"subject": ["21&&Samsung", "22&&Galaxy", "23&&S23", "24&&Ultra"], "object": ["21&&Samsung", "22&&Galaxy", "23&&S23", "24&&Ultra"], "aspect": ["7&&màu", "8&&sắc"], "predicate": ["25&&ăn", "26&&đứt"], "label": "COM+"}
+{"subject": ["21&&Samsung", "22&&Galaxy", "23&&S23", "24&&Ultra"], "object": ["21&&Samsung", "22&&Galaxy", "23&&S23", "24&&Ultra"], "aspect": ["15&&độ", "16&&chi", "17&&tiết"], "predicate": ["25&&ăn", "26&&đứt"], "label": "COM+"}
+
+alt:	alt :
+
+des:	des :
+
+Ở chế độ chụp chân dung, cả 2 đều sử dụng ống kính 3x để chụp chân dung, ống kính của iPhone 14 Pro Max khá rộng khi so với S23 Ultra, cả 2 đều có khả năng tách nền ấn tượng, ảnh bokeh cũng rất tốt.	Ở chế độ chụp chân dung , cả 2 đều sử dụng ống kính 3x để chụp chân dung , ống kính của iPhone 14 Pro Max khá rộng khi so với S23 Ultra , cả 2 đều có khả năng tách nền ấn tượng , ảnh bokeh cũng rất tốt .
+{"subject": ["8&&cả", "9&&2"], "object": ["8&&cả", "9&&2"], "aspect": ["21&&ống", "22&&kính"], "predicate": ["28&&khá", "29&&rộng"], "label": "COM"}
+{"subject": ["8&&cả", "9&&2"], "object": ["8&&cả", "9&&2"], "aspect": ["21&&ống", "22&&kính"], "predicate": ["38&&đều", "39&&có"], "label": "EQL"}
+{"subject": ["8&&cả", "9&&2"], "object": ["8&&cả", "9&&2"], "aspect": ["40&&khả", "41&&năng", "42&&tách", "43&&nền", "44&&ấn", "45&&tượng"], "predicate": ["10&&đều", "11&&sử", "12&&dụng", "13&&ống", "14&&kính", "15&&3x", "16&&để", "17&&chụp", "18&&chân", "19&&dung"], "label": "EQL"}
+{"subject": ["8&&cả", "9&&2"], "object": ["8&&cả", "9&&2"], "aspect": ["40&&khả", "41&&năng", "42&&tách", "43&&nền", "44&&ấn", "45&&tượng"], "predicate": ["28&&khá", "29&&rộng"], "label": "DIF"}
+{"subject": ["8&&cả", "9&&2"], "object": ["8&&cả", "9&&2"], "aspect": ["40&&khả", "41&&năng", "42&&tách", "43&&nền", "44&&ấn", "45&&tượng"], "predicate": ["38&&đều", "39&&có"], "label": "EQL"}
+{"subject": ["8&&cả", "9&&2"], "object": ["36&&cả", "37&&2"], "aspect": ["21&&ống", "22&&kính"], "predicate": ["28&&khá", "29&&rộng"], "label": "EQL"}
+{"subject": ["8&&cả", "9&&2"], "object": ["36&&cả", "37&&2"], "aspect": ["21&&ống", "22&&kính"], "predicate": ["38&&đều", "39&&có"], "label": "EQL"}
+{"subject": ["8&&cả", "9&&2"], "object": ["36&&cả", "37&&2"], "aspect": ["40&&khả", "41&&năng", "42&&tách", "43&&nền", "44&&ấn", "45&&tượng"], "predicate": ["10&&đều", "11&&sử", "12&&dụng", "13&&ống", "14&&kính", "15&&3x", "16&&để", "17&&chụp", "18&&chân", "19&&dung"], "label": "EQL"}
+{"subject": ["8&&cả", "9&&2"], "object": ["36&&cả", "37&&2"], "aspect": ["40&&khả", "41&&năng", "42&&tách", "43&&nền", "44&&ấn", "45&&tượng"], "predicate": ["28&&khá", "29&&rộng"], "label": "DIF"}
+{"subject": ["8&&cả", "9&&2"], "object": ["36&&cả", "37&&2"], "aspect": ["40&&khả", "41&&năng", "42&&tách", "43&&nền", "44&&ấn", "45&&tượng"], "predicate": ["38&&đều", "39&&có"], "label": "EQL"}
+{"subject": ["24&&iPhone", "25&&14", "26&&Pro", "27&&Max"], "object": ["8&&cả", "9&&2"], "aspect": ["40&&khả", "41&&năng", "42&&tách", "43&&nền", "44&&ấn", "45&&tượng"], "predicate": ["10&&đều", "11&&sử", "12&&dụng", "13&&ống", "14&&kính", "15&&3x", "16&&để", "17&&chụp", "18&&chân", "19&&dung"], "label": "EQL"}
+{"subject": ["24&&iPhone", "25&&14", "26&&Pro", "27&&Max"], "object": ["33&&S23", "34&&Ultra"], "aspect": ["21&&ống", "22&&kính"], "predicate": ["10&&đều", "11&&sử", "12&&dụng", "13&&ống", "14&&kính", "15&&3x", "16&&để", "17&&chụp", "18&&chân", "19&&dung"], "label": "COM+"}
+{"subject": ["24&&iPhone", "25&&14", "26&&Pro", "27&&Max"], "object": ["33&&S23", "34&&Ultra"], "aspect": ["40&&khả", "41&&năng", "42&&tách", "43&&nền", "44&&ấn", "45&&tượng"], "predicate": ["10&&đều", "11&&sử", "12&&dụng", "13&&ống", "14&&kính", "15&&3x", "16&&để", "17&&chụp", "18&&chân", "19&&dung"], "label": "COM+"}
+{"subject": ["24&&iPhone", "25&&14", "26&&Pro", "27&&Max"], "object": ["33&&S23", "34&&Ultra"], "aspect": ["40&&khả", "41&&năng", "42&&tách", "43&&nền", "44&&ấn", "45&&tượng"], "predicate": ["28&&khá", "29&&rộng"], "label": "COM+"}
+{"subject": ["24&&iPhone", "25&&14", "26&&Pro", "27&&Max"], "object": ["33&&S23", "34&&Ultra"], "aspect": ["40&&khả", "41&&năng", "42&&tách", "43&&nền", "44&&ấn", "45&&tượng"], "predicate": ["38&&đều", "39&&có"], "label": "COM+"}
+{"subject": ["24&&iPhone", "25&&14", "26&&Pro", "27&&Max"], "object": ["36&&cả", "37&&2"], "aspect": ["40&&khả", "41&&năng", "42&&tách", "43&&nền", "44&&ấn", "45&&tượng"], "predicate": ["10&&đều", "11&&sử", "12&&dụng", "13&&ống", "14&&kính", "15&&3x", "16&&để", "17&&chụp", "18&&chân", "19&&dung"], "label": "DIF"}
+{"subject": ["36&&cả", "37&&2"], "object": ["8&&cả", "9&&2"], "aspect": ["21&&ống", "22&&kính"], "predicate": ["28&&khá", "29&&rộng"], "label": "COM"}
+{"subject": ["36&&cả", "37&&2"], "object": ["8&&cả", "9&&2"], "aspect": ["21&&ống", "22&&kính"], "predicate": ["38&&đều", "39&&có"], "label": "EQL"}
+{"subject": ["36&&cả", "37&&2"], "object": ["8&&cả", "9&&2"], "aspect": ["40&&khả", "41&&năng", "42&&tách", "43&&nền", "44&&ấn", "45&&tượng"], "predicate": ["10&&đều", "11&&sử", "12&&dụng", "13&&ống", "14&&kính", "15&&3x", "16&&để", "17&&chụp", "18&&chân", "19&&dung"], "label": "EQL"}
+{"subject": ["36&&cả", "37&&2"], "object": ["8&&cả", "9&&2"], "aspect": ["40&&khả", "41&&năng", "42&&tách", "43&&nền", "44&&ấn", "45&&tượng"], "predicate": ["28&&khá", "29&&rộng"], "label": "DIF"}
+{"subject": ["36&&cả", "37&&2"], "object": ["8&&cả", "9&&2"], "aspect": ["40&&khả", "41&&năng", "42&&tách", "43&&nền", "44&&ấn", "45&&tượng"], "predicate": ["38&&đều", "39&&có"], "label": "EQL"}
+{"subject": ["36&&cả", "37&&2"], "object": ["36&&cả", "37&&2"], "aspect": ["21&&ống", "22&&kính"], "predicate": ["28&&khá", "29&&rộng"], "label": "EQL"}
+{"subject": ["36&&cả", "37&&2"], "object": ["36&&cả", "37&&2"], "aspect": ["21&&ống", "22&&kính"], "predicate": ["38&&đều", "39&&có"], "label": "EQL"}
+{"subject": ["36&&cả", "37&&2"], "object": ["36&&cả", "37&&2"], "aspect": ["40&&khả", "41&&năng", "42&&tách", "43&&nền", "44&&ấn", "45&&tượng"], "predicate": ["10&&đều", "11&&sử", "12&&dụng", "13&&ống", "14&&kính", "15&&3x", "16&&để", "17&&chụp", "18&&chân", "19&&dung"], "label": "EQL"}
+{"subject": ["36&&cả", "37&&2"], "object": ["36&&cả", "37&&2"], "aspect": ["40&&khả", "41&&năng", "42&&tách", "43&&nền", "44&&ấn", "45&&tượng"], "predicate": ["28&&khá", "29&&rộng"], "label": "DIF"}
+{"subject": ["36&&cả", "37&&2"], "object": ["36&&cả", "37&&2"], "aspect": ["40&&khả", "41&&năng", "42&&tách", "43&&nền", "44&&ấn", "45&&tượng"], "predicate": ["38&&đều", "39&&có"], "label": "EQL"}
+
+Nhìn xử lý da mặt thì Samsung cho chất lượng tốt hơn, da sáng đều và đẹp, 14 Pro Max thì cho da hơi sạm một chút, chắc là nhiều chị em sẽ không thích màu ảnh này và sẽ chỉnh lại để lung linh hơn.	Nhìn xử lý da mặt thì Samsung cho chất lượng tốt hơn , da sáng đều và đẹp , 14 Pro Max thì cho da hơi sạm một chút , chắc là nhiều chị em sẽ không thích màu ảnh này và sẽ chỉnh lại để lung linh hơn .
+
+alt:	alt :
+
+des:	des :
+
+Về khả năng quay video, Sforum sẽ gửi đến các bạn trong bài đánh giá chi tiết sau, mình test nhanh khả năng quay video 4K của 2 chiếc máy này ở video dưới đây:	Về khả năng quay video , Sforum sẽ gửi đến các bạn trong bài đánh giá chi tiết sau , mình test nhanh khả năng quay video 4K của 2 chiếc máy này ở video dưới đây :
+
+Điều kiện thiếu sáng	Điều kiện thiếu sáng
+
+Điều kiện mình test lúc này cũng chưa thực sự quá tối, cộng thêm với khu vực phố đi bộ cũng rất nhiều ánh đèn nên cũng chưa phải quá khắc nghiệt với cả 2 chiếc máy này.	Điều kiện mình test lúc này cũng chưa thực sự quá tối , cộng thêm với khu vực phố đi bộ cũng rất nhiều ánh đèn nên cũng chưa phải quá khắc nghiệt với cả 2 chiếc máy này .
+
+Với ống kính góc siêu rộng, cả 2 đều sở hữu ống kính 120 độ, tuy nhiên, iPhone lại có góc hơi rộng hơn Samsung một chút.	Với ống kính góc siêu rộng , cả 2 đều sở hữu ống kính 120 độ , tuy nhiên , iPhone lại có góc hơi rộng hơn Samsung một chút .
+{"subject": ["8&&cả", "9&&2"], "object": ["8&&cả", "9&&2"], "aspect": ["24&&góc"], "predicate": ["10&&đều", "11&&sở", "12&&hữu"], "label": "EQL"}
+{"subject": ["8&&cả", "9&&2"], "object": ["8&&cả", "9&&2"], "aspect": ["24&&góc"], "predicate": ["25&&hơi", "26&&rộng", "27&&hơn"], "label": "COM+"}
+{"subject": ["8&&cả", "9&&2"], "object": ["28&&Samsung"], "aspect": ["24&&góc"], "predicate": ["25&&hơi", "26&&rộng", "27&&hơn"], "label": "COM+"}
+{"subject": ["21&&iPhone"], "object": ["8&&cả", "9&&2"], "aspect": ["24&&góc"], "predicate": ["25&&hơi", "26&&rộng", "27&&hơn"], "label": "COM+"}
+
+Về ánh sáng thì ảnh này iPhone thua Samsung một nấc.	Về ánh sáng thì ảnh này iPhone thua Samsung một nấc .
+
+alt:	alt :
+
+des:	des :
+
+alt:	alt :
+
+des:	des :
+
+Qua với bức ảnh thứ 2, chụp với ống kính chính, ảnh này là một bức ảnh khiến mình hơi đứng hình khi nhận kết quả.	Qua với bức ảnh thứ 2 , chụp với ống kính chính , ảnh này là một bức ảnh khiến mình hơi đứng hình khi nhận kết quả .
+
+Điều kiện này ánh sáng mặt trời vừa nhá nhem, nhiều ánh sáng phức tạp xung quanh hơn nữa lại là ảnh chụp ngược sáng.	Điều kiện này ánh sáng mặt trời vừa nhá nhem , nhiều ánh sáng phức tạp xung quanh hơn nữa lại là ảnh chụp ngược sáng .
+
+Mình xin phép để kết quả này để các bạn tự so sánh.	Mình xin phép để kết quả này để các bạn tự so sánh .
+
+alt:	alt :
+
+des:	des :
+
+alt:	alt :
+
+des:	des :
+
+Cũng là góc tòa nhà đó nhưng lần này là ảnh chụp từ camera 3x.	Cũng là góc toà nhà đó nhưng lần này là ảnh chụp từ camera 3x .
+
+alt:	alt :
+
+des:	des :
+
+alt:	alt :
+
+des:	des :
+
+Ở hình dưới đây, màu sắc cả 2 khá tương đồng, chất lượng ảnh cũng vậy, nhưng để ý kỹ các bóng đèn trắng ở phía trên thì ảnh của Galaxy S23 Ultra hơi có hiện tượng n	Ở hình dưới đây , màu sắc cả 2 khá tương đồng , chất lượng ảnh cũng vậy , nhưng để ý kỹ các bóng đèn trắng ở phía trên thì ảnh của Galaxy S23 Ultra hơi có hiện tượng n
+{"subject": ["8&&cả", "9&&2"], "object": ["8&&cả", "9&&2"], "aspect": ["6&&màu", "7&&sắc"], "predicate": ["10&&khá", "11&&tương", "12&&đồng"], "label": "EQL"}
+
+alt:	alt :
+
+des:	des :
+
+alt:	alt :
+
+des:	des :
+
+Tấm ảnh này thì mình rất thích ảnh Samsung cho ra, màu sắc tốt, độ chi tiết cũng ổn lại sáng đều.	Tấm ảnh này thì mình rất thích ảnh Samsung cho ra , màu sắc tốt , độ chi tiết cũng ổn lại sáng đều .
+
+alt:	alt :
+
+des:	des :
+
+alt:	alt :
+
+des:	des :
+
+Tương tự đó là tấm ảnh này, ảnh của iPhone chụp ra có cảm giác màu sắc bệt bệt và xanh xanh hơi khó chịu.	Tương tự đó là tấm ảnh này , ảnh của iPhone chụp ra có cảm giác màu sắc bệt bệt và xanh xanh hơi khó chịu .
+
+Ảnh này được chụp bằng ống kính góc siêu rộng.	Ảnh này được chụp bằng ống kính góc siêu rộng .
+
+alt:	alt :
+
+des:	des :
+
+alt:	alt :
+
+des:	des :
+
+Điểm sáng của iPhone trong bức hình này là ngoài chủ thể (Bitexco) thì màn hình LED ở phía dưới cũng có độ chi tiết tốt, trong khi S23 Ultra thì khó nhìn rõ nội dung bảng điện tử này.	Điểm sáng của iPhone trong bức hình này là ngoài chủ thể ( Bitexco ) thì màn hình LED ở phía dưới cũng có độ chi tiết tốt , trong khi S23 Ultra thì khó nhìn rõ nội dung bảng điện tử này .
+
+alt:	alt :
+
+des:	des :
+
+alt:	alt :
+
+des:	des :
+
+Tấm ảnh này chụp bằng camera 10x của Samsung và tính năng zoom 10x của iPhone, cả hai đều mang tính chất chụp cho vui vì đều ...	Tấm ảnh này chụp bằng camera 10x của Samsung và tính năng zoom 10x của iPhone , cả hai đều mang tính chất chụp cho vui vì đều . . .
+
+tệ.	tệ .
+
+Nhưng chúng ta cũng có thể thấy Samsung Galaxy S23 Ultra cũng cứu vớt được phần nào.	Nhưng chúng ta cũng có thể thấy Samsung Galaxy S23 Ultra cũng cứu vớt được phần nào .
+
+Phải nói thêm, tấm ảnh này mình chụp lúc trời đã khá tối rồi.	Phải nói thêm , tấm ảnh này mình chụp lúc trời đã khá tối rồi .
+
+alt:	alt :
+
+des:	des :
+
+Thử chế độ chân dung ban đêm, phải nói cả 2 đều cho khả năng tách nền cực kỳ tốt dù trong đêm tối.	Thử chế độ chân dung ban đêm , phải nói cả 2 đều cho khả năng tách nền cực kỳ tốt dù trong đêm tối .
+{"subject": ["11&&cả", "12&&2"], "object": ["11&&cả", "12&&2"], "aspect": ["15&&khả", "16&&năng", "17&&tách", "18&&nền"], "predicate": ["13&&đều", "14&&cho", "15&&khả", "16&&năng", "17&&tách", "18&&nền", "19&&cực", "20&&kỳ", "21&&tốt", "22&&dù", "23&&trong", "24&&đêm", "25&&tối"], "label": "EQL"}
+
+Mình vẫn hơi thiên về màu ảnh của Samsung hơn, đặc biệt là da người sáng hồng, dễ chịu hơn.	Mình vẫn hơi thiên về màu ảnh của Samsung hơn , đặc biệt là da người sáng hồng , dễ chịu hơn .
+{"subject": ["9&&Samsung"], "object": [], "aspect": ["6&&màu", "7&&ảnh"], "predicate": ["17&&sáng", "18&&hồng", "19&&,", "20&&dễ", "21&&chịu", "22&&hơn"], "label": "COM+"}
+
+alt:	alt :
+
+des:	des :
+
+alt:	alt :
+
+des:	des :
+
+Tương tự với đó là tấm ảnh này, da người cũng hồng hào hơn.	Tương tự với đó là tấm ảnh này , da người cũng hồng hào hơn .
+{"subject": ["6&&tấm", "7&&ảnh", "8&&này"], "object": [], "aspect": ["10&&da", "11&&người"], "predicate": ["13&&hồng", "14&&hào", "15&&hơn"], "label": "COM+"}
+
+Tuy nhiên, bokeh của iPhone lại ảo diệu và mờ hơn so với Samsung, cái này thì sẽ tùy vào từng người và có thể chỉnh được bên trong cài đặt sau khi chụp.	Tuy nhiên , bokeh của iPhone lại ảo diệu và mờ hơn so với Samsung , cái này thì sẽ tuỳ vào từng người và có thể chỉnh được bên trong cài đặt sau khi chụp .
+
+alt:	alt :
+
+des:	des :
+
+alt:	alt :
+
+des:	des :
+
+Phải nói, khả năng zoom tiềm vọng 10x là một lợi thế lớn của Samsung, hữu hiệu trong nhiều trường hợp, đây là ví dụ.	Phải nói , khả năng zoom tiềm vọng 10x là một lợi thế lớn của Samsung , hữu hiệu trong nhiều trường hợp , đây là ví dụ .
+
+alt:	alt :
+
+des:	des :
+
+Kết thúc chuyến đi bằng một bức ảnh chụp tối hẳn và mình dành một lời khen cho iPhone 14 Pro Max, khả năng xử lý bức ảnh này thì khiến mình thích hơn chất ảnh của Samsung.	Kết thúc chuyến đi bằng một bức ảnh chụp tối hẳn và mình dành một lời khen cho iPhone 14 Pro Max , khả năng xử lý bức ảnh này thì khiến mình thích hơn chất ảnh của Samsung .
+{"subject": [], "object": ["39&&Samsung"], "aspect": ["24&&khả", "25&&năng", "26&&xử", "27&&lý", "28&&bức", "29&&ảnh"], "predicate": ["34&&thích", "35&&hơn"], "label": "COM+"}
+
+Ảnh chụp trên Galaxy S23 Ultra sáng hơn nhưng lại cho mình cảm giác như đang có một lớp sương mờ phủ lên.	Ảnh chụp trên Galaxy S23 Ultra sáng hơn nhưng lại cho mình cảm giác như đang có một lớp sương mờ phủ lên .
+{"subject": ["4&&Galaxy", "5&&S23", "6&&Ultra"], "object": [], "aspect": ["1&&Ảnh", "2&&chụp"], "predicate": ["7&&sáng", "8&&hơn"], "label": "COM+"}
+
+alt:	alt :
+
+des:	des :
+
+Tạm kết	Tạm kết
+
+Nhìn chung, với cả 2 mẫu máy đều thể hiện khả năng chụp ảnh ấn tượng.	Nhìn chung , với cả 2 mẫu máy đều thể hiện khả năng chụp ảnh ấn tượng .
+{"subject": ["5&&cả", "6&&2", "7&&mẫu", "8&&máy"], "object": ["5&&cả", "6&&2", "7&&mẫu", "8&&máy"], "aspect": ["12&&khả", "13&&năng", "14&&chụp", "15&&ảnh", "16&&ấn", "17&&tượng"], "predicate": ["9&&đều", "10&&thể", "11&&hiện"], "label": "EQL"}
+
+Ở chế độ chụp ban ngày, không có nhiều sự khác biệt giữa 2 chiếc Galaxy S23 Ultra và iPhone 14 series, tuy nhiên, khi màn đêm buông xuống, Samsung đã thể hiện rất tốt với cả màu ảnh, chi tiết lẫn độ sáng đều tốt hơn.	Ở chế độ chụp ban ngày , không có nhiều sự khác biệt giữa 2 chiếc Galaxy S23 Ultra và iPhone 14 series , tuy nhiên , khi màn đêm buông xuống , Samsung đã thể hiện rất tốt với cả màu ảnh , chi tiết lẫn độ sáng đều tốt hơn .
+{"subject": ["17&&Galaxy", "18&&S23", "19&&Ultra"], "object": ["21&&iPhone", "22&&14", "23&&series"], "aspect": ["2&&chế", "3&&độ", "4&&chụp", "5&&ban", "6&&ngày"], "predicate": ["8&&không", "9&&có", "10&&nhiều", "11&&sự", "12&&khác", "13&&biệt"], "label": "EQL"}
+{"subject": ["17&&Galaxy", "18&&S23", "19&&Ultra"], "object": ["21&&iPhone", "22&&14", "23&&series"], "aspect": ["42&&màu", "43&&ảnh"], "predicate": ["8&&không", "9&&có", "10&&nhiều", "11&&sự", "12&&khác", "13&&biệt"], "label": "EQL"}
+{"subject": ["17&&Galaxy", "18&&S23", "19&&Ultra"], "object": ["21&&iPhone", "22&&14", "23&&series"], "aspect": ["45&&chi", "46&&tiết"], "predicate": ["8&&không", "9&&có", "10&&nhiều", "11&&sự", "12&&khác", "13&&biệt"], "label": "EQL"}
+{"subject": ["17&&Galaxy", "18&&S23", "19&&Ultra"], "object": ["21&&iPhone", "22&&14", "23&&series"], "aspect": ["48&&độ", "49&&sáng"], "predicate": ["51&&tốt", "52&&hơn"], "label": "COM+"}
+{"subject": ["34&&Samsung"], "object": ["21&&iPhone", "22&&14", "23&&series"], "aspect": ["2&&chế", "3&&độ", "4&&chụp", "5&&ban", "6&&ngày"], "predicate": ["51&&tốt", "52&&hơn"], "label": "EQL"}
+{"subject": ["34&&Samsung"], "object": ["21&&iPhone", "22&&14", "23&&series"], "aspect": ["45&&chi", "46&&tiết"], "predicate": ["8&&không", "9&&có", "10&&nhiều", "11&&sự", "12&&khác", "13&&biệt"], "label": "EQL"}
+
+Có thể nói Galaxy S23 Ultra sở hữu hệ thống camera vô cùng tuyệt vời và đa dạng góc chụp từ gần đến siêu xa.	Có thể nói Galaxy S23 Ultra sở hữu hệ thống camera vô cùng tuyệt vời và đa dạng góc chụp từ gần đến siêu xa .
+
+Theo bạn, bạn thích ảnh chụp từ chiếc máy nào hơn?	Theo bạn , bạn thích ảnh chụp từ chiếc máy nào hơn ?
+

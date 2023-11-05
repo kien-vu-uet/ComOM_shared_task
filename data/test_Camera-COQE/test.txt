@@ -1,0 +1,6 @@
+Better digital DSRL I ever had ! 	1
+[[2&&digital 3&&DSRL];[];[];[1&&Better];[1]]
+Like the rest of the digital Elph line , there are only limited manual controls . 	1
+[[];[6&&digital 7&&Elph];[14&&manual 15&&controls];[1&&Like];[0]]
+It even can handle the output to a fairly massive 2.5 '' LCD with decent luminosity so you can see it in bright light , and you can tweak the power savings feature to whatever setting you want to conserve juice . 	0
+[[];[];[];[];[]]
